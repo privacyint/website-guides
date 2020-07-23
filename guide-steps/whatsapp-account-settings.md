@@ -25,7 +25,7 @@ To edit these settings:
 
 Last seen is the feature that allow the person you communicate with to see when you were last inside the app. This can unintentionally reveal that you had access to your phone and internet at the certain time and could be used against you. Setting this to "nobody" disables the feature.
 
-![image](http://staging.privacyinternational.org/sites/default/files/flysystem/2020-06/signal-2020-06-12-120548.png)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_privacy_1.png?token=ADBVYCXOAHVDW6ZZY5TGJEK7ELQVK)
 
 ### Two step verification
 
@@ -34,3 +34,5 @@ This feature allows you to add a password to access your Whatsapp account when l
 To enable two steps verification:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Two step verification**
+
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_2fa.png?token=ADBVYCVW2UEIKGL7P3IWM4C7ELQXS)
