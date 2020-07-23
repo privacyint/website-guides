@@ -11,7 +11,7 @@ To disable chat backup:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Chats > Chat Backup**
 
-![image](http://staging.privacyinternational.org/sites/default/files/flysystem/2020-06/signal-2020-06-12-120232.png)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_chat_backup_2.png?token=ADBVYCVECCDMGLRJIIAMCRC7ELQRW)
 
 ### Profile photo/about/status visibility
 
