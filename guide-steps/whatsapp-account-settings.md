@@ -1,3 +1,5 @@
+> Currently visible at: https://staging.privacyinternational.org/node/3916/
+
 # Summary
 Protecting your account starts with configuring the settings of your Whatsapp account to tighten your privacy and limit risks. This guide addresses backups, the primary risk in Whatsapp, profile visibility and two factor verification
 
