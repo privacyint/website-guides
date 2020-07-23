@@ -1,5 +1,7 @@
-# Collaborative guide building
+# Privacy International effort at collaborative guide building
 This repository is a mirror of all the guides available at https://privacyinternational.org/act as to enable collaboration. Creating guides and providing recommendations to users is relatively simple, maintaining these guides and recommendations to make sure we are not giving incomplete information and putting people at risk is much harder. By opening this project to the community we hope to make this maintenance a collaborative process and enhance the chances of this content not being deprecated is a year time.
+
+All guides are in Markdown and images are eventually hosted on https://privacyinternational.org.
 
 # Guide goals
 These guide steps serve different purposes but generally tackle tech issues and aim at strengthening users' privacy and security. They will usually be grouped under a narrative aimed a specific community (e.g.: A guide to protect migrants from Social Media Intelligence) but must be comprehensible and useful on their own and out of context.
