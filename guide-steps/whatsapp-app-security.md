@@ -16,7 +16,7 @@ To set a fingerprint lock:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Privacy > Fingerprint lock**
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_privacy_2.png?token=ADBVYCVECCDMGLRJIIAMCRC7ELQRW)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Whatsapp/wa_privacy_2.png?token=ADBVYCTV4O742CWEQIFSW427FAO62)
 
 ### Show security notifications
 
@@ -24,13 +24,13 @@ We suggest you turn this feature on. It will alert you when one of your contact�
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Security**
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_security_notifications.png?token=ADBVYCVECCDMGLRJIIAMCRC7ELQRW)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Whatsapp/wa_security_notifications.png?token=ADBVYCRKINON3M2IU7UFZHK7FAO4S)
 
 ### Whatsapp Web
 
 Whatsapp web allows you to use Whatsapp from a desktop in a browser by scanning a QR code. If you use this feature, you need to make sure you disconnect afterwards so that people won’t be able to read your conversations. We recommend you use Whatsapp web in private mode so that it will automatically delete your session when you close the window. You can always see the list of devices accessing your conversation by tapping looking at “Whatsapp Web” in the menu. This list should always be empty if you’re not currently using a desktop. Tap “Log out all devices” if you see something you don’t recognise here.
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_web.png?token=ADBVYCVECCDMGLRJIIAMCRC7ELQRW)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Whatsapp/wa_web.png?token=ADBVYCUXIAOCOKVAKYVRTUC7FAO3G)
 
 ### Apps settings/permissions
 
@@ -46,4 +46,4 @@ Alternatively:
 - Look for permissions
 - Find Whatsapp
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/wa_app_permissions.png?token=ADBVYCVECCDMGLRJIIAMCRC7ELQRW)
+![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Whatsapp/wa_app_permissions.png?token=ADBVYCXUMLTQSPQHTZBWT2S7FAOVO)
