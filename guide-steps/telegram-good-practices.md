@@ -17,7 +17,7 @@ To access this setting:
 - Terminate any session you don't recognise or tap *Terminate All Other Sessions* if you only use one device
 
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Telegram/tg_active.png?token=ADBVYCTI76DYJ4J4ELJQVC27GFL3E)
+![List of active sessions](../images/Telegram/tg_active.png?raw=true)
 
 ### Good practices
 

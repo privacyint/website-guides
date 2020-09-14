@@ -16,7 +16,7 @@ To access chat history:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Chat > Chat History**
 
-![image](https://raw.githubusercontent.com/privacyint/website-guides/master/images/Whatsapp/wa_chat_history.png?token=ADBVYCQHNM2BJBXRJJPSEQS7FAREA)
+![Chat history](../images/Whatsapp/wa_chat_history.png?raw=true)
 
 ### Good practices
 
