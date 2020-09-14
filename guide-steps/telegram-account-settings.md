@@ -17,7 +17,7 @@ To access any of the settings discussed here
 
 Telegram requires a phone number to create an account. By default, this phone number will be visible by your Telegram contacts. If you have given Telegram access to your contact books when creating your account, this means all these contact will be able to see your phone number and know that you are using Telegram. To avoid this behavior, you can set the visibility to "nobody" so that even the people in your contact book will only be able to see your Telegram handle and not your phone number. We recommend this as it also prevent strangers from finding you on Telegram via your handle (the @username) and seeing your phone number.
 
-![image](../images/Telegram/tg_phonenum.png?raw=true)
+![Phone number visibility](../images/Telegram/tg_phonenum.png?raw=true)
 
 ### Last seen & online
 
