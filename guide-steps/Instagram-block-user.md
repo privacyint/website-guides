@@ -1,4 +1,4 @@
-Currently visible at: https://privacyinternational.org/node/3866
+*Currently visible at: https://privacyinternational.org/node/3866*
 
 # Instagram - Blocking users
 
