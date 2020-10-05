@@ -1,4 +1,6 @@
 
+*Currently visible at:https://privacyinternational.org/node/4093*
+
 # Viber - Good Practices
 
 Settings can only do so much to protect you. Your security and privacy also comes from how you use the app. This guides covers short concrete advice on good practices to follow when using this app.
