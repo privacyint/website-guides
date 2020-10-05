@@ -1,3 +1,4 @@
+*Currently visible at: https://privacyinternational.org/node/3958*
 # Facebook - Post Settings
 
 This Guide Step covers the settings you can apply to your posts on Facebook, mainly who can see your posts.
