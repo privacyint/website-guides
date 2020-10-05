@@ -24,7 +24,7 @@ These settings can unintentionaly reveal that you had access to your phone and i
 
 In case you are using Viber to talk to people that you do not fully trust, we recommend you do not show your photo or use a generic image as your profile photo.
 
-![Viber Privacy Settings Pt.2](../images/Viber/viber-privacy-2.jpeg?raw=true)
+![Viber Privacy Settings Pt.2](../images/Viber/viber-privacy-2.jpg?raw=true)
 
 #### Use Peer-to-Peer
 
@@ -36,6 +36,6 @@ In order to mitigate this risk we suggest you disable this feature.
 
 The settings under 'Personal Data' allow you to control how Viber and third parties use your data.
 
-![Viber Personnal Data](../images/Viber/viber-privacy-3.jpeg?raw=true)
+![Viber Personnal Data](../images/Viber/viber-privacy-3.jpg?raw=true)
 
 We recommend disabling all of these features. They do not improve your user experience of the app and this way your digital footprint is reduced. If you are curious to see what data Viber has collected on you you can **Request your data**. After you have disabled these settings it's best to also **Delete Your Data**, so that you make sure you delete any data Viber had collected on you before you took action.
