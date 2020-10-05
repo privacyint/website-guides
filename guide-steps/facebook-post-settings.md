@@ -14,4 +14,4 @@ You can also set who you want to be able to see your friend list, or search your
 
 If you are using the **Facebook App** go to **Menu > Settings & Privacy > Settings > Privacy Settings > Who can see your future posts?**
 
-![Privacy Settings iOS](../images/Facebook/fb-post-2.png?raw=true)
+![Privacy Settings iOS](../images/Facebook/fb-post-2.PNG?raw=true)
