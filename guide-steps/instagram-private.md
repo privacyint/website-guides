@@ -1,3 +1,5 @@
+*Currently visible at:https://privacyinternational.org/node/3962*
+
 # Instagram - Making your account private
 
 This is the first step in improving your privacy on Instagram. When you first create your account, it is set as "public" by default, meaning anybody can find it and see what you share.
