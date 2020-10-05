@@ -9,5 +9,5 @@ Blocking someone on Instagram will make them unable to find your profile, storie
 * Go to the profile you wish to block.
 * Click the three dots on the top right corner, select Block and then confirm.
 
-![Block user](../images/Instagram/instagram-block-1.png?raw=true)
+![Block user](../images/Instagram/instagram-block-1.PNG?raw=true)
  
