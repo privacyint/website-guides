@@ -9,7 +9,7 @@ To access the settings discussed here, on the Viber app:
 * Tap the three dots on the bottom right corner of the screen
 * Tap **Settings > Privacy**
 
-![Viber Privacy Settings](../images/Viber/viber-privacy-1.png?raw=true)
+![Viber Privacy Settings](../images/Viber/viber-privacy-1.PNG?raw=true)
 
 #### Share 'Online' Status and Send 'Seen' Status
 
@@ -24,7 +24,7 @@ These settings can unintentionaly reveal that you had access to your phone and i
 
 In case you are using Viber to talk to people that you do not fully trust, we recommend you do not show your photo or use a generic image as your profile photo.
 
-![Viber Privacy Settings Pt.2](../images/Viber/viber-privacy-2.png?raw=true)
+![Viber Privacy Settings Pt.2](../images/Viber/viber-privacy-2.PNG?raw=true)
 
 #### Use Peer-to-Peer
 
