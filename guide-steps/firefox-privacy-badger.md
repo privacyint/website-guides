@@ -24,11 +24,11 @@ Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 and clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when
 prompted (Fig. 2).
 
-![Fig. 1: Download Privacy Badger](./img/badger-add.png)
+![Fig. 1: Download Privacy Badger](../images/Firefox/badger-add.png)
 
-![Fig. 2: Add Privacy Badger to Firefox](./img/badger-prompt.png)
+![Fig. 2: Add Privacy Badger to Firefox](../images/Firefox/badger-prompt.png)
 
-![Fig. 3: Notification of successful installation](./img/badger-notify.png)
+![Fig. 3: Notification of successful installation](../images/Firefox/badger-notify.png)
 
 Upon successful installation, a notification appears on the top-right corner and
 the Privacy Badger icon is added to your toolbar (Fig. 3). When you visit a
@@ -39,6 +39,6 @@ Badger works, click the icon and then click **Learn how Privacy Badger protects
 your privacy** (Fig. 5), or visit its [official
 documentation](https://privacybadger.org/).
 
-![Fig. 4: Privacy Badger pop-up interface](./img/badger-test.png)
+![Fig. 4: Privacy Badger pop-up interface](../images/Firefox/badger-test.png)
 
-![Fig. 5: Learn more about Privacy Badger](./img/badger-learn.png)
+![Fig. 5: Learn more about Privacy Badger](../images/Firefox/badger-learn.png)

@@ -21,18 +21,18 @@ Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) and
 clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when prompted
 (Fig. 2).
 
-![Fig. 1: Download uBlock Origin](./img/ublock-add.png)
+![Fig. 1: Download uBlock Origin](../images/Firefox/ublock-add.png)
 
-![Fig. 2: Add uBlock Origin to Firefox](./img/ublock-prompt.png)
+![Fig. 2: Add uBlock Origin to Firefox](../images/Firefox/ublock-prompt.png)
 
-![Fig. 3: Notification of successful installation](./img/ublock-notify.png)
+![Fig. 3: Notification of successful installation](../images/Firefox/ublock-notify.png)
 
 Upon successful installation a notification appears on the top-right corner, and
 the uBlock Origin icon is added to your toolbar (Fig. 3). When you visit a
 website, uBlock Origin automatically blocks malicious trackers and ads, which
 you can check by clicking the icon (Fig. 4).
 
-![Fig. 4: uBlock Origin pop-up interface](./img/ublock-test.png)
+![Fig. 4: uBlock Origin pop-up interface](../images/Firefox/ublock-test.png)
 
 uBlock Origin is a powerful, highly configurable tool to block any network
 request on your browser. If you are interested in more advanced usage, visit the

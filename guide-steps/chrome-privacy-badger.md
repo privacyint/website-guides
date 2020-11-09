@@ -23,11 +23,11 @@ malicious ads and trackers.
 Add-ons page](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) and clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when
 prompted (Fig. 2).
 
-![Fig. 1: Download Privacy Badger](./img/badger-add.png)
+![Fig. 1: Download Privacy Badger](../images/Chrome/badger-add.png)
 
-![Fig. 2: Add Privacy Badger to Chrome](./img/badger-prompt.png)
+![Fig. 2: Add Privacy Badger to Chrome](../images/Chrome/badger-prompt.png)
 
-![Fig. 3: Notification of successful installation](./img/badger-notify.png)
+![Fig. 3: Notification of successful installation](../images/Chrome/badger-notify.png)
 
 Upon successful installation, a notification page opens on your browser and
 the Privacy Badger icon is added to the extension menu on your toolbar (Fig. 3).
@@ -39,6 +39,6 @@ toolbar icon (Fig. 4). To learn more about how Privacy Badger works, click the
 icon and then click **Learn how Privacy Badger protects your privacy** (Fig. 5), or
 visit its [official documentation](https://privacybadger.org/).
 
-![Fig. 4: Privacy Badger pop-up interface](./img/badger-test.png)
+![Fig. 4: Privacy Badger pop-up interface](../images/Chrome/badger-test.png)
 
-![Fig. 5: Learn more about Privacy Badger](./img/badger-learn.png)
+![Fig. 5: Learn more about Privacy Badger](../images/Chrome/badger-learn.png)
