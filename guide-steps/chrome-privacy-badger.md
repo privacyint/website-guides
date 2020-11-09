@@ -19,8 +19,8 @@ malicious ads and trackers.
 
 ### Installation ###
  
- Like any other add-on, install Privacy Badger by visiting the [Mozilla Chrome
-Add-ons page](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) and clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when
+ Like any other add-on, install Privacy Badger by visiting the [Chrome Web Store](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+and clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when
 prompted (Fig. 2).
 
 ![Fig. 1: Download Privacy Badger](../images/Chrome/badger-add.png)
