@@ -3,16 +3,17 @@ Install an ad-blocker on Firefox - Privacy Badger
 
 # Summary #
 
-Online tracking and advertisement services are a severe threat for your online
-privacy, since they follow you everywhere and collect as much data as they can,
-over which you have no control. As such, when browsing the web, it is critical
-to block these services from communicating with our browser. Privacy Badger is a
-browser add-on to block ads and trackers from tracking you, by learning about
-their behavior in real time: if an advertiser seems to be tracking your
-browsing, Privacy Badger blocks it. As such, it works well alongside uBlock
-Origin, which keeps a manually curated list on malicious services. Privacy
-Badger is a project of the Electronic Frontier Foundation and has a strong
-[privacy policy](https://www.eff.org/code/privacy/policy).
+<!-- Online tracking and advertisement services are a severe threat for your online -->
+<!-- privacy, since they follow you everywhere and collect as much data as they can, -->
+<!-- over which you have no control. As such, when browsing the web, it is critical -->
+<!-- to block these services from communicating with our browser. -->
+
+Privacy Badger is a browser add-on to block ads and trackers from tracking you.
+It keeps an up-to-date list of known trackers that it finds through automated
+tests, and regularly pushes the updated list to your browser. As such, it works
+well alongside uBlock Origin, which keeps a manually curated list on malicious
+services. Privacy Badger is a project of the Electronic Frontier Foundation and
+has a strong [privacy policy](https://www.eff.org/code/privacy/policy). 
 
 In this guide, you'll learn how to install Privacy Badger on Firefox to block
 malicious ads and trackers.
