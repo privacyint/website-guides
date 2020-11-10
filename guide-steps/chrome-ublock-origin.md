@@ -3,14 +3,16 @@ Install an ad-blocker on Chrome - uBlock Origin
 
 # Summary #
 
-Online tracking and advertisement services are a severe threat for your online
-privacy, since they follow you everywhere and collect as much data as they can,
-over which you have no control. As such, when browsing the web, it is critical
-to block these services from communicating with our browser. uBlock Origin is a
-general purpose blocker for web browsers that by default blocks ads, trackers,
-and malware sites. We highly recommend it because it's fast and user-friendly,
-has sane defaults with impeccable results, and, unlike many others (which we
-advise **against**), does not collect nor process user data of any kind.
+<!-- Online tracking and advertisement services are a severe threat to your online -->
+<!-- privacy, since they follow you everywhere and collect as much data as they can, -->
+<!-- over which you have no control. As such, when browsing the web, it is critical -->
+<!-- to block these services from communicating with our browser.  -->
+
+uBlock Origin is a general purpose blocker for web browsers that by default
+blocks ads, trackers, and malware sites. We highly recommend it because it's
+fast and user-friendly, has good defaults with impeccable results, and, unlike
+many others (which we advise **against**), does not collect nor process user
+data of any kind.
 
 In this guide, you'll learn how to install uBlock Origin on Chrome to block
 malicious ads, trackers, and websites.
