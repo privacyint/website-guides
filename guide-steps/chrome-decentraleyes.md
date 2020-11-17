@@ -3,17 +3,12 @@
 Install a CDN-emulator on Chrome - Decentraleyes
 
 # Summary #
+<!-- Websites are increasingly relying more on large third-parties for content delivery. As a result, such third-parties
+can --> <!-- track your online activity while you browse the web. -->
 
-Websites are increasingly relying much more on large third-parties for content
-delivery. As a result, such third-parties can track your online activity
-while you browse the web. Decentraleyes is a browser add-on used for local
-content delivery network (CDN) emulation, that protects your privacy by evading
-large CDNs (e.g. Google). Decentraleyes blocks connections to CDNs, and instead
-serves the assets (e.g. web libraries, fonts) locally, as opposed to from a
-server.
-
-In this guide, you'll learn how to install Decentraleyes on Chrome to prevent
-CDNs from tracking your online activity.
+Decentraleyes is a browser add-on used for local content delivery network (CDN) emulation, that protects your privacy by
+evading large CDNs (e.g. Google). In this guide, you'll learn how to install Decentraleyes on Chrome to prevent CDNs
+from tracking your online activity.
 
 ### Installation ###
 Like any other add-on, install Decentraleyes by visiting the [Chrome Web
