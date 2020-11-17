@@ -2,23 +2,23 @@
 Setup DNS-level ad-blocking on Linux
 
 # Summary #
-In the Internet, requests are routed to IP addresses. Since IP addresses can
-change frequently, when your computer wants to access a URL (e.g.
-www.reuters.com), it asks a DNS server what the IP address for that URL is, so
-that it can route the request. If the DNS server can not resolve the URL, your
-request will fail. In this guide you'll learn how to manually insert invalid DNS
-entries for known ad-servers and trackers, so that the requests are blocked on your
-device. Unlike browser add-ons, DNS-level ad-blocking works on *any* application
-or service running on your device.
+
+In this guide you'll learn how to manually insert invalid DNS entries for known ad-servers and trackers, so that the
+requests are blocked on your device. Unlike browser add-ons, DNS-level ad-blocking works on *any* application or service
+running on your device.
 
 ### Setup ###
 
-When your operating systems wants to resolve a hostname, the first method it tries is to checks your system's *hosts
-file* for an address to that hostname. Only if the hostname is not present in the file will the operating system ask a
-DNS server to resolve it. To setup DNS-level ad-blocking, we will add a list of malicious hostnames to the hosts file
-and point them to an invalid address, to ensure requests to those hosts are blocked. The online community provides and
-maintains several of these lists according to the type of services you want to block (ads, trackers, fake news, social
-media, etc.). In this guide, we suggest you use the [unified hosts
+In the Internet, requests are routed to IP addresses. Since IP addresses can change frequently, when your computer wants
+to access a server by its hostname (e.g. reuters.com), it asks a DNS server what the IP address for that hostname is, so
+that it can route the request. Typically, your operating systems first checks your system's *hosts file* for an address
+corresponding to the hostname. Only if the hostname is not present in the file will the operating system ask a DNS
+server to resolve it.
+
+To setup DNS-level ad-blocking, we will add a list of known malicious ad-servers and trackers to the hosts file and
+point them to an invalid address, to ensure requests to those hosts are blocked. These lists are provided and maintained
+by the online community. You can find several list to block different types of services (e.g. ads, trackers, fake news,
+social media, etc.). In this guide, we suggest you use the [unified hosts
 list](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) from Steven Black to block ads and trackers.
 
 To download the hosts list to the correct location, open a terminal window and type:
