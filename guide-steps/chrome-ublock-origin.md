@@ -16,7 +16,8 @@ data of any kind.
 
 In this guide, you'll learn how to install uBlock Origin on Chrome to block
 malicious ads, trackers, and websites.
-# 
+
+# Body #
 
 ### Installation ###
 Like any other add-on, install uBlock Origin by visiting the [Chrome Web

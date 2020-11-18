@@ -8,6 +8,7 @@ have cookies stored so that you don't have to login each time you visit. In this
 setup Firefox Multi-Account Containers to keep parts of your online activity isolated from each other, thus reducing
 your digital footprint.
 
+# Body #
 
 ### Installation ###
 

@@ -6,6 +6,8 @@ In this guide you'll learn how to manually insert invalid DNS entries for known 
 trackers, malware websites) so that those requests are blocked on your device. Unlike browser add-ons, DNS-level
 ad-blocking works on *any* application or service running on your device.
 
+# Body #
+
 ### Setup ###
 In the Internet, requests are routed to IP addresses. Since IP addresses are hard to remember, we usually address hosts
 by their host-name (e.g privacyinternational.org). As such, and because IP addresses can change frequently, when your

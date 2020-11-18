@@ -13,13 +13,15 @@ It keeps an up-to-date list of known trackers that it finds through automated
 tests, and regularly pushes the updated list to your browser. As such, it works
 well alongside uBlock Origin, which keeps a manually curated list on malicious
 services. Privacy Badger is a project of the Electronic Frontier Foundation and
-has a strong [privacy policy](https://www.eff.org/code/privacy/policy). 
+has a strong [privacy policy](https://www.eff.org/code/privacy/policy).
 
 In this guide, you'll learn how to install Privacy Badger on Firefox to block
 malicious ads and trackers.
 
+# Body #
+
 ### Installation ###
- 
+
 Like any other add-on, install Privacy Badger by visiting the [Mozilla Firefox
 Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 and clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when

@@ -4,13 +4,14 @@ Install a user agent switcher on Firefox - Random User Agent
 
 # Summary #
 
-When you access a website, your browser sends a string called the *User Agent*. This string contains your browser's name,
-operating system, and other technical metadata of your device, so that the website can respond to your request
-appropriately (e.g. showing different content if you are on mobile). Unfortunately, this metadata is often used by
-trackers to build a *fingerprint* of your system and being able to identify you throughout the web.
+When you access a website, your browser sends a string called the *User Agent*. This string contains your browser's
+name, operating system, and other technical metadata of your device. Unfortunately, this metadata is often used by
+trackers to build a *fingerprint* of your system and identify you throughout the web.
 
 In this guide, you'll learn how to install Random User Agent on Firefox to periodically change your browser's user agent
-and avoid trackers from fingerprinting you.
+and prevent trackers from fingerprinting you.
+
+# Body #
 
 ### Installation ###
 Like any other add-on, install Random User Agent by visiting the [Mozilla Firefox Add-ons

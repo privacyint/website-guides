@@ -2,13 +2,13 @@
 Setup DNS-level ad-blocking on Linux
 
 # Summary #
-
 In this guide you'll learn how to manually insert invalid DNS entries for known malicious hosts (e.g. ad-servers,
 trackers, malware websites) so that those requests are blocked on your device. Unlike browser add-ons, DNS-level
 ad-blocking works on *any* application or service running on your device.
 
-### Setup ###
+# Body #
 
+### Setup ###
 In the Internet, requests are routed to IP addresses. Since IP addresses are hard to remember, we usually address hosts
 by their host-name (e.g privacyinternational.org). As such, and because IP addresses can change frequently, when your
 computer wants to access a server by its host-name, it asks a DNS server what the IP address for that host-name is, so

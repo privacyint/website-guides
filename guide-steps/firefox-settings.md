@@ -2,9 +2,11 @@
 Adjusting Firefox settings to enhance your online privacy
 
 # Summary #
-Firefox is well-known for respecting and protecting its users privacy. However, there are some changes which you should
-apply to the default configuration to harden your online privacy. In this guide you'll learn how to configure
-your Firefox browser settings to better protect your online activity.
+Firefox is well-known for respecting and protecting its users privacy. However, there are some changes which you could
+apply to the default configuration to harden your online privacy. In this guide you'll learn how to configure your
+Firefox browser settings to better protect your online activity.
+
+# Body #
 
 ### Changing settings in Firefox menu ###
 To change basic privacy settings in Firefox, access the preferences menu by clicking on **Edit > Preferences** on the menu-bar, or by
@@ -41,11 +43,10 @@ Continue** to enter the settings page. .
 
 ![Fig. 5: Firefox advanced settings page](../images/Firefox/settings-config-warning.png)
 
-The privacy settings you should apply in this page are presented below (Table 1). Next to each setting is the value you
+The privacy settings you could apply in this page are presented below (Table 1). Next to each setting is the value you
 should set it to, as well as a brief summary on what that setting concerns. To set an option, enter its name in the
 search bar, and then double click to change the value. When you do so, the updated value is highlighted in bold and is
 automatically saved (Fig. 6)
-
 
 ![Fig. 6: Set an advanced Firefox setting](../images/Firefox/settings-config-change.png)
 
@@ -58,7 +59,6 @@ automatically saved (Fig. 6)
 | `geo.enabled`                                       | `false` | Disable location services, since they go through Google's servers                                 |
 | `network.prefetch-next`                             | `false` | Disable pre-fetching of webpages as this can pose a privacy risk                                  |
 | `network.websocket.enabled`                         | `false` | If you use a VPN, the use of WebSockets can leak your real IP address                             |
-| `dom.event.contextmenu.enabled`                     | `false` | Forbid websites from disallowing you to right-click                                               |
 | `dom.event.clipboardevents.enabled`                 | `false` | Prevent websites from getting a notification when you copy, cut, or paste something from the page |
 | `media.peerconnection.enabled`                      | `false` | If you use a VPN, the use of WebRTC can leak your real IP address                                 |
 | `dom.battery.enabled`                               | `false` | Prevent websites from reading your battery level                                                  |

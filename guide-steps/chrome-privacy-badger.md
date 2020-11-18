@@ -18,8 +18,10 @@ has a strong [privacy policy](https://www.eff.org/code/privacy/policy).
 In this guide, you'll learn how to install Privacy Badger on Chrome to block
 malicious ads and trackers.
 
+# Body #
+
 ### Installation ###
- 
+
  Like any other add-on, install Privacy Badger by visiting the [Chrome Web
 Store](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 and clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when

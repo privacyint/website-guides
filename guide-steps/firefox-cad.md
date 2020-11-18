@@ -8,6 +8,8 @@ shopping basket. Unfortunately, they are often abused to track your online activ
 you'll learn how to install Cookie AutoDelete, a web-browser add-on to automatically delete unused cookies. By doing so,
 when you visit a website, its cookies are unable to cross reference your activity on other websites.
 
+# Body #
+
 ### Installation ###
 
 Like any other add-on, install Cookie AutoDelete by visiting the [Mozilla Firefox Add-ons
