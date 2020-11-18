@@ -3,10 +3,10 @@ Install a cookie manager on Firefox - Cookie AutoDelete
 
 # Summary #
 
-Browser cookies are a useful tool for websites to preserve your session data such as login credentials or items in your
-shopping basket. Unfortunately, they are often abused to track your online activity across websites. In this guide
-you'll learn how to install Cookie AutoDelete, a web-browser add-on to automatically delete unused cookies. By doing so,
-when you visit a website, its cookies are unable to cross reference your activity on other websites.
+Browser cookies allow websites to preserve session data such as your login credentials or items in your shopping basket
+so that you don't lose information when you close the page. Unfortunately, they are often abused to track your online
+activity across the web. In this guide you'll learn how to install Cookie AutoDelete, a web-browser add-on that
+automatically deletes unused cookies, to make it harder to tracker your activity.
 
 # Body #
 
@@ -29,15 +29,27 @@ website. By clicking the icon (Fig. 4), you are able to clean cookies, and also 
 
 ![Fig. 4: Cookie AutoDelete pop-up interface](../images/Firefox/cad-test.png)
 
-After installation, we **strongly** advise you to enable Automatic Cleanup. You can do so by clicking the icon (Fig. 4)
-and then clicking on **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when
-you close a browser tab, any cookies not being used are automatically deleted.
+The extension disables automatic cleanup by default. To enable it, click the icon (Fig. 4) and then click on
+**Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser
+tab, any cookies no longer in use are automatically deleted.
+
+### Avoid tracking from whitelisted cookies ###
 
 ![Fig. 5: Disable support for Firefox Containers](../images/Firefox/cad-containers.png)
 
-Typically, you'd want to whitelist websites where you are logged-in frequently (e.g. email, social network) so that you
-don't have to log-in each time you visit. However, we advise you **against** doing this, since whitelisted cookies may
-still communicate with temporary cookies, and thus track your activity. Instead, we redirect you to our guide on Firefox
-Multi-Containers, and advise you on creating a container for any domain which you'd want whitelisted. For this to work,
-it's important to keep the setting **Enable Support for Firefox's Container Tabs** disabled (Fig. 5). This way, your
-permanent cookies are isolated from your temporary cookies, preventing them from following your activity.
+If you want to disable Cookie AutoDelete for some website (e.g. your email client), you can whitelist it by clicking the
+icon and then clicking on **Whitelist** (Fig. 4). However, note that whitelisted cookies may still communicate between themselves
+and temporary cookies, thus tracking your activity. The two options below help you avoid this behaviour.
+
+#### Use Firefox Multi-Containers ####
+
+To ensure cookies from whitelisted domains remain isolated, you can create one container for each whitelisted domain. To
+learn more about Firefox Multi-Account Containers read [our guide on how to set it up](firefox-containers.md). For this
+to work, it's important to keep the setting **Enable Support for Firefox's Container Tabs** disabled (Fig. 5).
+
+#### Enable First Party Isolation ####
+
+You can also enable First Party Isolation so that cookies from different domains are isolated. This is the most
+effective way to ensure temporary cookies do not cross-reference your activity before they are deleted. Note, however,
+that this may introduce some performance penalty. To learn how to enable First Party Isolation in Firefox, read our guide
+on [Firefox privacy settings](firefox-settings.md).

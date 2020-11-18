@@ -2,11 +2,11 @@
 Install a CDN-emulator on Firefox - Decentraleyes
 
 # Summary #
-<!-- Websites are increasingly relying more on large third-parties for content delivery. As a result, such third-parties
-can track your online activity while you browse the web. -->
-Decentraleyes is a browser add-on used for local content delivery network (CDN) emulation, that protects your privacy by
-evading large CDNs (e.g. Google). In this guide, you'll learn how to install Decentraleyes on Firefox to prevent CDNs
-from tracking your online activity.
+Websites are increasingly relying more on third-party free Content Delivery Networks (CDN) to speed up content delivery.
+Although this is beneficial, it also poses a serious privacy risk since CDNs (e.g. Google Hosted Libraries), being
+omnipresent on the web, have the capability to track your behaviour. Decentraleyes is a browser add-on used for local
+content delivery network (CDN) emulation, that protects your privacy by evading large CDNs. In this guide, you'll learn
+how to install Decentraleyes on Firefox to prevent CDNs from tracking your online activity.
 
 # Body #
 
