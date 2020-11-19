@@ -41,9 +41,9 @@ get entries pointing to familiar hostnames (e.g. Google, Facebook, Twitter, etc)
 with. Delete it and choose another from the provided lists!
 
 If the hosts file is OK, the final step is to move it to the correct location. On Linux systems, that's typically
-`/etc/hosts`. Please note that you should only move it if you do not have custom entries on your hosts file. If you do,
-you should manually append the contents (open both files on your text editor and copy-paste the contents). Otherwise, in
-the same terminal window, type the following command.
+`/etc/hosts`. Please note that if you have custom entries on your hosts file, you need to manually merge both files
+(open both files on your text editor and copy-paste the contents). Otherwise, in the same terminal window, type the
+following command.
 
 ```bash
 sudo mv hosts /etc
