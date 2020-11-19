@@ -22,20 +22,39 @@ provided and maintained by the online community, and you can pick several lists 
 (e.g. ads, trackers, fake news, social media, etc.). In this guide, we suggest you use the [unified hosts
 list](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) from Steven Black to block ads and trackers.
 
-To download the hosts list to the correct location, open a terminal window and type:
+To download the hosts list, open a terminal window and type the following command
 
 ```bash
-sudo wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O /etc/
+wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O hosts
 ```
-(Fig. 1)
+
+and then press Enter. The file will be downloaded to your current directory. Before placing it in the correct location,
+it's important to inspect the contents of the file, to ensure it does not contain malicious entries (e.g. facebook.com
+pointing to a phishing address). To do so, you will use `grep`. In the same terminal window, type the following command
+
+```bash
+grep -E '^(\s*)[1-9]{1,3}\.[1-9]{1,3}\.[1-9]{1,3}\.[1-9]{1,3}' hosts
+```
+
+and then press Enter. You should only get one line in return, for the address `255.255.255.255`, which is fine. If you
+get entries pointing to familiar hostnames (e.g. Google, Facebook, Twitter, etc), the hosts file may have been tampered
+with. Delete it and choose another from the provided lists!
+
+If the hosts file is OK, the final step is to move it to the correct location. On Linux systems, that's typically
+`/etc/hosts`. To be sure, check the manual for your distribution. In the same terminal window, type the following
+command.
+
+```bash
+sudo mv hosts /etc
+```
 
 Click Enter and you will be prompted to enter your password. Write your password in the prompt (it will not show up as
-you type, and that's expected) and click Enter again. If nothing fails, you should now have the content of the hosts
-list placed in your hosts file, which you can check by inspecting the `/etc/hosts` file in your text editor.
+you type, and that's expected) and click Enter again. For the changes to have effect, you need to either restart your network
+service (check your distribution's manual for instructions on how to do that), or reboot the machine.
 
-After you reboot your device, your operating system will block any request to ad-servers and trackers contained in your
-hosts file. To keep the hosts file up to date, you should periodically run the install command (Fig. 1). Beware that,
-unlike browser ad-blockers, DNS-level ad-blocking will **not** remove the ad from web-pages - it merely blocks the
-connection, but you will still see an empty box where the ad would be. As such, installing a web browser ad-blocker
-(such as uBlock Origin) that clears the ad space from web-pages is a good complement to modifying your hosts file and
-provides you with a cleaner experience while browsing the web.
+From now on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To
+keep the hosts file up to date, you should periodically run the install command. Beware that, unlike browser
+ad-blockers, DNS-level ad-blocking will **not** remove the ad from web-pages - it merely blocks the connection, but you
+will still see an empty box where the ad would be. As such, installing a web browser ad-blocker (such as uBlock Origin)
+that clears the ad space from web-pages is a good complement to modifying your hosts file and provides you with a
+cleaner experience while browsing the web.
