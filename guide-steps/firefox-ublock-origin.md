@@ -13,8 +13,8 @@ this guide, you'll learn how to install uBlock Origin on Firefox.
 
 # Body #
 
-> **Warning**: Using an ad-blocker may cause some pages to display incorrectly or not at all. To prevent such cases, we
-> show how to disable the extension in that page.
+> **Warning**: Using an ad-blocker may cause some pages to display incorrectly or not at all. To prevent this behaviour,
+> we show how to disable the extension in such cases.
 
 ### Installation ###
 Like any other add-on, install uBlock Origin by visiting the [Mozilla Firefox
@@ -28,8 +28,8 @@ clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when prompted
 
 ![Fig. 3: Notification of successful installation](../images/Firefox/ublock-notify.png)
 
-Upon successful installation a notification appears on the top-right corner, and
-the uBlock Origin icon is added to your toolbar (Fig. 3).
+Upon successful installation a notification appears on the top-right corner, and the uBlock Origin icon is added to your
+toolbar (Fig. 3).
 
 When you visit a website, uBlock Origin automatically blocks malicious trackers and ads, which you can check by clicking
 on the icon (Fig. 4).
@@ -39,6 +39,9 @@ on the icon (Fig. 4).
 To disable uBlock Origin in a given website, click on the icon (Ctrl+click to disable temporarily) and then click on the
 large power button (Fig. 4). Finally, reload the page either by clicking the reload icon on uBlock Origin (Fig. 5) or by
 refreshing the page in your browser.
+
+
+![Fig. 5: uBlock Origin whitelist a domain](../images/Firefox/ublock-whitelist.png)
 
 uBlock Origin is a powerful, highly configurable tool to block any network request on your browser. If you are
 interested in more advanced usage, visit the [official documentation page](https://github.com/gorhill/uBlock/wiki).
