@@ -34,7 +34,7 @@ phishing address that steals your credit card information). To do so, you can us
 type the following command
 
 ```bash
-grep -E '^(\s*)[1-9]{1,3}\.[1-9]{1,3}\.[1-9]{1,3}\.[1-9]{1,3}\s*.*\..*' hosts
+grep -E '^(\s*)[1-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s*.*\..*' hosts
 ```
 
 and then press Enter. If there's any output, the file might have been tampered with. Delete it and choose another from
