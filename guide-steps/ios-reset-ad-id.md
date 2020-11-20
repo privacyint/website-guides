@@ -9,10 +9,6 @@ Ad ID or by opting out completely.
 
 # Body #
 
-### Renew your Ad ID ###
-To renew your Ad ID on iOS, open the **Settings** application, navigate to **Privacy > Advertising** and then
-click on **Reset Advertising Identifier** (Fig. 1).
-
 ### Opt out of targeted advertising ###
 To prevent that data collected from your device reaches advertisers and trackers, you can opt out of targeted
 advertisements. Targeted advertisements pose a serious privacy risk since they are served to you based on data points
@@ -22,3 +18,7 @@ your favourite game.
 To opt out of targeted ads based on location, open the **Settings** app and go to **Privacy > Location Services > System
 Services** and turn off **Location-Based Apple Ads** (Fig. 2). To opt out of targeted ads from any other data points,
 open the **Settings** app and go to **Privacy > Advertising** and turn on **Limit Ad Tracking** (Fig. 3).
+
+### Renew your Ad ID ###
+To renew your Ad ID on iOS, open the **Settings** application, navigate to **Privacy > Advertising** and then
+click on **Reset Advertising Identifier** (Fig. 1).
