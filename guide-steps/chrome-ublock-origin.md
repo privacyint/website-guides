@@ -8,7 +8,6 @@ Install an ad-blocker on Chrome (and derivates) - uBlock Origin
 <!-- over which you have no control. As such, when browsing the web, it is critical -->
 <!-- to block these services from communicating with our browser.  -->
 
-
 uBlock Origin is a general purpose blocker for web browsers that blocks ads, trackers, and malware sites by default. In
 this guide, you'll learn how to install uBlock Origin on Chrome (and its derivates, e.g. Edge, Opera, Chromium, Brave,
 etc.).
@@ -27,12 +26,10 @@ when prompted (Fig. 2).
 
 ![Fig. 3: Notification of successful installation](../images/Chrome/ublock-notify.png)
 
-Upon successful installation a notification appears on the top-right corner, and
-the uBlock Origin icon is added to the extension menu on your toolbar (Fig. 3).
-To pin the icon on the toolbar, click the extension menu, and then click the pin
-next to the uBlock Origin icon. When you visit a website, uBlock Origin
-automatically blocks malicious trackers and ads, which you can check by clicking
-the icon (Fig. 4).
+Upon successful installation a notification appears on the top-right corner, and the uBlock Origin icon is added to the
+extension menu on your toolbar (Fig. 3). To pin the icon on the toolbar, click the extension menu, and then click the
+pin next to the uBlock Origin icon. When you visit a website, uBlock Origin automatically blocks malicious trackers and
+ads, which you can check by clicking the icon (Fig. 4).
 
 ![Fig. 4: uBlock Origin pop-up interface](../images/Chrome/ublock-test.png)
 

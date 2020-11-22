@@ -7,7 +7,7 @@ Install an ad-blocker on iOS - Blokada
 
 ### Installation ###
 
-Install Blokada by visiting the [Apple App Store](https://apps.apple.com/us/app/blokada/id1508341781) and then click on **Get** (Fig. 1), and confirm by clicking **Install** when prompted (Fig. 2).
+To install Blokada, visit its [Apple App Store page](https://apps.apple.com/us/app/blokada/id1508341781), click on **Get** (Fig. 1), and confirm by clicking **Install** when prompted (Fig. 2).
 
 ![Fig. 1: App store page for Blokada](../images/ios/blockada-app-store.jpg)
 
