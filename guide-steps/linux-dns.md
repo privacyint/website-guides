@@ -51,9 +51,10 @@ sudo mv hosts /etc
 
 Click Enter and you will be prompted to enter your password. Write your password in the prompt (it will not show up as
 you type, and that's expected) and click Enter again. For the changes to have effect, you need to either restart your
-network service (check your distribution's manual for instructions on how to do that), or reboot the machine. From now
-on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To keep the
-hosts file up to date, periodically repeat the steps in this guide.
+network service (check your distribution's manual for instructions on how to do that), or reboot the machine.
+
+From now on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To
+keep the hosts file up to date, periodically repeat the steps in this guide.
 
 
 <!-- Beware that, unlike browser ad-blockers, DNS-level ad-blocking will **not** visually remove ads from web-pages - it -->
