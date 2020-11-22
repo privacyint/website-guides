@@ -18,7 +18,6 @@ Targeted advertisements pose a serious privacy risk since they are served to you
 location history, your name and address, the music you listen to, or how many levels you've completed in your favourite
 game.
 
-
 To opt out of targeted ads from any other data points, open the **Settings** app and go to **Privacy > Ads** and
 enable **Opt out of Ads Personalisation** (Fig. 1).
 
