@@ -3,7 +3,8 @@ Install an ad-blocker on Android - Blokada
 
 # Summary #
 
-
+Blokada is a free and open-source mobile application that uses DNS servers to block ads and trackers on your device to
+enhance your privacy. In this guide you'll learn how to install Blokada on your Android device.
 
 # Body #
 
@@ -31,7 +32,7 @@ monitor or filter your regular network traffic. Click on **OK** to proceed with 
 ![Fig. 4: Allow Blokada to setup a VPN](../images/Android/blokada-vpn.jpg)
 
 Blokada should be enabled now. To select a blocking list, click on the **Advanced** tab (Fig. 5), and then select one
-(or more) from the list. As in our DNS-blocking guide, we recommend you use Steven Black hosts list, as it is often
+(or more) from the list. You might want to use the same list we suggest in our DNS guides, Steven Black hosts list, as it is often
 updated (the first item, Energized, was last updated on 2018).
 
 ![Fig. 5: Select a blocking list](../images/Android/blokada-lists.jpg)
