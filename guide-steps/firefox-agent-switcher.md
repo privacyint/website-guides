@@ -1,4 +1,4 @@
-# Title  #
+# Title #
 
 Install a user agent switcher on Firefox - Random User Agent
 
@@ -9,7 +9,7 @@ name, operating system, and other technical metadata of your device. Unfortunate
 trackers to build a *fingerprint* of your system and identify you throughout the web.
 
 In this guide, you'll learn how to install Random User Agent on Firefox to periodically change your browser's user agent
-and prevent trackers from fingerprinting you.
+and make it harder for trackers to fingerprinting you.
 
 # Body #
 
@@ -38,7 +38,7 @@ the switcher temporarily, clicking on **Pause Switcher**.
 ![Fig. 4: Random User Agent pop-up interface](../images/Firefox/agent-test.png)
 
 Random User Agent is configured by default to change the user agent every 10 minutes, although you can configure this in
- the settings (Fig. 5).
+the settings (Fig. 5).
 
 
- ![Fig. 5: Random User Agent settings page](../images/Firefox/agent-settings.png)
+![Fig. 5: Random User Agent settings page](../images/Firefox/agent-settings.png)

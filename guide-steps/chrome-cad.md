@@ -1,5 +1,5 @@
 # Title #
-Install a cookie manager on Chrome (and derivates) - Cookie AutoDelete
+Install a cookie manager on Chrome (and derivatives) - Cookie AutoDelete
 
 # Summary #
 

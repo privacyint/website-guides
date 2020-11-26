@@ -1,5 +1,5 @@
 # Title  #
-Install an ad-blocker on Chrome (and derivates) - uBlock Origin
+Install an ad-blocker on Chrome (and derivatives) - uBlock Origin
 
 # Summary #
 
@@ -9,7 +9,7 @@ Install an ad-blocker on Chrome (and derivates) - uBlock Origin
 <!-- to block these services from communicating with our browser.  -->
 
 uBlock Origin is a general purpose blocker for web browsers that blocks ads, trackers, and malware sites by default. In
-this guide, you'll learn how to install uBlock Origin on Chrome (and its derivates, e.g. Edge, Opera, Chromium, Brave,
+this guide, you'll learn how to install uBlock Origin on Chrome (and its derivatives, e.g. Edge, Opera, Chromium, Brave,
 etc.).
 
 # Body #
