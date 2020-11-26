@@ -12,10 +12,15 @@ Ad ID or by opting out completely.
 > **Warning**: If you are using iOS 14+, targeted advertisements are opt-in by default.
 
 ### Opt out of targeted advertising ###
-To prevent that data collected from your device is used to serve you ads, you can opt out of targeted advertisements.
-Targeted advertisements pose a serious privacy risk since they are served to you based on data points such as your
-location history, your name and address, the music you listen to, or how many levels you've completed in your favourite
-game.
+
+[We have written
+before](https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer) about
+the risks that targeted advertisements pose in regards to your digital privacy.
+
+<!-- To prevent that data collected from your device is used to serve you ads, you can opt out of targeted advertisements. -->
+<!-- Targeted advertisements pose a serious privacy risk since they are served to you based on data points such as your -->
+<!-- location history, your name and address, the music you listen to, or how many levels you've completed in your favourite -->
+<!-- game. -->
 
 To opt out of targeted ads based on location, open the **Settings** app and go to **Privacy > Location Services > System
 Services** and turn off **Location-Based Apple Ads** (Fig. 1).
