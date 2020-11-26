@@ -3,6 +3,9 @@ Install an ad-blocker on iOS - Blokada
 
 # Summary #
 
+Blokada is a free and open-source mobile application that uses DNS servers to block ads and trackers on your device to
+enhance your privacy. In this guide you'll learn how to install Blokada on your iOS device.
+
 # Body #
 
 ### Installation ###
@@ -16,21 +19,22 @@ To install Blokada, visit its [Apple App Store page](https://apps.apple.com/us/a
 
 ### Setup ###
 
-After Blokada is installed, you can open it by clicking on the icon. By default, Blokada is disabled. To enable it, click the large button (Fig. 2).
+After Blokada is installed, you can open it by clicking on the icon. By default, Blokada is disabled. To enable it,
+click the large button (Fig. 3).
 
-![Fig. 2: Enable Blokada](../images/ios/blockada-enable.jpg)
+![Fig. 3: Enable Blokada](../images/ios/blockada-enable.jpg)
 
 You'll be asked to allow Blokada to setup a VPN, which is necessary for it to block ads. Blokada sets up a split-VPN,
 which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada **does not**
-monitor or filter your regular network traffic. Click on **Allow** to proceed with the setup (Fig. 3).
+monitor or filter your regular network traffic. Click on **Allow** to proceed with the setup (Fig. 4).
 
-![Fig. 3: Allow Blokada to setup a VPN](../images/ios/blockada-vpn.jpg)
+![Fig. 4: Allow Blokada to setup a VPN](../images/ios/blockada-vpn.jpg)
 
-Blokada should be enabled now. To select a blocking list, click on the **Advanced** tab (Fig. 4), and then select one
-(or more) from the list. As in our DNS-blocking guide, we recommend you use Steven Black hosts list, as it is often
-updated (the first item, Energized, was last updated on 2018).
+Blokada should be enabled now. To select a blocking list, click on the **Advanced** tab (Fig. 5), and then select one
+(or more) from the list. You might want to use the same list we suggest in our DNS guides, Steven Black hosts list, as
+it is often updated (the first item, Energized, was last updated on 2018).
 
-![Fig. 4: Select a blocking list](../images/ios/blockada-lists.jpg)
+![Fig. 5: Select a blocking list](../images/ios/blockada-lists.jpg)
 
 After selecting the blocking list, your device should start blocking ads immediately. To learn more about Blokada and
 its advanced features, visit its [official website](https://blokada.org/).
