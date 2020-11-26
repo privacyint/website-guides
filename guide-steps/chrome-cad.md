@@ -32,24 +32,3 @@ browser restart) websites you trust to store cookies.
 The extension disables automatic cleanup by default. To enable it, click the icon (Fig. 4) and then click on
 **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser
 tab, any cookies no longer in use are automatically deleted.
-
-<!-- ### Avoid tracking from whitelisted cookies ### -->
-
-<!-- ![Fig. 5: Disable support for Firefox Containers](../images/Firefox/cad-containers.png) -->
-
-<!-- If you want to disable Cookie AutoDelete for some website (e.g. your email client), you can whitelist it by clicking the -->
-<!-- icon and then clicking on **Whitelist** (Fig. 4). However, note that whitelisted cookies may still communicate between themselves -->
-<!-- and temporary cookies, thus tracking your activity. The two options below help you avoid this behaviour. -->
-
-<!-- #### Use Firefox Multi-Containers #### -->
-
-<!-- To ensure cookies from whitelisted domains remain isolated, you can create one container for each whitelisted domain. To -->
-<!-- learn more about Firefox Multi-Account Containers read [our guide on how to set it up](firefox-containers.md). For this -->
-<!-- to work, it's important to keep the setting **Enable Support for Firefox's Container Tabs** disabled (Fig. 5). -->
-
-<!-- #### Enable First Party Isolation #### -->
-
-<!-- You can also enable First Party Isolation so that cookies from different domains are isolated. This is the most -->
-<!-- effective way to ensure temporary cookies do not cross-reference your activity before they are deleted. Note, however, -->
-<!-- that this may introduce some performance penalty. To learn how to enable First Party Isolation in Firefox, read our guide -->
-<!-- on [Firefox privacy settings](firefox-settings.md). -->
