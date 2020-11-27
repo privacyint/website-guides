@@ -10,13 +10,13 @@ privacy.
 To access the settings, click on the three-dot menu on the upper right and then press **Settings > Privacy, search, and
 services** (Fig. 1), or type <edge://settings/privacy> in the URL bar and press Enter.
 
-![Fig. 1: Edge settings menu](../images/Edge/settings-menu.png)
+![Fig. 1: Edge settings menu](../images/Edge/settings-menu.png?raw=true)
 
 ### Tracking prevention ###
 Edge includes a basic tracking protection mechanism that you can enable to prevent trackers from collecting data about
 you. Go to the **Tracking prevention** pane, and select **Balanced** protection (Fig. 2).
 
-![Fig. 2: Sync settings](../images/Edge/settings-tracking.png)
+![Fig. 2: Sync settings](../images/Edge/settings-tracking.png?raw=true)
 
 ### Privacy ###
 
@@ -25,7 +25,7 @@ respect this! For safer protection, please see [our guide on installing an ad-bl
 it's better to have this option turned on. Go to the **Privacy** pane and enable **Send "Do Not Track" requests** (Fig.
 3).
 
-![Fig. 3: Privacy settings](../images/Edge/settings-dnt.png)
+![Fig. 3: Privacy settings](../images/Edge/settings-dnt.png?raw=true)
 
 ### Sharing diagnostic data ###
 The Edge browser collects diagnostics data to improve its service, but it also sells it to advertisers and trackers. To
@@ -33,14 +33,14 @@ prevent this, go to the **Optional diagnostic data** pane, and disable **Help im
 optional diagnostics data about how you use the browser, websites you visit, and crash reports** (Fig. 4). from online
 trackers.
 
-![Fig. 4: Diagnostics settings](../images/Edge/settings-diagnostics.png)
+![Fig. 4: Diagnostics settings](../images/Edge/settings-diagnostics.png?raw=true)
 
 ### Personalized web experience ###
 To prevent Microsoft from serving you ads based on your web browsing habits, go to the **Personalize your web
 experience** pane and disable **Improve your web experience by allowing Microsoft to use your browsing history from this
 account for personalizing advertising, search, news and other Microsoft services** (Fig. 5).
 
-![Fig. 5: Personalized web experience settings](../images/Edge/settings-ads.png)
+![Fig. 5: Personalized web experience settings](../images/Edge/settings-ads.png?raw=true)
 
 ### Services ###
 
@@ -48,6 +48,6 @@ Microsoft Edge uses web services to improve your browsing experience. To do so, 
 Microsoft. To prevent this, go to the **Services** pane, and disable all options (Fig. 6). Then, click on **Address bar
 and search** and disable both options (Fig. 7).
 
-![Fig. 6: Services settings](../images/Edge/settings-services.png)
+![Fig. 6: Services settings](../images/Edge/settings-services.png?raw=true)
 
-![Fig. 7: Address bar and search settings](../images/Edge/settings-address-bar.png)
+![Fig. 7: Address bar and search settings](../images/Edge/settings-address-bar.png?raw=true)

@@ -22,23 +22,23 @@ Like any other add-on, install Random User Agent by visiting the [Mozilla Firefo
 page](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/) and clicking **Add to Firefox** (Fig. 1) and
 then clicking on **Add** when prompted (Fig. 2).
 
-![Fig. 1: Download Random User Agent](../images/Firefox/agent-add.png)
+![Fig. 1: Download Random User Agent](../images/Firefox/agent-add.png?raw=true)
 
-![Fig. 2: Add Random User Agent to Firefox](../images/Firefox/agent-prompt.png)
+![Fig. 2: Add Random User Agent to Firefox](../images/Firefox/agent-prompt.png?raw=true)
 
 Upon successful installation a notification appears on the top-right corner, and the Random User Agent icon is added to
 your toolbar (Fig. 3).
 
-![Fig. 3: Notification of successful installation](../images/Firefox/agent-notify.png)
+![Fig. 3: Notification of successful installation](../images/Firefox/agent-notify.png?raw=true)
 
 To check you currently assigned user-agent, click the icon (Fig. 4). If you stumble on a page which breaks when you have
 Random User Agent enabled, you can either disable it for that domain, clicking on **Enabled on this domain**, or pause
 the switcher temporarily, clicking on **Pause Switcher**.
 
-![Fig. 4: Random User Agent pop-up interface](../images/Firefox/agent-test.png)
+![Fig. 4: Random User Agent pop-up interface](../images/Firefox/agent-test.png?raw=true)
 
 Random User Agent is configured by default to change the user agent every 10 minutes, although you can configure this in
 the settings (Fig. 5).
 
 
-![Fig. 5: Random User Agent settings page](../images/Firefox/agent-settings.png)
+![Fig. 5: Random User Agent settings page](../images/Firefox/agent-settings.png?raw=true)

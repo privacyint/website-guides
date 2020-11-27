@@ -16,18 +16,18 @@ Like any other add-on, install Cookie AutoDelete by visiting the [Mozilla Firefo
 page](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) and clicking **Add to Firefox** (Fig. 1) and
 then clicking on **Add** when prompted (Fig. 2).
 
-![Fig. 1: Download Cookie AutoDelete](../images/Firefox/cad-add.png)
+![Fig. 1: Download Cookie AutoDelete](../images/Firefox/cad-add.png?raw=true)
 
-![Fig. 2: Add Cookie AutoDelete to Firefox](../images/Firefox/cad-prompt.png)
+![Fig. 2: Add Cookie AutoDelete to Firefox](../images/Firefox/cad-prompt.png?raw=true)
 
-![Fig. 3: Notification of successful installation](../images/Firefox/cad-notify.png)
+![Fig. 3: Notification of successful installation](../images/Firefox/cad-notify.png?raw=true)
 
 Upon successful installation a notification appears on the top-right corner, and the Cookie AutoDelete icon is added to
 your toolbar (Fig. 3). When you visit a website, the Cookie AutoDelete icon shows the number of stored cookies for that
 website. By clicking the icon (Fig. 4), you are able to clean cookies, and also whitelist (permanently) or greylist
 (until a browser restart) websites you trust to store cookies.
 
-![Fig. 4: Cookie AutoDelete pop-up interface](../images/Firefox/cad-test.png)
+![Fig. 4: Cookie AutoDelete pop-up interface](../images/Firefox/cad-test.png?raw=true)
 
 The extension disables automatic cleanup by default. To enable it, click the icon (Fig. 4) and then click on
 **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser
@@ -35,7 +35,7 @@ tab, any cookies no longer in use are automatically deleted.
 
 ### Avoid tracking from whitelisted cookies ###
 
-![Fig. 5: Disable support for Firefox Containers](../images/Firefox/cad-containers.png)
+![Fig. 5: Disable support for Firefox Containers](../images/Firefox/cad-containers.png?raw=true)
 
 If you want to disable Cookie AutoDelete for some website (e.g. your email client), you can whitelist it by clicking the
 icon and then clicking on **Whitelist** (Fig. 4). However, note that whitelisted cookies may still communicate between themselves

@@ -12,14 +12,14 @@ settings to harden your online privacy.
 To change basic privacy settings in Firefox, access the preferences menu by clicking on **Edit > Preferences** on the menu-bar, or by
 entering `about:preferences` in the URL bar, and then click on **Privacy & Security** (Fig. 1)
 
-![Fig. 1: Firefox privacy settings page](../images/Firefox/settings-page.png)
+![Fig. 1: Firefox privacy settings page](../images/Firefox/settings-page.png?raw=true)
 
 #### Enable content blocking ####
 Content blocking should be enabled by default on your Firefox installation. If not, find the **Enhanced Tracking
 Protection** setting and set it to **Standard** (Fig. 2). If you want stronger protection set it to **Strict**, but keep
 in mind this can prevent some pages from displaying correctly.
 
-![Fig. 2: Firefox Tracking Protection settings](../images/Firefox/settings-tracking.png)
+![Fig. 2: Firefox Tracking Protection settings](../images/Firefox/settings-tracking.png?raw=true)
 
 #### Enable Do Not Track ####
 When browsing the web, your browser may warn websites that you do not want to be tracked. Beware that not all websites
@@ -27,28 +27,28 @@ respect this! For safer protection, please see [our guide on installing an ad-bl
 it's better to have this option turned on. Scroll down until you see the **Send websites a "Do Not Track" signal that
 you don't want to be tracked** and then click on **Always** (Fig. 3).
 
-![Fig. 3: Firefox Do Not Track setting](../images/Firefox/settings-dnt.png)
+![Fig. 3: Firefox Do Not Track setting](../images/Firefox/settings-dnt.png?raw=true)
 
 #### Disable telemetry services ###
 To improve its services, Firefox collects technical and interaction data that it later sends to Mozilla for processing.
 Part of this also includes the ability to remotely install extensions on your browser, which poses a serious privacy
 risk. To disable telemetry services, find the section titled **Firefox Data Collection and Use** and make sure to un-tick all boxes (Fig. 4).
 
-![Fig. 4: Disable Firefox telemetry](../images/Firefox/settings-telemetry.png)
+![Fig. 4: Disable Firefox telemetry](../images/Firefox/settings-telemetry.png?raw=true)
 
 ### Changing settings in the `about:config` page ###
 To manage advanced privacy settings, type `about:config` in the URL bar and press Enter. You'll then be greeted by a
 warning stating that some settings may affect Firefox's performance and security (Fig. 5). Click **Accept the Risk and
 Continue** to enter the settings page. .
 
-![Fig. 5: Firefox advanced settings page](../images/Firefox/settings-config-warning.png)
+![Fig. 5: Firefox advanced settings page](../images/Firefox/settings-config-warning.png?raw=true)
 
 Table 1 shows some of the advanced settings you can change to better protect your online privacy. Next to each setting
 is the value to apply, as well as a brief summary on what that setting concerns. To set an option, enter its name in the
 search bar, and then double click to change the value. When you do so, the updated value is highlighted in bold and is
 automatically saved (Fig. 6)
 
-![Fig. 6: Set an advanced Firefox setting](../images/Firefox/settings-config-change.png)
+![Fig. 6: Set an advanced Firefox setting](../images/Firefox/settings-config-change.png?raw=true)
 
 | Setting                                             | Value   | Why                                                                                               |
 | :--                                                 | :--     | :--                                                                                               |

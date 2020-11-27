@@ -15,7 +15,7 @@ To install Blokada, visit its [Apple App Store page](https://apps.apple.com/us/a
 
 ![Fig. 1: App store page for Blokada](../images/ios/blockada-app-store.jpg)
 
-![Fig. 2: Install Blokada](../images/ios/blockada-install.png)
+![Fig. 2: Install Blokada](../images/ios/blockada-install.png?raw=true)
 
 ### Setup ###
 
