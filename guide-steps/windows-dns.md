@@ -27,15 +27,15 @@ list](https://winhelp2002.mvps.org/hosts.htm) to block ads and trackers.
 Start by downloading the `hosts.zip` file from the webpage and open it in an Explorer window. Then, select the
 downloaded file and click on **Extract all** (Fig. 1).
 
-![Fig. 1: Extract hosts.zip file](../images/Windows/hosts-extract.png)
+![Fig. 1: Extract hosts.zip file](../images/Windows/hosts-extract.png?raw=true)
 
 After the files are extracted, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
 
-![Fig. 2: Run installer as administrator](../images/Windows/hosts-admin.png)
+![Fig. 2: Run installer as administrator](../images/Windows/hosts-admin.png?raw=true)
 
 If the installer runs successfully, you should see a message reading **The MVPS hosts file is now updated** (Fig. 3).
 
-![Fig. 3: Install notification](../images/Windows/hosts-bat.png)
+![Fig. 3: Install notification](../images/Windows/hosts-bat.png?raw=true)
 
 For the changes to have effect, you need to either restart your network service, or reboot the machine. From now on,
 your operating system will block any request to ad-servers and trackers contained in your hosts file. To keep the hosts

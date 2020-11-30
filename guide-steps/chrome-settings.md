@@ -31,7 +31,6 @@ respect this! For safer protection, please see [our guide on installing an ad-bl
 it's better to have this option turned on. Enable **Send a "Do Not Track" request with your browsing traffic**, and
 disable **"Preload pages for faster browsing and searching"**.
 
-
 ##### Security #####
 Enable **Standard protection** on the Safe Browsing settings. Then, click the arrow on the right to open the advanced
 settings panel. Disable **Help improve security on the web for everyone** (Fig. 3).

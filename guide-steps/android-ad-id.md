@@ -4,8 +4,8 @@ Opt out of targeted ads and renew your Ad ID on Android
 # Summary #
 
 Android offers a way for advertisers to uniquely identify you in order to track your activity across applications and
-websites you consume on your mobile device. This consists in the creation and consolidation of a unique profile of you
-that can be later used for advertisement targeting or other purposes.
+websites you consume on your mobile device. This consists in an Ad-ID that advertisers might use to create and
+consolidate of a unique profile of you that can be later used for advertisement targeting or other purposes.
 
 In this guide you'll learn how to hinder tracking on your Android device either by periodically resetting your Ad ID or
 by opting out completely.
@@ -24,7 +24,7 @@ the risks that targeted advertisements pose in regards to your digital privacy.
 To opt out of targeted ads, open the **Settings** app and go to **Privacy > Ads** and enable **Opt out of Ads
 Personalisation** (Fig. 1).
 
-![Fig. 1: Disable targeted ads](../images/Android/android-ads-opt-out.jpg)
+![Fig. 1: Disable targeted ads](../images/Android/android-ads-opt-out.jpg?raw=true)
 
 ### Renew your Ad ID ###
 To renew your Ad ID on Android, open the **Settings** application, navigate to **Privacy > Ads** and then click on
