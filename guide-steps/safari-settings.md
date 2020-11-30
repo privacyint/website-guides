@@ -6,6 +6,10 @@ In this guide you'll learn how to configure your Safari browser settings to hard
 privacy.
 
 # Body #
+
+> **Disclaimer**: With macOS Big Sur, Apple broadened its support for browser add-ons, which are now available at the
+> App Store. Although the ecosystem for privacy tools is still poor, we might update this guide in the future.
+
 To access the settings menu, open the Safari app and on the menubar click on **Safari > Preferences...** (Fig. 1).
 
 ![Fig. 1: Safari preferences](../images/Safari/preferences.jpg?raw=true)
