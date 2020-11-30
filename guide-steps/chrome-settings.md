@@ -7,6 +7,11 @@ privacy.
 
 # Body #
 
+> **Warning:** Google Chrome employs a mechanism to automatically link your browser to your Google account when you sign
+> in on any Google service (e.g. Gmail). This inevitably links your browser activity to your Google account. Consider
+> using a Chrome-based alternative (e.g. Brave, Opera) to avoid this, or alternatively disable this in the settings (we
+> illustrate how to so in this guide).
+
 ### Changing settings in Chrome menu ###
 To access the settings, click on the three-dot menu on the upper right and then press **Settings** (Fig. 1), or type
 <chrome://settings/> in the URL bar and press Enter.
@@ -16,8 +21,8 @@ To access the settings, click on the three-dot menu on the upper right and then 
 #### You and Google ####
 Chrome includes several features meant to improve your browsing experience that require you to share data with
 third-parties. You can disable this options by going to the Settings page, and clicking on **You and Google** > **Sync
-and Google Services**. Disable **Autocomplete searches and URLs** and **Make searches and browsing better** to prevent
-this data from being sent to Google's servers (Fig. 2).
+and Google Services**. Disable **Autocomplete searches and URLs**, **Make searches and browsing better**, and **Allow
+Chromium sign-in** to prevent this data from being sent to Google's servers (Fig. 2).
 
 ![Fig. 2: Sync settings](../images/Chrome/settings-sync.png?raw=true)
 
