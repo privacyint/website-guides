@@ -2,8 +2,7 @@
 Adjusting Chrome (and derivatives) settings to enhance your online privacy
 
 # Summary #
-In this guide you'll learn how to configure your Chrome browser settings to harden your online
-privacy.
+In this guide you'll learn how to configure your Chrome browser settings to harden your online privacy.
 
 # Body #
 
@@ -37,11 +36,15 @@ it's better to have this option turned on. Enable **Send a "Do Not Track" reques
 disable **"Preload pages for faster browsing and searching"**.
 
 ##### Security #####
-Enable **Standard protection** on the Safe Browsing settings. Then, click the arrow on the right to open the advanced
+Enable **Standard protection** on the Safe Browsing settings [^1]. Then, click the arrow on the right to open the advanced
 settings panel. Disable **Help improve security on the web for everyone** (Fig. 3).
+
+[^1]: You may want to use enhanced protection but be aware that this requires additional data to be sent to Google.
 
 ![Fig. 3: Security settings](../images/Chrome/settings-security.png?raw=true)
 
 ##### Site settings #####
 On the permissions section, enable **Ask before accessing** on **all** permissions, and disable **Background sync**.
 Scroll to the bottom of the page and click on **Additional content settings**, and disable **Ads**.
+
+![Fig. 4: Permission settings](../images/Chrome/settings-permissions.png?raw=true)
