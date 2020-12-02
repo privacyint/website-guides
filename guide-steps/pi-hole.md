@@ -107,8 +107,8 @@ in the Pi-hole admin panel (Fig. 9).
 ![Fig. 9: Pi-hole admin panel](../images/Pihole/admin.png?raw=true)
 
 ## Setup ##
-Now that you have Pi-hole installed, the last step is configuring your clients
-to use it as its DNS server. You can do so in the following ways:
+Now that you have Pi-hole installed, the last step is configuring your devices
+to use Pi-hole as their DNS server. You can do so in the following ways:
 
 1. Change your router's DNS server and point it to the Pi-hole IP address,
    ensuring any client that connects to your network receives the Pi-hole as its
@@ -123,14 +123,20 @@ Typically this requires you to access the router's administration panel. There,
 you should have a field to set the primary and secondary DNS servers. Set the
 primary address to the Pi-hole's IP address, and reset any open network
 connection you may have on your devices. Now, when you connect to your home
-network through a device, you should get the Pi-hole as the DNS server.
+network, you should get the Pi-hole as the DNS server.
 
 If you're unable to change your router's DNS settings, you'll have to manually
-configure each device to use the Pi-hole address as DNS server. This should be
-relatively straightforward, and you can find many guides online on how to change
-DNS settings on a particular device/operating system. Note that there is also a
-more advanced alternative which involves setting the Pi-hole as the DHCP server,
-instead of your router. Refer to the [official
+configure each device to use the Pi-hole address as DNS server. The caveat,
+besides involving more manual labour, is that this method only works on devices
+on which you can change the DNS settings (which is not always the cases for
+instance in smart appliances). This should be relatively straightforward, and
+you can find many guides online on how to change DNS settings on a particular
+device/operating system (e.g [Google's DNS
+documentation](https://developers.google.com/speed/public-dns/docs/using) covers
+the most common devices).
+
+Note that there is also a more advanced alternative which involves setting the
+Pi-hole as the DHCP server, instead of your router. Refer to the [official
 documentation](https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026)
 to learn how to do so.
 
