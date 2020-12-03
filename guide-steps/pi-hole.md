@@ -43,9 +43,8 @@ To deploy Pi-hole on your home network, make sure you have all of the following:
 
 ## Installation ##
 If you're starting with a fresh Raspberry Pi, start by installing Raspbian
-according to the [Raspberry Pi
-documentation](https://www.raspberrypi.org/software/). Then, be sure to install
-`git` with the following command:
+according to the [Raspberry Pi documentation][1]. Then, be sure to install `git`
+with the following command:
 
 ```bash
 sudo apt install git
@@ -106,7 +105,7 @@ need it later.
 
 Click OK to conclude the installation. To be sure the installation succeeded,
 open a web browser and go to <http://IP_ADDRESS/admin>, where `IP_ADDRESS` is
-the IPv4 address of your Pi-hole device (Fig. 8). Note that the
+the IPv4 address of your Pi-hole device (Fig. 9). Note that the
 <http://pihole/admin> only works **after** you setup your device to use the
 Pi-hole DNS server. Click on log-in and enter your (randomly-generated)
 password. You should now be in the Pi-hole admin panel (Fig. 10).
@@ -129,5 +128,8 @@ DNS server.
 However, some routers do not allow you to change the DNS settings. In this case,
 you can set the Pi-hole as your DHCP server (and in doing so, you need to
 disable your router's own DHCP server). Refer to the [official Pi-hole
-documentation](https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026)
-to learn how to do so.
+documentation][2] to learn how to do so.
+
+[1]: https://www.raspberrypi.org/software/
+
+[2]: https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026
