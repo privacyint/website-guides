@@ -8,39 +8,31 @@ on your phone, and another on your tablet). In this guide you'll learn how to
 install and setup Pi-Hole, a general purpose network-wide ad-blocker, on a
 Raspberry Pi to block ads on any device connected to your home network.
 
-<!-- In some cases, for instance smart -->
-<!-- TVs, it's not even possible to install an ad-blocker. Pi-Hole is a general -->
-<!-- purpose network-wide ad-blocker, that when installed will block ads on **any** -->
-<!-- device connected to your home network, which means you manage your ad-blocking -->
-<!-- on one place and have these changes automatically pushed to your connected -->
-<!-- devices. -->
-
-<!-- In this guide you'll learn how to install and setup Pi-Hole on a Raspberry Pi. -->
-
 # Body #
 
 ## Overview ##
 
-Pi-hole is a DNS ad-blocker that protects your network from ads and trackers
-without requiring any setup on individual devices. As such, it is able to block
-ads on any network device (e.g. smart appliances), and, unlike browser add-ons,
-Pi-hole will prevent ads from being displayed on any type of software.
+Pi-hole is a general purpose network-wide ad-blocker that protects your network
+from ads and trackers without requiring any setup on individual devices. It is
+able to block ads on any network device (e.g. smart appliances), and, unlike
+browser add-ons, Pi-hole blocks ads on any type of software.
 
 The general setup works as follows (Fig. 1). You install Pi-hole on your server
 (in this case, we're using a Raspberry Pi) and assign it a static IP address. On
 your router, you set the DNS primary server to the Pi-hole IP address. When a
 device connects to your home network, it gets the Pi-hole IP address as its main
-DNS server. When your device looks up the address for a hostname, it contacts
-the Pi-hole. If the host is an ad or tracker, the request is instantly blocked.
-Otherwise, the lookup is performed on some upstream server of your choice (e.g.
-OpenDNS, Cloudflare, GoogleDNS, your ISP).
+DNS server from your router. When your device looks up the address for a
+hostname, it contacts the Pi-hole. If the host is an ad or tracker, the request
+is instantly blocked. Otherwise, the lookup is performed on some upstream server
+of your choice (e.g. OpenDNS, Cloudflare, GoogleDNS, your ISP).
 
 ![Fig. 1: Pi-hole setup overview](../images/Pihole/overview.png?raw=true)
 
 ## Prerequisites ##
 To deploy Pi-hole on your home network, make sure you have all of the following:
 
-- A Raspberry Pi with at least 512MB of RAM (all Raspberry Pi versions satisfy this requirement).
+- A Raspberry Pi with at least 512MB of RAM (all Raspberry Pi versions satisfy
+  this requirement) and Raspbian installed.
 - An SD-card with at least 2GB of free space.
 - Internet connection on your Raspberry Pi. Either via Wi-Fi (if available)
       or via Ethernet cable.
@@ -122,46 +114,20 @@ password. You should now be in the Pi-hole admin panel (Fig. 10).
 ![Fig. 10: Pi-hole admin panel](../images/Pihole/admin.png?raw=true)
 
 ## Setup ##
-Now that you have Pi-hole installed, the last step is configuring your devices
-to use Pi-hole as their DNS server. You can do so in the following ways:
+Now that you have Pi-hole installed, the last step is configuring your network
+to use Pi-hole as its DNS server
 
-1. Change your router's DNS server and point it to the Pi-hole IP address,
-   ensuring any client that connects to your network receives the Pi-hole as its
-   DNS server.
-2. Disable DHCP on your router and enable it on the Pi-hole.
-<!-- Manually setup each client, changing its DNS primary server to match the -->
-<!--    Pi-hole IP address. -->
+The preferred method for doing this is to change your router's DNS server and
+point it to the Pi-hole IP address, ensuring any client that connects to your
+network receives the Pi-hole as its DNS server. Typically this requires you to
+access the router's administration panel. There, you should have a field to set
+the primary and secondary DNS servers. Set the primary address to the Pi-hole's
+IP address, and reset any open network connection you may have on your devices.
+Now, when you connect to your home network, you should get the Pi-hole as the
+DNS server.
 
-The first method is preferred as you only have to do it once. However, it's not
-always possible as some routers do not allow you to change the DNS settings.
-Check your router's documentation to learn how to change its DNS servers.
-Typically this requires you to access the router's administration panel. There,
-you should have a field to set the primary and secondary DNS servers. Set the
-primary address to the Pi-hole's IP address, and reset any open network
-connection you may have on your devices. Now, when you connect to your home
-network, you should get the Pi-hole as the DNS server.
-
-If you're unable to change your router's DNS settings, you'll have to manually
-configure each device to use the Pi-hole address as DNS server. The caveat,
-besides involving more manual labour, is that this method only works on devices
-on which you can change the DNS settings (which is not always the cases for
-instance in smart appliances). This should be relatively straightforward, and
-you can find many guides online on how to change DNS settings on a particular
-device/operating system (e.g [Google's DNS
-documentation](https://developers.google.com/speed/public-dns/docs/using) covers
-the most common devices).
-
-Note that there is also a more advanced alternative which involves setting the
-Pi-hole as the DHCP server, instead of your router. Refer to the [official
+However, some routers do not allow you to change the DNS settings. In this case,
+you can set the Pi-hole as your DHCP server (and in doing so, you need to
+disable your router's own DHCP server). Refer to the [official Pi-hole
 documentation](https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026)
 to learn how to do so.
-
-
-<!-- ## Further configuration ## -->
-<!-- After following this guide you should have a working installation of Pi-hole -->
-<!-- which is assigned as the DNS servers of devices inside your home network. If you -->
-<!-- wish to fine-tune your installation, consult the Pi-hole documentation. -->
-
-<!-- If you wish to be able to use your Pi-hole instance *outside* of your home -->
-<!-- network, you'll need to either setup a VPN or expose port 53 in your router to -->
-<!-- the world. -->
