@@ -37,17 +37,29 @@ OpenDNS, Cloudflare, GoogleDNS, your ISP).
 
 ![Fig. 1: Pi-hole setup overview](../images/Pihole/overview.png?raw=true)
 
+## Prerequisites ##
+To deploy Pi-hole on your home network, make sure you have all of the following:
+
+- A Raspberry Pi with at least 512MB of RAM (all Raspberry Pi versions satisfy this requirement).
+- An SD-card with at least 2GB of free space.
+- Internet connection on your Raspberry Pi. Either via Wi-Fi (if available)
+      or via Ethernet cable.
+- Access to your router's administration panel[^1].
+
+[^1]: This is standardly available in home networks. Check your router's
+    documentation for instructions and credentials.
+
 ## Installation ##
-Make sure you have at least 2GB of storage space available, and 512MB of RAM
-before proceeding with the installation. Start by installing Raspbian according
-to the [Raspberry Pi documentation](https://www.raspberrypi.org/software/).
-Then, be sure to install `git` with the following command:
+If you're starting with a fresh Raspberry Pi, start by installing Raspbian
+according to the [Raspberry Pi
+documentation](https://www.raspberrypi.org/software/). Then, be sure to install
+`git` with the following command:
 
 ```bash
 sudo apt install git
 ```
 
-To install Pi-hole, clone its git repository and run the install script.
+To install Pi-hole, you'll clone its git repository and run the install script.
 
 ```bash
 git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
@@ -56,9 +68,10 @@ sudo bash basic-install.sh
 ```
 
 The script will guide you through the installation steps and ask for your input
-to configure basic settings. At some point, it asks you to select an upstream
-DNS provider (Fig. 2). This is the server on which lookups of non-blocked
-hostnames will be performed.
+to configure basic settings. Any settings you configure during installation can
+be updated later. At some point, it asks you to select an upstream DNS provider
+(Fig. 2). This is the server on which lookups of non-blocked hostnames will be
+performed.
 
 ![Fig. 2: Select upstream DNS](../images/Pihole/dns.png?raw=true)
 
@@ -75,14 +88,14 @@ to disable any of those protocols, you can leave both on (Fig. 4).
 
 It also includes a web interface which you can access to manage your Pi-hole
 instance. If you're comfortable with command line usage, you can skip the web
-interface installation. Otherwise, we suggest you install it (Fig. 5), as well
-as the corresponding web server (Fig. 6).
+interface (and server) installation. Otherwise, we suggest you install it (Fig.
+5), as well as the corresponding web server (Fig. 6).
 
 ![Fig. 5: Install web interface](../images/Pihole/webinterface.png?raw=true)
 
 ![Fig. 6: Install web server](../images/Pihole/webserver.png?raw=true)
 
-You can choose to log the queries performed on your Pi-hole (Fig. 7), and set a
+You can choose to log the queries answered by your Pi-hole (Fig. 7), and set a
 privacy level dictating which kind of logs are stored (Fig. 8). If you're
 sharing your Pi-hole instance with other people, beware that logs may leak
 private information (that will be visible to you), so choose your privacy levels
@@ -92,7 +105,6 @@ accordingly.
 
 ![Fig. 8: Set log privacy level](../images/Pihole/privacy.png?raw=true)
 
-
 When the installation is finished, you'll get a summary message that includes
 the IP addresses of your Pi-hole and the randomly generated admin password (Fig.
 9). Be sure to save this somewhere (either screenshot or pen & paper) as you'll
@@ -100,12 +112,12 @@ need it later.
 
 ![Fig. 9: Pi-hole installation summary](../images/Pihole/summary.png?raw=true)
 
-Click OK and Pi-hole is now installed on your device. To check the installation
-succeeded, open a web browser and go to <http://IP_ADDRESS/admin>, where
-`IP_ADDRESS` is the IPv4 address of your Pi-hole device (Fig. 8). Note that the
+Click OK to conclude the installation. To be sure the installation succeeded,
+open a web browser and go to <http://IP_ADDRESS/admin>, where `IP_ADDRESS` is
+the IPv4 address of your Pi-hole device (Fig. 8). Note that the
 <http://pihole/admin> only works **after** you setup your device to use the
-Pi-hole DNS server. Click on log-in and enter your password. You should now be
-in the Pi-hole admin panel (Fig. 10).
+Pi-hole DNS server. Click on log-in and enter your (randomly-generated)
+password. You should now be in the Pi-hole admin panel (Fig. 10).
 
 ![Fig. 10: Pi-hole admin panel](../images/Pihole/admin.png?raw=true)
 
@@ -116,8 +128,9 @@ to use Pi-hole as their DNS server. You can do so in the following ways:
 1. Change your router's DNS server and point it to the Pi-hole IP address,
    ensuring any client that connects to your network receives the Pi-hole as its
    DNS server.
-2. Manually setup each client, changing its DNS primary server to match the
-   Pi-hole IP address.
+2. Disable DHCP on your router and enable it on the Pi-hole.
+<!-- Manually setup each client, changing its DNS primary server to match the -->
+<!--    Pi-hole IP address. -->
 
 The first method is preferred as you only have to do it once. However, it's not
 always possible as some routers do not allow you to change the DNS settings.
@@ -142,6 +155,7 @@ Note that there is also a more advanced alternative which involves setting the
 Pi-hole as the DHCP server, instead of your router. Refer to the [official
 documentation](https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026)
 to learn how to do so.
+
 
 <!-- ## Further configuration ## -->
 <!-- After following this guide you should have a working installation of Pi-hole -->
