@@ -42,6 +42,10 @@ To deploy Pi-hole on your home network, make sure you have all of the following:
     documentation for instructions and credentials.
 
 ## Installation ##
+
+> **Disclaimer:** This guide is based on the official Pi-hole documentation so it might not be up to date. In such case,
+> please refer to the [official documentation][3].
+
 If you're starting with a fresh Raspberry Pi, start by installing Raspbian
 according to the [Raspberry Pi documentation][1]. Then, be sure to install `git`
 with the following command:
@@ -133,3 +137,5 @@ documentation][2] to learn how to do so.
 [1]: https://www.raspberrypi.org/software/
 
 [2]: https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026
+
+[3]: https://docs.pi-hole.net/
