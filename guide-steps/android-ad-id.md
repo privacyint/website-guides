@@ -19,6 +19,6 @@ To opt out of targeted ads, open the **Settings** app and go to **Privacy > Ads*
 ![Fig. 1: Disable targeted ads](../images/Android/android-ads-opt-out.jpg?raw=true)
 
 ### Renew your Ad ID ###
-To renew your Ad ID on Android, open the **Settings** application, navigate to **Privacy > Ads** and then click on **Reset advertising ID...** (Fig. 2).
+To renew your Ad ID on Android, open the **Settings** application, navigate to **Privacy > Ads** and then click on **Reset advertising ID...** (Fig. 1).
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
