@@ -2,11 +2,11 @@
 Install a user agent switcher on Chrome (and derivatives) - Random User Agent
 
 # Summary #
-When you access a website, your browser sends a string called the *User Agent* containing your browser's name, operating system, and other technical metadata of your device. Unfortunately, this metadata is often abused by trackers to build a *fingerprint* of your system and identify you throughout the web.
-
 In this guide, you'll learn how to install Random User Agent on Chrome (and derivatives) to periodically change your browser's user agent and make it harder for trackers to fingerprinting you.
 
 # Body #
+When you access a website, your browser sends a string called the *User Agent* containing your browser's name, operating system, and other technical metadata of your device. Unfortunately, this metadata is often abused by trackers to build a *fingerprint* of your system and uniquely identify you throughout the web. To limit the efficiency of fingerprinting you can install a random agent switcher which periodically changes your browser's user agent, making it harder to uniquely identify you.
+
 > **Warning**: Using an agent switcher may cause some pages to display incorrectly or not at all. To prevent this behaviour, we show how to disable the extension in such cases.
 
 ### Installation ###
@@ -14,7 +14,7 @@ Like any other add-on, install Random User Agent by visiting the [Chrome Web Sto
 
 ![Fig. 1: Download Random User Agent](../images/Chrome/agent-add.png?raw=true)
 
-![Fig. 2: Add Random User Agent to Firefox](../images/Chrome/agent-prompt.png?raw=true)
+![Fig. 2: Add Random User Agent to Chrome](../images/Chrome/agent-prompt.png?raw=true)
 
 Upon successful installation a notification appears on the top-right corner, and the Random User Agent icon is added to your toolbar (Fig. 3).
 
