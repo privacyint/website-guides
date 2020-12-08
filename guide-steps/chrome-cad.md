@@ -9,6 +9,8 @@ Browser cookies allow websites to preserve session data such as your login crede
 
 This guide explain how to install Cookie AutoDelete, a web-browser add-on that automatically deletes unused cookies.
 
+> **Warning**: Cookies are widely used on the web and this extension might break some website features. Be sure to understand what it does before installing it!
+
 ### Installation ###
 Like any other add-on, install Cookie AutoDelete by visiting the [Chrome Web Store][1] and clicking on **Add to Chrome** (Fig. 1) and then clicking on **Add extension** when prompted (Fig. 2).
 

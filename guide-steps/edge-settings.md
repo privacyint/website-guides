@@ -15,12 +15,14 @@ Edge includes a basic tracking protection mechanism to prevent trackers from col
 ![Fig. 2: Sync settings](../images/Edge/settings-tracking.png?raw=true)
 
 ### Privacy ###
-When browsing the web, your browser may warn websites that you do not want to be tracked. Beware that not all websites respect this! For safer protection, please see [our guide on installing an ad-blocker](chrome-ublock-origin.md). Still, it's better to have this option turned on. Go to the **Privacy** pane and enable **Send "Do Not Track" requests** (Fig. 3).
+Do Not Track (DNT) is a signal that your browser can send when browsing the web to signal to websites that you do not want to be tracked. Not all websites respect this but you might want to enable it nonetheless. For more protection, refer to [our guide on installing an ad-blocker](edge-ublock-origin.md). 
+
+To enable DNT, go to the **Privacy** pane and enable **Send "Do Not Track" requests** (Fig. 3).
 
 ![Fig. 3: Privacy settings](../images/Edge/settings-dnt.png?raw=true)
 
 ### Sharing diagnostic data ###
-The Edge browser collects diagnostics data to improve its service, but it also sells it to advertisers and trackers. To prevent this, go to the **Optional diagnostic data** pane, and disable **Help improve Microsoft products by sending optional diagnostics data about how you use the browser, websites you visit, and crash reports** (Fig. 4). from online trackers.
+Similarly to other browser, the Edge browser collects diagnostics data to improve its service. This data can be very intimate and revealing and you might want to avoid it being shared and accessed. To prevent the data collection from happening, go to the **Optional diagnostic data** pane, and disable **Help improve Microsoft products by sending optional diagnostics data about how you use the browser, websites you visit, and crash reports** (Fig. 4). from online trackers.
 
 ![Fig. 4: Diagnostics settings](../images/Edge/settings-diagnostics.png?raw=true)
 
@@ -31,7 +33,7 @@ To prevent Microsoft from serving you ads based on your web browsing habits, go 
 
 ### Services ###
 
-Microsoft Edge uses web services to improve your browsing experience. To do so, it may share your personal data with Microsoft. To prevent this, go to the **Services** pane, and disable all options (Fig. 6). Then, click on **Address bar and search** and disable both options (Fig. 7).
+Microsoft Edge uses web services to improve your browsing experience. To do so, it may share your personal data with Microsoft. If you are not comfortable with this, you can prevent such data sharing: go to the **Services** pane, and disable all options (Fig. 6). Then, click on **Address bar and search** and disable both options (Fig. 7).
 
 ![Fig. 6: Services settings](../images/Edge/settings-services.png?raw=true)
 

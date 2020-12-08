@@ -16,7 +16,7 @@ Start by opening a Finder window and then navigate to the **Applications > Utili
 
 ```bash wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O hosts ```
 
-and press Enter. The file will be downloaded to your current directory. Although unlikely, it's important to inspect the contents of the file, to ensure it does not contain malicious entries (e.g. paypal.com pointing to a phishing address that steals your credit card information). To do so, you can use `grep`. In the same terminal window, type the following command
+and press Enter. TThis command will download the Steven Black list to your current directory. Although unlikely, it's important to inspect the contents of the file, to ensure it does not contain malicious entries (e.g. paypal.com pointing to a phishing address that steals your credit card information). To do so, you can use `grep`. In the same terminal window, type the following command
 
 ```bash grep -E '^(\s*)[1-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s*.*\..*' hosts ```
 

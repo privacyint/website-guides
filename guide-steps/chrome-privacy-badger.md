@@ -7,7 +7,6 @@ In this guide, you'll learn how to install Privacy Badger on Chrome, a browser a
 # Body #
 Privacy Badger is a browser add-on to block ads and trackers from tracking you.It keeps an up-to-date list of known trackers that it finds through automated tests, and regularly pushes the updated list to your browser. As such, it works well alongside uBlock Origin, which keeps a manually curated list on malicious services. Privacy Badger is a project of the Electronic Frontier Foundation and has a strong [privacy policy][1].
 
-
 ### Installation ###
 
 Like any other add-on, install Privacy Badger by visiting the [Chrome Web Store][2] and clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when prompted (Fig. 2).
