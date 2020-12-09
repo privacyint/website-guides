@@ -2,9 +2,15 @@
 Install a cookie manager on Firefox - Cookie AutoDelete
 
 # Summary #
-Browser cookies allow websites to preserve session data such as your login credentials or items in your shopping basket so that you don't lose information when you close the page. Unfortunately, they are often abused to track your online activity across the web. In this guide you'll learn how to install Cookie AutoDelete, a web-browser add-on that automatically deletes unused cookies.
+Browser cookies can be useful but are often abused to track your online activity across the web. In this guide you'll learn how to install Cookie AutoDelete, a web-browser add-on that automatically deletes unused cookies.
 
 # Body #
+Browser cookies allow websites to preserve session data such as your login credentials or items in your shopping basket so that you don't lose information when you close the page. Unfortunately, they are often abused to track your online activity across the web. Using a dedicated addon, you can clean your cookies regularily to ensure that no unwanted cookie is kept in your browser, limiting the efficienty of online trackers.
+
+This guide explain how to install Cookie AutoDelete, a web-browser add-on that automatically deletes unused cookies.
+
+> **Warning**: Cookies are widely used on the web and this extension might break some website features. Be sure to understand what it does before installing it!
+
 ### Installation ###
 
 Like any other add-on, install Cookie AutoDelete by visiting the [Mozilla Firefox Add-ons page][1] and clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when prompted (Fig. 2).
