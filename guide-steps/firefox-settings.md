@@ -2,7 +2,7 @@
 Adjusting Firefox settings to enhance your online privacy
 
 # Summary #
-Firefox is well-known for respecting and protecting its users privacy, and provides you with several mechanisms to do so. However, some of them are not enabled by default. In this guide you'll learn how to configure your Firefox browser settings to harden your online privacy.
+'Firefox provides you with several mechanisms to protect your privacy. However, some of them are not enabled by default. In this guide you'll learn how to configure your Firefox browser settings to strengthen your online privacy.
 
 # Body #
 
@@ -28,6 +28,8 @@ To improve its services, Firefox collects technical and interaction data that it
 
 ### Changing settings in the `about:config` page ###
 To manage advanced privacy settings, type `about:config` in the URL bar and press Enter. You'll then be greeted by a warning stating that some settings may affect Firefox's performance and security (Fig. 5). Click **Accept the Risk and Continue** to enter the settings page. .
+
+> **Warning**: This settings page gives access to advanced features that might affect Firefox ability to function properly. Make sure you understand what you do. All changes are reversible.
 
 ![Fig. 5: Firefox advanced settings page](../images/Firefox/settings-config-warning.png?raw=true)
 

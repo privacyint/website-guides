@@ -2,20 +2,23 @@
 Setup DNS-level ad-blocking on Windows
 
 # Summary #
-In this guide you'll learn how to manually insert DNS entries for known malicious hosts (e.g. ad-servers, trackers, malware websites) and point them to an empty address, so that those requests are blocked on your device. Unlike browser add-ons, DNS-level ad-blocking works on *any* application or service running on your device.
-
+In this guide you'll learn how to manually insert DNS entries for certain types of known hosts (e.g. ad-servers, trackers, malware websites) and point them to an empty address, so that those requests are blocked on your device. Unlike browser add-ons, DNS-level ad-blocking works on *any* application or service running on your device, not just your browser.
 # Body #
 
 ### Setup ###
 In the Internet, requests are routed to IP addresses. Since IP addresses are hard to remember, we usually address hosts by their host-name (e.g privacyinternational.org). As such, and because IP addresses can change frequently, when your computer wants to access a server by its host-name, it asks a DNS server what the IP address for that host-name is, so that it can route the request. Typically, your operating systems first checks your system's *hosts file* for an address to the host-name. If the host-name is not present in the file the operating system asks an external DNS server to resolve it.
 
-To setup DNS-level ad-blocking, we will add a list of known malicious ad-servers and trackers to the hosts file and point them to an empty address (`0.0.0.0`), thus ensuring the requests are blocked. The lists of malicious hosts are provided and maintained by the online community, and you can pick several lists to block different types of services (e.g. ads, trackers, fake news, social media, etc.). In this guide, we suggest you use the [MVPS hosts list][1] to block ads and trackers.
+To setup DNS-level ad-blocking, we will add a list of known ad-servers and trackers to the hosts file and point them to an empty address (`0.0.0.0`), thus ensuring the requests are blocked. The lists of ad-server and tracker hosts are provided and maintained by the online community, and you can pick several lists to block different types of services (e.g. ads, trackers, fake news, social media, etc.). In this guide, we suggest you use the [MVPS hosts list][1] to block ads and trackers. We recommand this file over the Steven Black file because the format of the hosts file on Windows is different from Linux and MacOS, making the Steven Black file incompatible with Windows.
 
 Start by downloading the `hosts.zip` file from the webpage and open it in an Explorer window. Then, select the downloaded file and click on **Extract all** (Fig. 1).
 
 ![Fig. 1: Extract hosts.zip file](../images/Windows/hosts-extract.png?raw=true)
 
-After the files are extracted, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
+After the files are extracted, you might want to check the integrity of the hosts file to avoid any tempering. To do so, open a terminal window and type 
+
+```CertUtil -hashfile C:\Users\YourUserName\pathToExtractedFile\HOSTS MD5```
+
+The output of this command should match the one on the MVPS website (5B269EA131819DEFF186B33189C7AAD6 on 11/12/2020). If the checksum matches, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
 
 ![Fig. 2: Run installer as administrator](../images/Windows/hosts-admin.png?raw=true)
 
