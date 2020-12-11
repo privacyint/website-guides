@@ -6,7 +6,7 @@ In this guide you'll learn how to configure your Chrome browser settings to hard
 
 # Body #
 
-> **Warning:** Chrome is a Google product and as such embed many mechanism that might share data with Google. On such mechanism automatically link your browser to your Google account when you sign in on any Google service (e.g. Gmail). Consider using Firefox for a more privacy-friendly browser or a Chrome-based alternative (e.g. Vivaldi, Opera, Brave...) to avoid this. Alternatively you can disable some of these behaviour in the settings by following this guide.
+> **Warning:** Chrome is a Google product and as such embeds many mechanisms that might share data with Google. One such mechanism automatically links your browser to your Google account when you sign in on any Google service (e.g. Gmail). Consider using Firefox or a Chrome-based alternative (e.g. Vivaldi, Opera, Brave...) to avoid this. Alternatively you can disable some of these behaviours in the settings by following this guide.
 
 ### Changing settings in Chrome menu ###
 To access the settings, click on the three-dot menu on the upper right and then press **Settings** (Fig. 1), or type <chrome://settings/> in the URL bar and press Enter.

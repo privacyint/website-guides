@@ -21,7 +21,7 @@ On the left menu, scroll down and click on **Advertising** (Fig. 3). To renew yo
 ![Fig. 3: Disable Targeted Ads](../images/MacOS/settings-ads.jpg?raw=true)
 
 ### Disable location data collection ###
-On the privacy menu (Fig. 1), select **Analytics**, and then disable **Share Mac Analytics** (Fig. 4) to prevent that diagnostic messages shared with Apple leak your location data.
+On the privacy menu (Fig. 1), select **Analytics**, and then disable **Share Mac Analytics** (Fig. 4) to prevent diagnostic messages which are shared with Apple from leaking your location data. 
 
 ![Fig. 4: Disable analytics](../images/MacOS/settings-analytics.jpg?raw=true)
 

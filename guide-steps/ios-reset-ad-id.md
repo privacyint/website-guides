@@ -2,7 +2,7 @@
 Opt out of targeted ads and renew your Ad ID on iOS
 
 # Summary #
-Advertisers need to uniquely identify you across apps and websites in order to aggregate data they might collect about you. To do so, Apple issues an Ad ID for your device, which it then shares with advertisers so they can serve you ads based on your data. In this guide you'll learn how to avoid targeted advertisement either by periodically resetting your Ad ID or by opting out completely.
+Advertisers need to uniquely identify you across apps and websites in order to aggregate data they might collect about you from each source. To do so, Apple issues an Ad ID for your device, which it then shares with advertisers so they can serve you ads based on your data. In this guide you'll learn how to avoid such targeted advertisement either by periodically resetting your Ad ID or by opting out completely.
 
 # Body #
 

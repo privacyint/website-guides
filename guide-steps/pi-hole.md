@@ -10,7 +10,7 @@ Blocking ads and trackers on your devices typically requires manual labour on ea
 
 Pi-hole is a general purpose network-wide ad-blocker that protects your network from ads and trackers without requiring any setup on individual devices. It is able to block ads on any network device (e.g. smart appliances), and, unlike browser add-ons, Pi-hole blocks ads on any type of software.
 
-The general setup works as follows (Fig. 1). You install Pi-hole on your server (in this case, we're using a Raspberry Pi) and assign it a static IP address. On your router, you set the DNS primary server to the Pi-hole IP address. When a device connects to your home network, it gets the Pi-hole IP address as its main DNS server from your router. When your device looks up the address for a hostname, it contacts the Pi-hole. If the host is an ad or tracker, the request is instantly blocked. Otherwise, the lookup is performed on some upstream server of your choice (e.g. OpenDNS, Cloudflare, GoogleDNS, your ISP).
+The general setup works as follows (Fig. 1). You install Pi-hole on your server (in this case, we're using a Raspberry Pi) and assign it a static IP address. On your router, you set the DNS primary server to the Pi-hole IP address. When a device connects to your home network, it gets the Pi-hole IP address as its main DNS server from your router. When your device looks up the address for a hostname, it contacts the Pi-hole. If the host is an ad or tracker and present in the list used, the request is instantly blocked. Otherwise, the lookup is performed on some upstream server of your choice (e.g. OpenDNS, Cloudflare, GoogleDNS, your ISP).
 
 ![Fig. 1: Pi-hole setup overview](../images/Pihole/overview.png?raw=true)
 

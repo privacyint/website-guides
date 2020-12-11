@@ -2,12 +2,13 @@
 Install an ad-blocker on iOS - Blokada
 
 # Summary #
-
 Blokada is a free and open-source mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Blokada on your iOS device.
 
 # Body #
+Blokada is an ad-blocker acting as a VPN to block unwanted traffic based on hostnames (urls). This prevents ads and malicious data from being loaded by any application running on your device.
 
 ### Installation ###
+
 To install Blokada, visit its [Apple App Store page][1], click on **Get** (Fig. 1), and confirm by clicking **Install** when prompted (Fig. 2).
 
 ![Fig. 1: App store page for Blokada](../images/ios/blockada-app-store.jpg?raw=true)
@@ -19,7 +20,11 @@ After Blokada is installed, you can open it by clicking on the icon. By default,
 
 ![Fig. 3: Enable Blokada](../images/ios/blockada-enable.jpg?raw=true)
 
-You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada Blokada states that it does not monitor or filter your regular network traffic. As it's open source and the code is publicly visible, this claim can be regularly verified. Click on **OK** to proceed with the setup (Fig. 4).
+You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada says it sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. What this means is that any traffic (e.g.: you trying to open privacyinternational.org in your browser) will be routed through Blokada and checked against a local DNS hostfile. If the hostname is in the list (for example an adserver), the resource won't be loaded. This prevent ads and malicious trackers and ads from being reached and displayed. 
+
+As such, Blokada claims it **does not** monitor or filter your regular network traffic. Since it's open source and the code is publicly visible, this claim can be regularly verified. 
+
+Click **Allow** to proceed with the setup (Fig. 4). 
 
 ![Fig. 4: Allow Blokada to setup a VPN](../images/ios/blockada-vpn.jpg?raw=true)
 

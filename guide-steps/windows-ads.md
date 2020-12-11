@@ -2,7 +2,7 @@
 Opt out of targeted ads on Windows
 
 # Summary #
-Advertisers need to uniquely identify you across apps and websites in order to aggregate data they might collect about you. To do so, Microsoft issues an Ad ID for your device, which it then shares with advertisers so they can serve you ads based on your data. In this guide you'll learn how to opt-out of targeted ads on Windows.
+Advertisers need to uniquely identify you across apps and websites in order to aggregate data they might collect about you from those sources. To do so, Microsoft issues an Ad ID for your device, which it then shares with advertisers so they can serve you ads based on your data. In this guide you'll learn how to opt-out of targeted ads on Windows.
 
 # Body #
 
