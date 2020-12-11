@@ -19,7 +19,7 @@ After Blokada is installed, you can open it by clicking on the icon. By default,
 
 ![Fig. 3: Enable Blokada](../images/ios/blockada-enable.jpg?raw=true)
 
-You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada **does not** monitor or filter your regular network traffic. Click on **Allow** to proceed with the setup (Fig. 4).
+You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada Blokada states that it does not monitor or filter your regular network traffic. As it's open source and the code is publicly visible, this claim can be regularly verified. Click on **OK** to proceed with the setup (Fig. 4).
 
 ![Fig. 4: Allow Blokada to setup a VPN](../images/ios/blockada-vpn.jpg?raw=true)
 
