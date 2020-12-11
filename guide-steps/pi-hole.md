@@ -26,7 +26,7 @@ To deploy Pi-hole on your home network, make sure you have all of the following:
 
 ## Installation ##
 
-> **Disclaimer:** This guide is based on the official Pi-hole documentation so it might not be up to date. In such case, please refer to the [official documentation][3].
+> **Disclaimer:** This guide is based on the official Pi-hole documentation but might not be up to date. This guide is more about giving an understanding of what pi-hole does and how you might want to configure it than a strict step by step guide. For up to date instructions on how to install and any specific issue please refer to the [official documentation][3].
 
 If you're starting with a fresh Raspberry Pi, start by installing Raspbian according to the [Raspberry Pi documentation][1]. Then, be sure to install `git` with the following command:
 
