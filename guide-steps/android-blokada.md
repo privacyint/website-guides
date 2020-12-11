@@ -22,7 +22,7 @@ By default, Blokada is disabled. To enable it, click the large button (Fig. 3).
 
 ![Fig. 3: Enable Blokada](../images/Android/blokada-enable.jpg?raw=true)
 
-You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada **does not** monitor or filter your regular network traffic. Click on **OK** to proceed with the setup (Fig. 4).
+You'll be asked to allow Blokada to setup a VPN, which is necessary to block ads. Blokada sets up a split-VPN, which only routes traffic on port 53, used to communicate with external DNS resolvers. As such, Blokada Blokada states that it does not monitor or filter your regular network traffic. As it's open source and the code is publicly visible, this claim can be regularly verified. Click on **OK** to proceed with the setup (Fig. 4).
 
 ![Fig. 4: Allow Blokada to setup a VPN](../images/Android/blokada-vpn.jpg?raw=true)
 
