@@ -11,12 +11,12 @@ In this guide you'll learn how to configure your Chrome browser settings to hard
 ### Changing settings in Chrome menu ###
 To access the settings, click on the three-dot menu on the upper right and then press **Settings** (Fig. 1), or type <chrome://settings/> in the URL bar and press Enter.
 
-![Fig. 1: Chrome settings menu](../images/Chrome/settings-menu.png?raw=true)
+![Fig. 1: Chrome settings menu](../../images/Chrome/settings-menu.png?raw=true)
 
 #### You and Google ####
 Chrome includes several features meant to improve your browsing experience that require you to share data with Google. You can disable these options by going to the Settings page, and clicking on **You and Google** > **Sync and Google Services**. Another thing you might want to do is disable **Autocomplete searches and URLs**, **Make searches and browsing better**, and **Allow Chromium sign-in** to prevent this data from being sent to Google's servers (Fig. 2).
 
-![Fig. 2: Sync settings](../images/Chrome/settings-sync.png?raw=true)
+![Fig. 2: Sync settings](../../images/Chrome/settings-sync.png?raw=true)
 
 #### Privacy and security ####
 On the Settings page, click on **Privacy and security**. In this page you can change some settings to protect yourself from online trackers.
@@ -29,7 +29,7 @@ To enable DNT, enable **Send a "Do Not Track" request with your browsing traffic
 ##### Security #####
 Enable **Standard protection** on the Safe Browsing settings (You may want to use enhanced protection but be aware that this requires additional data to be sent to Google). Then, click the arrow on the right to open the advanced settings panel. To prevent additional data from being sent to Google, disable **Help improve security on the web for everyone** (Fig. 3). 
 
-![Fig. 3: Security settings](../images/Chrome/settings-security.png?raw=true)
+![Fig. 3: Security settings](../../images/Chrome/settings-security.png?raw=true)
 
 ##### Site settings #####
 On the permissions section, you can enable **Ask before accessing** on **all** permissions to ensure that website won't access your microphone or location without your knowledge. If you want sites to be unable to send and receive data after you closed a tab or window, disable **Background sync** (note that this may affect your browsing). 
