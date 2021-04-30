@@ -1,27 +1,22 @@
 # Title #
-Opt out of targeted ads and renew your Ad ID on iOS
+Stop cross-app tracking on iOS
 
 # Summary #
-Advertisers need to uniquely identify you across apps and websites in order to aggregate data they might collect about you from each source. To do so, Apple issues an Ad ID for your device, which it then shares with advertisers so they can serve you ads based on your data. In this guide you'll learn how to avoid such targeted advertisement either by periodically resetting your Ad ID or by opting out completely.
+Until recently, advertisers have been able to track users across their iPhones and the web using the Identifier for Advertisers (IDFA), a unique identifier that could be accessed by the apps you used and the site you visited. From version 14.5 of iOS, Apple gives you the option to opt out of tracking that apps would normally try to do. This guide shows you where to find these settings on your phone, and how to tweak them to keep pesky data hungry companies off the radar.
+
 
 # Body #
 
 > **Warning**: If you are using iOS 14+, targeted advertisements are opt-in by default.
 
-### Opt out of targeted advertising ###
+### Stop cross-app tracking on iOS ###
 [We have written before][1] about the risks that targeted advertisements pose in regards to your digital privacy.
 
-To opt out of targeted ads based on location, open the **Settings** app and go to **Privacy > Location Services > System Services** and turn off **Location-Based Apple Ads** (Fig. 1).
+If you want to opt-out of cross-app tracking, the first step is to go to **Settings > Privacy > Tracking**. Here, make sure to turn **Allow Apps to Request to Track** OFF (Fig.1). This is your hands-off-my-data choice.
 
-![Fig. 1: Disable location-based ads](../images/ios/location-ads.jpg?raw=true)
+Tapping this tells the system not to share your Identifier for Advertisers (IDFA) in between apps. Apps used to be able to use this identifier to gather information on you, including the apps you’ve downloaded, your search history, your purchase history, your recent locations and more. This setting blocks access to your IDFA and tells apps you also don't want to be tracked using other any other methods.
 
-To opt out of targeted ads from any other data points, open the **Settings** app and go to **Privacy > Advertising** and turn on **Limit Ad Tracking** (Fig. 2).
+![Fig. 1: Stop cross-app tracking on iOS](../images/ios/cross-tracking.jpg?raw=true)
 
-![Fig. 2: Disable targeted ads](../images/ios/target-ads.jpg?raw=true)
-
-### Renew your Ad ID ###
-To renew your Ad ID on iOS, open the **Settings** application, navigate to **Privacy > Advertising** and then click on **Reset Advertising Identifier...** and then confirm by clicking on **Reset Identifier** (Fig. 3).
-
-![Fig. 3: Renew Ad-ID](../images/ios/renew-id.jpg?raw=true)
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
