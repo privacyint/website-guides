@@ -16,7 +16,7 @@ If you want to opt-out of cross-app tracking, the first step is to go to **Setti
 
 Tapping this tells the system not to share your Identifier for Advertisers (IDFA) in between apps. Apps used to be able to use this identifier to gather information on you, including the apps you’ve downloaded, your search history, your purchase history, your recent locations and more. This setting blocks access to your IDFA and tells apps you also don't want to be tracked using other any other methods.
 
-![Fig. 1: Stop cross-app tracking on iOS](../images/ios/cross-tracking.jpg?raw=true)
+![Fig. 1: Stop cross-app tracking on iOS](../../images/ios/cross-tracking.jpg?raw=true)
 
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
