@@ -36,4 +36,4 @@ On the permissions section, you can enable **Ask before accessing** on **all** p
 
 Finally, you can scroll to the bottom of the page and click on **Additional content settings**. Here you'll find an option to disable **Ads** that have been deemed intrusive or misleading by Google. While this is a simple option to enable, we suggest considering third party adblocker such as uBlock Origin or Privacy Badger to avoid letting Google decides which ads are problematic and block all ads.
 
-![Fig. 4: Permission settings](../images/Chrome/settings-permissions.png?raw=true)
+![Fig. 4: Permission settings](../../images/Chrome/settings-permissions.png?raw=true)
