@@ -14,7 +14,7 @@ The Advertising ID is a unique identifier offered by the Android Operating Syste
 
 To opt out of targeted ads, open the **Settings** app and go to **Privacy > Ads** and enable **Opt out of Ads Personalisation** (Fig. 1).
 
-![Fig. 1: Disable targeted ads](/website-guides/images/Android/android-ads-opt-out.jpg?raw=true)
+![Fig. 1: Disable targeted ads](website-guides/images/Android/android-ads-opt-out.jpg?raw=true)
 
   
 
