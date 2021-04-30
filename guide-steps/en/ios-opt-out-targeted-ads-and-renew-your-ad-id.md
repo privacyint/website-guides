@@ -18,5 +18,6 @@ Tapping this tells the system not to share your Identifier for Advertisers (IDFA
 
 ![Fig. 1: Stop cross-app tracking on iOS](../../images/ios/cross-tracking.jpg?raw=true)
 
+If you decide to keep **Allow Apps to Request to Track** turned ON, when installing a new app you will be prompted about wether or not you want that app to track your activity across other companies and websites. So even in that case, you are still offered granular app by app control. You can always go back and review which apps you've given tracking permission to, at the bottom of the **Settings > Privacy > Tracking** menu.
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
