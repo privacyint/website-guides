@@ -17,21 +17,21 @@ Lo primero que puedes hacer para que tu cuenta de twitter sea más privada es pr
 
 Esta es una solución interesante si tu intención es que tu cuenta no sea pública sino para amigos, familiares o una comunidad específica. Te da mucho control sobre quién puede ver lo que publicas.
 
-![Privacy and safety app setting: protect your tweets](../images/Twitter/tw_app_privacy_safety.png?raw=true)
+![Privacy and safety app setting: protect your tweets](../../images/Twitter/tw_app_privacy_safety.png?raw=true)
 
 **Etiquetado de fotos**
 
 *Configuración y privacidad > Privacidad y seguridad > Etiquetado de fotos*
 Si no proteges tus tweets, otras personas podrán etiquetarte en fotos. Tal vez no quieras que las fotos de ti publicadas en Twitter estén conectadas con tu cuenta. Para evitar que esto suceda, desactiva el etiquetado de fotos.
 
-![Disable photo tagging](../images/Twitter/tw_app_privacy_safety copy.png?raw=true)
+![Disable photo tagging](../../images/Twitter/tw_app_privacy_safety copy.png?raw=true)
 
 **Información de ubicación**
 
 *Configuración y privacidad > Privacidad y seguridad > Información de ubicación*
 Tu ubicación es una información sensible, te recomendamos que no la compartas a la ligera. Para impedir que tu ubicación sea visible y que Twitter la utilice en tu publicación, desactiva "Información de ubicación" (o "Ubicación exacta", en la aplicación
 
-![Privacy and safety app setting: precise location](../images/Twitter/tw_app_privacy_safety2.png?raw=true)
+![Privacy and safety app setting: precise location](../../images/Twitter/tw_app_privacy_safety2.png?raw=true)
 
 
 **Visibilidad y contactos**
@@ -39,7 +39,7 @@ Tu ubicación es una información sensible, te recomendamos que no la compartas 
 *Configuración y privacidad > Privacidad y seguridad > Visibilidad y contactos*
 Para evitar que alguien pueda vincular tu dirección de correo electrónico a tu cuenta de Twitter (por ejemplo, si alguien obtuvo tu dirección personal sin tu consentimiento), desactiva la función que permite que la gente use tu correo electrónico para encontrarte. Sugerimos que hagas lo mismo con tu número telefónico.
 
-![Discoverability app settings](../images/Twitter/tw_app_discoverability.png?raw=true)
+![Discoverability app settings](../../images/Twitter/tw_app_discoverability.png?raw=true)
 
 **Administrar contactos**
 

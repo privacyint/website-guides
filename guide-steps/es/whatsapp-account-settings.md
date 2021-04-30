@@ -19,7 +19,7 @@ Sin lugar a dudas, este es el ajuste más importante en Whatsapp; si hay algo qu
 
 La opción más segura es seleccionar “nunca” para esta configuración. Esto implica que si quieres guardar algún chat, tendrás que hacerlo manualmente.
 
-![Chat backup settings](../images/wa_chat_backup_2.png?raw=true)
+![Chat backup settings](../../images/wa_chat_backup_2.png?raw=true)
 
 Ajustes> Cuenta > Privacidad
 
@@ -27,7 +27,7 @@ Ajustes> Cuenta > Privacidad
 
 **Última vez:** Ult. vez es una función que permite que la personas con las que te comunicas vean cuándo estuviste por última vez en la aplicación. Esto podría revelar accidentalmente que tuviste acceso a tu teléfono e Internet en un momento dado, y podría ser usado en tu contra. Si se configura esta opción a nadie, se desactiva la funció
 
-![Privacy settings](../images/wa_privacy_1.png?raw=true)
+![Privacy settings](../../images/wa_privacy_1.png?raw=true)
 
 Ajustes> Cuenta
 
@@ -35,4 +35,4 @@ Ajustes> Cuenta
 
 Esta función permite establecer una contraseña para iniciar una sesión de tu cuenta de Whatsapp desde un dispositivo nuevo. Esto evitará que personas que tengan acceso a tu tarjeta SIM o número telefónico inicien una sesión en tu cuenta de Whatsapp y posiblemente accedan a tus conversaciones (ve más información en la sección sobre copias de seguridad). Cuando actives la verificación en dos pasos, la aplicación te pedirá un dígito de 6 PIN. Usa uno que no estés usando en ninguna otras parte. También te pedirá que suministres un correo electrónico. Este paso no es obligatorio, sugerimos que solo proporcione una dirección de correo electrónico si realmente es necesario [desarrollar acá].
 
-![2 Factor Authentication settings](../images/wa_2fa.png?raw=true)
+![2 Factor Authentication settings](../../images/wa_2fa.png?raw=true)

@@ -16,9 +16,9 @@ Telegram es una aplicación que se ejecuta en su teléfono y, como tal, puede so
 
 Telegram te va a pedir permiso para usar el teléfono la primera vez que utilices esta aplicación. Esto sirve para el proceso de verificación, pero no debe ser usado después. Sin embargo, si no cambias este permiso, en teoría Telegram puede pasar llamadas a nombre tuyo. Recomendamos que revises los permisos de la aplicación para desactivar las funciones que no utilices, como el permiso para acceder a tu teléfono o tu ubicación. Probablemente vas a encontrar esto en la configuración de tu teléfono y no en la de la aplicación. Busca “permisos” o mantén pulsado el ícono de la aplicación y toca el ícono de “información”
 
-![Access app permissions](../images/Telegram/tg_appsettings.png?raw=true)
+![Access app permissions](../../images/Telegram/tg_appsettings.png?raw=true)
 
-![Telegram permissions](../images/Telegram/tg_appsettings2.png?raw=true)
+![Telegram permissions](../../images/Telegram/tg_appsettings2.png?raw=true)
 
 #### Acceso a los contactos
 
@@ -33,7 +33,7 @@ Para acceder a estas configuraciones:
 * Abre Telegram y toca las tres barras en la esquina superior izquierda
 * Toque Configuración> Privacidad y seguridad> Sincronizar contactos
 
-![Telegram contact syncing](../images/Telegram/tg_contact_Sync.png?raw=true)
+![Telegram contact syncing](../../images/Telegram/tg_contact_Sync.png?raw=true)
 
 #### Contraseña de la aplicación
 

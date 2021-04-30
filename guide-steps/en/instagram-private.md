@@ -10,7 +10,7 @@ Making your account private lets you share your content with a select group of p
 
 * Go to your profile by clicking the bottom right corner icon. Then tap the three stripe icon on the top right and choose **Settings > Privacy > Account Privacy**
 
-![Private Account](../images/Instagram/instagram-private-1.gif?raw=true)
+![Private Account](../../images/Instagram/instagram-private-1.gif?raw=true)
 
 **On your browser:**
 

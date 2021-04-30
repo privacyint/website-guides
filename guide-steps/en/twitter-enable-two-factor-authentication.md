@@ -17,4 +17,4 @@ This code (the second factor) can be received either by SMS, an app or a securit
 Go to *Account > Security > Two-factor authentication*
 Follow the instruction.
 
-![Two Factor Authentication](../images/Twitter/tw_browser_2fa.png?raw=true)
+![Two Factor Authentication](../../images/Twitter/tw_browser_2fa.png?raw=true)

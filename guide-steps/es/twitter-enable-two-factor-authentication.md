@@ -19,4 +19,4 @@ Ve a Cuenta > Seguridad > Autenticación en dos fases
 Sigue las instrucciones
 
 
-![Two Factor Authentication](../images/Twitter/tw_browser_2fa.png?raw=true)
+![Two Factor Authentication](../../images/Twitter/tw_browser_2fa.png?raw=true)

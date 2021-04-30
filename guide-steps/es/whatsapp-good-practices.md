@@ -18,7 +18,7 @@ Ajustes > Chats
 
 **Historial de chats:** Esta función ofrece la oportunidad de limpiar todos tus chats si sabes que alguien podría acceder a tu dispositivo y tus conversaciones de Whatsapp podrían ser usadas en tu contra. “Eliminar todos los chats” eliminará efectivamente todas tus conversaciones. Ten en cuenta que si tienes activada la copia de seguridad de los chats (lo que no recomendamos), es posible que estas conversaciones todavía estén disponibles en la nube. Esta función también permite exportar chats específicos si deseas guardarlos localmente.
 
-![Chat history](../images/Whatsapp/wa_chat_history.png?raw=true)
+![Chat history](../../images/Whatsapp/wa_chat_history.png?raw=true)
 
 **Buenas practicas**
 

@@ -21,5 +21,5 @@ En la aplicación móvil Y TAMBIÉN en la web (el proceso es exactamente igual):
 
 
 
-![Block user](../images/Instagram/instagram-block-1.PNG?raw=true)
+![Block user](../../images/Instagram/instagram-block-1.PNG?raw=true)
  

@@ -26,7 +26,7 @@ To disable the chat backup option:
 * Set Auto Backup to Off
 
 
-![Account Viber](../images/Viber/viber-account-1.PNG?raw=true)
+![Account Viber](../../images/Viber/viber-account-1.PNG?raw=true)
 
 #### Desktop and Tablets
 
@@ -38,7 +38,7 @@ To see your active sessions:
 * Tap **Settings > Account > Desktop and Tablets**
 * Tap **Deactivate** in the sessions that you wish to remove. All data your data from Viber will be deleted from that device.
 
-![Account Viber 2](../images/Viber/viber-account-2.PNG?raw=true)
+![Account Viber 2](../../images/Viber/viber-account-2.PNG?raw=true)
 
 #### Deactivate Account
 
@@ -48,4 +48,4 @@ Deactivating your account will delete all of your data and disconnect Viber from
 * Tap **Settings > Account > Deactivate Account**
 * Enter the phone number you registered with Viber and tap **Deactivate Account**
 
-![Account Viber 3](../images/Viber/viber-account-3.PNG?raw=true)
+![Account Viber 3](../../images/Viber/viber-account-3.PNG?raw=true)

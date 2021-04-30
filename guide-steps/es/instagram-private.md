@@ -16,7 +16,7 @@ Este es el primer paso para reforzar tu privacidad cuando uses Instagram. Cuando
     * Ve a Privacidad y entonces podrás cambiar la Privacidad de la cuenta de pública a privada.
 
 
-![Private Account](../images/Instagram/instagram-private-1.gif?raw=true)
+![Private Account](../../images/Instagram/instagram-private-1.gif?raw=true)
 
 **En la web:**
 

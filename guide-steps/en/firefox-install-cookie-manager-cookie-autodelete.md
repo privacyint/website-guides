@@ -15,15 +15,15 @@ This guide explain how to install Cookie AutoDelete, a web-browser add-on that a
 
 Like any other add-on, install Cookie AutoDelete by visiting the [Mozilla Firefox Add-ons page][1] and clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when prompted (Fig. 2).
 
-![Fig. 1: Download Cookie AutoDelete](../images/Firefox/cad-add.png?raw=true)
+![Fig. 1: Download Cookie AutoDelete](../../images/Firefox/cad-add.png?raw=true)
 
-![Fig. 2: Add Cookie AutoDelete to Firefox](../images/Firefox/cad-prompt.png?raw=true)
+![Fig. 2: Add Cookie AutoDelete to Firefox](../../images/Firefox/cad-prompt.png?raw=true)
 
-![Fig. 3: Notification of successful installation](../images/Firefox/cad-notify.png?raw=true)
+![Fig. 3: Notification of successful installation](../../images/Firefox/cad-notify.png?raw=true)
 
 Upon successful installation a notification appears on the top-right corner, and the Cookie AutoDelete icon is added to your toolbar (Fig. 3). When you visit a website, the Cookie AutoDelete icon shows the number of stored cookies for that website. By clicking the icon (Fig. 4), you are able to clean cookies, and also whitelist (permanently) or greylist (until a browser restart) websites you trust to store cookies.
 
-![Fig. 4: Cookie AutoDelete pop-up interface](../images/Firefox/cad-test.png?raw=true)
+![Fig. 4: Cookie AutoDelete pop-up interface](../../images/Firefox/cad-test.png?raw=true)
 
 The extension disables automatic cleanup by default. To enable it, click the icon (Fig. 4) and then click on **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser tab, any cookies no longer in use are automatically deleted. This is a double edged swords: this means that all tracking cookies will be deleted but also means you will be logged out of any session you currently had open. Enabling this option is equivalent to "starting anew" every time you open your browser (although you can keep your tabs open, you won't be logged in anywhere apart from the website you whitelisted).
 
@@ -37,7 +37,7 @@ Adding a site to the whitelist is particularily useful if you want to stay conne
 
 To ensure cookies from whitelisted domains remain isolated, you can create one container for each whitelisted domain. To learn more about Firefox Multi-Account Containers read [our guide on how to set it up][2]. For this to work, it's important to keep the setting **Enable Support for Firefox's Container Tabs** disabled (Fig. 5).
 
-![Fig. 5: Disable support for Firefox Containers](../images/Firefox/cad-containers.png?raw=true)
+![Fig. 5: Disable support for Firefox Containers](../../images/Firefox/cad-containers.png?raw=true)
 
 #### Enable First Party Isolation ####
 

@@ -12,7 +12,7 @@ To setup DNS-level ad-blocking, we will add a list of known ad-servers and track
 
 Start by downloading the `hosts.zip` file from the webpage and open it in an Explorer window. Then, select the downloaded file and click on **Extract all** (Fig. 1).
 
-![Fig. 1: Extract hosts.zip file](../images/Windows/hosts-extract.png?raw=true)
+![Fig. 1: Extract hosts.zip file](../../images/Windows/hosts-extract.png?raw=true)
 
 After the files are extracted, you might want to check the integrity of the hosts file to avoid any tempering. To do so, open a terminal window and type 
 
@@ -20,11 +20,11 @@ After the files are extracted, you might want to check the integrity of the host
 
 The output of this command should match the one on the MVPS website (5B269EA131819DEFF186B33189C7AAD6 on 11/12/2020). If the checksum matches, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
 
-![Fig. 2: Run installer as administrator](../images/Windows/hosts-admin.png?raw=true)
+![Fig. 2: Run installer as administrator](../../images/Windows/hosts-admin.png?raw=true)
 
 If the installer runs successfully, you should see a message reading **The MVPS hosts file is now updated** (Fig. 3).
 
-![Fig. 3: Install notification](../images/Windows/hosts-bat.png?raw=true)
+![Fig. 3: Install notification](../../images/Windows/hosts-bat.png?raw=true)
 
 For the changes to have effect, you need to either restart your network service, or reboot the machine. From now on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To keep the hosts file up to date, periodically repeat the steps in this guide. For more information on how to manage your hosts file, check the [documentation][2] from MVPS.
 

@@ -18,13 +18,13 @@ Esto se puede hacer por SMS (mensaje de texto) o utilizando una aplicación de a
 
     * Selecciona Seguridad y luego Autenticación en dos pasos.
 
-![Two Step Auth](../images/Instagram/instagram-twofactor-1.PNG?raw=true)
+![Two Step Auth](../../images/Instagram/instagram-twofactor-1.PNG?raw=true)
 
 A continuación, puedes elegir el método de autenticación que prefieras:
 
     * **Autenticación en dos pasos > Mensaje de texto** - Si eliges Mensaje de texto, Instagram te enviará un código de 6 dígitos en un texto que debes ingresar en la aplicación. Asegúrate de guardar el código de recuperación en un lugar seguro, los vas a necesitar si pierdes acceso al número telefónico que estás usando.
 
-![Two Step Auth 2](../images/Instagram/instagram-twofactor-2.PNG?raw=true)
+![Two Step Auth 2](../../images/Instagram/instagram-twofactor-2.PNG?raw=true)
 
 * **Autenticación en dos pasos > App de autenticación > Instalar app** - Si decides usar una App de autenticación tendrás que instalar una de estas aplicaciones en tu teléfono. Si aún no tienes una, puedes pulsar Instalar app. Después de instalar la aplicación y seguir las instrucciones, ingresa el código que generó la nueva aplicación en tu Instagram. Guarda este código en un lugar seguro, porque lo vas a necesitar cada vez que entres en esta cuenta.
 

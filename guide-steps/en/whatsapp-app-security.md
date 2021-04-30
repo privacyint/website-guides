@@ -16,7 +16,7 @@ To set a fingerprint lock:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Privacy > Fingerprint lock**
 
-![Fingerprint lock](../images/Whatsapp/wa_privacy_2.png?raw=true)
+![Fingerprint lock](../../images/Whatsapp/wa_privacy_2.png?raw=true)
 
 ### Show security notifications
 
@@ -24,13 +24,13 @@ We suggest you turn this feature on. It will alert you when one of your contact�
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Security**
 
-![Security notifications](../images/Whatsapp/wa_security_notifications.png?raw=true)
+![Security notifications](../../images/Whatsapp/wa_security_notifications.png?raw=true)
 
 ### Whatsapp Web
 
 Whatsapp web allows you to use Whatsapp from a desktop in a browser by scanning a QR code. If you use this feature, you need to make sure you disconnect afterwards so that people won’t be able to read your conversations. We recommend you use Whatsapp web in private mode so that it will automatically delete your session when you close the window. You can always see the list of devices accessing your conversation by tapping looking at “Whatsapp Web” in the menu. This list should always be empty if you’re not currently using a desktop. Tap “Log out all devices” if you see something you don’t recognise here.
 
-![Whatsapp web, this list should be empty if you are not using a desktop](../images/Whatsapp/wa_web.png?raw=true)
+![Whatsapp web, this list should be empty if you are not using a desktop](../../images/Whatsapp/wa_web.png?raw=true)
 
 ### Apps settings/permissions
 
@@ -46,4 +46,4 @@ Alternatively:
 - Look for permissions
 - Find Whatsapp
 
-![Whatsapp permissions in Android](../images/Whatsapp/wa_app_permissions.png?raw=true)
+![Whatsapp permissions in Android](../../images/Whatsapp/wa_app_permissions.png?raw=true)

@@ -33,7 +33,7 @@ Para desactivar la función de copia de seguridad de los chats:
 * Toca Configuración > Cuenta > Copia de seguridad de los chats
 * Desactiva Copia de seguridad automática
 
-![Account Viber](../images/Viber/viber-account-1.PNG?raw=true)
+![Account Viber](../../images/Viber/viber-account-1.PNG?raw=true)
 
 **Escritorio y tabletas**
 
@@ -45,7 +45,7 @@ Para ver tus sesiones activas:
 * Toca Configuración > Cuenta > Escritorio y tabletas
 * Toca Desactivar en las sesiones que quieres borrar. Todos tus datos de Viber serán eliminados de ese dispositivo.
 
-![Account Viber 2](../images/Viber/viber-account-2.PNG?raw=true)
+![Account Viber 2](../../images/Viber/viber-account-2.PNG?raw=true)
 
 **Desactivar la cuenta**
 

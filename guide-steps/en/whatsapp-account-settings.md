@@ -16,7 +16,7 @@ To disable chat backup:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Chats > Chat Backup**
 
-![Chat backup settings](../images/wa_chat_backup_2.png?raw=true)
+![Chat backup settings](../../images/wa_chat_backup_2.png?raw=true)
 
 ### Profile photo/about/status visibility
 
@@ -30,7 +30,7 @@ To edit these settings:
 
 Last seen is the feature that allow the person you communicate with to see when you were last inside the app. This can unintentionally reveal that you had access to your phone and internet at the certain time and could be used against you. Setting this to "nobody" disables the feature.
 
-![Privacy settings](../images/wa_privacy_1.png?raw=true)
+![Privacy settings](../../images/wa_privacy_1.png?raw=true)
 
 ### Two step verification
 
@@ -40,4 +40,4 @@ To enable two steps verification:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Two step verification**
 
-![2 Factor Authentication settings](../images/wa_2fa.png?raw=true)
+![2 Factor Authentication settings](../../images/wa_2fa.png?raw=true)

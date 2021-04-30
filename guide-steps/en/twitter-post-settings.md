@@ -15,7 +15,7 @@ The first action you can take to make your twitter account more private is to pr
 
 This is an interesting solution if your account is not meant to be public and is rather for friends, family or for a specific community. It gives you great control on who can see what you post.
 
-![Privacy and safety app setting: protect your tweets](../images/Twitter/tw_app_privacy_safety.png?raw=true)
+![Privacy and safety app setting: protect your tweets](../../images/Twitter/tw_app_privacy_safety.png?raw=true)
 
 **Photo tagging**
 
@@ -23,13 +23,13 @@ This is an interesting solution if your account is not meant to be public and is
 
 If you don't protect your tweets you might be tagged in photos by other people. You might not want photos of you posted on Twitter associated with your account. To prevent this from happening, disable photo tagging.
  
-![Disable photo tagging](../images/Twitter/tw_app_privacy_safety copy.png?raw=true)
+![Disable photo tagging](../../images/Twitter/tw_app_privacy_safety copy.png?raw=true)
 
 *Settings & Privacy > Privacy and Safety > Location information*
 
 Your location is sensitive information, we recommend you don't share it lightly. To prevent Twitter from using your location on your posts, disable "Location information" (or "Precise location" in the app)
 
-![Privacy and safety app setting: precise location](../images/Twitter/tw_app_privacy_safety2.png?raw=true)
+![Privacy and safety app setting: precise location](../../images/Twitter/tw_app_privacy_safety2.png?raw=true)
 
 **Discoverability & Contacts**
 
@@ -37,7 +37,7 @@ Your location is sensitive information, we recommend you don't share it lightly.
 
 To avoid people associating your email address with your twitter account (for example if it is a personal address that people might have obtained without your consent), disable the option for people to find you with your email address. We suggest you do the same with phone number.
 
-![Discoverability app settings](../images/Twitter/tw_app_discoverability.png?raw=true)
+![Discoverability app settings](../../images/Twitter/tw_app_discoverability.png?raw=true)
 
 **Manage contacts**
 In the same screen, Twitter lets you manage your contacts. Syncing your contact book will allow you to find other people on Twitter, but will also share these contacts with Twitter. We recommend you don't share your contacts to avoid revealing information about you or the people you know: disable Sync address book contact.

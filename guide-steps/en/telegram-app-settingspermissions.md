@@ -21,9 +21,9 @@ Alternatively:
 - Look for permissions
 - Find Telegram
 
-![Access app permissions](../images/Telegram/tg_appsettings.png?raw=true)
+![Access app permissions](../../images/Telegram/tg_appsettings.png?raw=true)
 
-![Telegram permissions](../images/Telegram/tg_appsettings2.png?raw=true)
+![Telegram permissions](../../images/Telegram/tg_appsettings2.png?raw=true)
 
 
 ### Contacts
@@ -38,7 +38,7 @@ To access these settings:
 - Open Telegram and tap the three bars on the top left corner
 - Tap **Settings > Privacy and Security > Sync contacts**
 
-![Telegram contact syncing](../images/Telegram/tg_contact_Sync.png?raw=true)
+![Telegram contact syncing](../../images/Telegram/tg_contact_Sync.png?raw=true)
 
 ### App password
 

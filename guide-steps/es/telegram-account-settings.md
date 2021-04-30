@@ -21,13 +21,13 @@ To access any of the settings discussed here
 
 Telegram pide un número telefónico para crear una cuenta. La configuración predeterminada permite que tus contactos vean tu número telefónico (podrían ser muchas personas si permites que la aplicación tenga acceso a tus contactos). Sin embargo, puedes configurar la visibilidad a “nadie”. Recomendamos esta configuración para evitar que las personas puedan encontrar tu nombre de usuario y ver tu número telefónico
 
-![Phone number visibility](../images/Telegram/tg_phonenum.png?raw=true)
+![Phone number visibility](../../images/Telegram/tg_phonenum.png?raw=true)
 
 ### Última vez y en línea
 
 Elige nadie para no dejar rastro del uso de tu teléfono
 
-![Last seen online setting](../images/Telegram/tg_privacy_sec2.png?raw=true)
+![Last seen online setting](../../images/Telegram/tg_privacy_sec2.png?raw=true)
 
 ### Foto de perfil
 
@@ -37,10 +37,10 @@ Recomendamos que no utilices una foto real tuya y limitar la visibilidad a “mi
 
 Establecer una contraseña para la nube evitará que las personas que tengan acceso a tu tarjeta SIM o a tus sesiones carguen tus chats. Ajustes > Privacidad y seguridad > Verificación en dos pasos. ¡Asegúrate de usar una contraseña exclusiva!
 
-![Two steps verification](../images/Telegram/tg_two_step.png?raw=true)
+![Two steps verification](../../images/Telegram/tg_two_step.png?raw=true)
 
 ### Eliminar mi cuenta
 
 Si usas Telegram con regularidad y quieres evitar que alguien acceda a tus conversaciones si no te conectas durante algún tiempo, podrías elegir 1 o 3 meses para esta función. ¡Tu cuenta y toda la información vinculada a la misma será eliminada si no te conectas durante el tiempo que hayas elegido!
 
-![Account deletion](../images/Telegram/tg_deleteacc.png?raw=true)
+![Account deletion](../../images/Telegram/tg_deleteacc.png?raw=true)
