@@ -28,7 +28,7 @@ Click **Allow** to proceed with the setup (Fig. 4).
 
 ![Fig. 4: Allow Blokada to setup a VPN](../../images/ios/blockada-vpn.jpg?raw=true)
 
-Blokada should be enabled now. To select a blocking list, click on the **Advanced** tab (Fig. 5), and then select one (or more) from the list. You might want to use the same list we suggest in our DNS guides, Steven Black hosts list, as it is often updated (the first item, Energized, was last updated on 2018).
+Blokada should be enabled now. To select a blocking list, click on the **Advanced** tab (Fig. 5), and then select one (or more) from the list. You might want to use the same list we suggest in our DNS guides, Steven Black hosts list or [Energized](https://github.com/EnergizedProtection/block), which is also frequently updated.
 
 ![Fig. 5: Select a blocking list](../../images/ios/blockada-lists.jpg?raw=true)
 
