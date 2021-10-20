@@ -24,7 +24,7 @@ On the Settings page, click on **Privacy and security**. In this page you can ch
 ##### Cookies and other site data #####
 Do Not Track (DNT) is a signal that your browser can send when browsing the web to signal to websites that you do not want to be tracked. Not all websites respect this but you might want to enable it nonetheless. For more protection, refer to [our guide on installing an ad-blocker](chrome-ublock-origin.md). 
 
-To enable DNT, enable **Send a "Do Not Track" request with your browsing traffic**, and disable **"Preload pages for faster browsing and searching"**.
+To enable DNT, click **Cookies and other site data** and enable **Send a "Do Not Track" request with your browsing traffic**. ou can also disable **"Preload pages for faster browsing and searching"**.
 
 ##### Security #####
 Enable **Standard protection** on the Safe Browsing settings (You may want to use enhanced protection but be aware that this requires additional data to be sent to Google). Then, click the arrow on the right to open the advanced settings panel. To prevent additional data from being sent to Google, disable **Help improve security on the web for everyone** (Fig. 3). 
