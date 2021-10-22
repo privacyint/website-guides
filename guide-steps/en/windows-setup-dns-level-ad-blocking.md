@@ -18,7 +18,7 @@ After the files are extracted, you might want to check the integrity of the host
 
 ```CertUtil -hashfile C:\Users\YourUserName\pathToExtractedFile\HOSTS MD5```
 
-The output of this command should match the one on the MVPS website (9DC23CE4E0678AECD80CD553F4996A88 on 22/10/2020). If the checksum matches, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
+The output of this command should match the one on the MVPS website (9DC23CE4E0678AECD80CD553F4996A88 on 22/10/2021). If the checksum matches, right-click on the `mvps.bat` file and select **Run as administrator** (Fig. 2).
 
 ![Fig. 2: Run installer as administrator](../../images/Windows/hosts-admin.png?raw=true)
 
