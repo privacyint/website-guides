@@ -16,7 +16,7 @@ Para cambiar la configuración, haz clic en el ícono de candado en la esquina i
 
 ![Fig. 2: Ingresa la contraseña y haz clic en Desbloquear (Unlock)](../../images/MacOS/settings-unlock.jpg?raw=true)
 
-En el menú de la izquierda, desplázate hacia abajo y haz clic en **Publicidad** (Fig. 3). Para renovar tu Ad ID, haz clic en **Restablecer identificador de publicidad** y luego haz clic en **Restablecer identificador** cuando se solicite. Para desactivar los anuncios personalizados, activa **Limitar seguimiento de anuncios**.
+En el menú de la izquierda, desplázate hacia abajo y haz clic en **Publicidad** (Fig. 3). Para desactivar los anuncios personalizados, desactiva **Limitar seguimiento de anuncios personalisados**.
 
 ![Fig. 3: Limitar seguimiento de anuncios (Limit ad tracking)](../../images/MacOS/settings-ads.jpg?raw=true)
 
