@@ -16,7 +16,7 @@ To change the settings you need to click the lock icon in the lower left corner 
 
 ![Fig. 2: Unlock settings](../../images/MacOS/settings-unlock.jpg?raw=true)
 
-On the left menu, scroll down and click on **Advertising** (Fig. 3). To renew your Ad-ID, click on **Reset Advertising Identifier** and then click on **Reset identifier when prompted**. To opt out of targeted ads, enable **Limit Ad
+On the left menu, scroll down and click on **Apple Advertising** (Fig. 3). To opt out of targeted ads, disable **Personalised Ads**
 
 ![Fig. 3: Disable Targeted Ads](../../images/MacOS/settings-ads.jpg?raw=true)
 
