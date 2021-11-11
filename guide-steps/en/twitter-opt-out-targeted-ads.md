@@ -13,16 +13,16 @@ Here's how you can minimise ad targeting by Twitter.
 ![Login page](../../images/Twitter/twitter-targeted-ads-1.png?raw=true)
 
 2. Navigate to Settings and Privacy
-![Settings and privacy page](../../images/Twitter/twitter-targeted-ads-2.png?raw=true)
+![Settings and privacy page](../../images/Twitter/tw-targeted-ads-2.png?raw=true)
 
 3. Click on Privacy and Safety
-![Settings and privacy](../../images/Twitter/twitter-targeted-ads-3.png?raw=true)
+![Settings and privacy](../../images/Twitter/tw-targeted-ads-3.png?raw=true)
 
 4. Scroll down to "Data sharing and off-Twitter activity". Click on "Ads preferences"
-![Click on "Ads preferences"](../../images/Twitter/twitter-targeted-ads-4.png?raw=true)
+![Click on "Ads preferences"](../../images/Twitter/tw-targeted-ads-4.png?raw=true)
 
 5. Untick box next to "Personalised ads"
-![Disable personalised ads](../../images/Twitter/twitter-targeted-ads-5.png?raw=true)
+![Disable personalised ads](../../images/Twitter/tw-targeted-ads-5.png?raw=true)
 
 (You can also see and remove the the inferred categories Twitter put you in. To do so, click on “Interests”.)
 
