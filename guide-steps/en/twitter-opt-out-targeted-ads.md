@@ -10,7 +10,7 @@ Twitter plays an increasingly important role as a space facilitating democratic 
 Here's how you can minimise ad targeting by Twitter. 
 
 1. Go to twitter.com and log in
-![Login page](../../images/Twitter/twitter-targeted-ads-1.png?raw=true)
+![Login page](../../images/Twitter/tw-targeted-ads-1.png?raw=true)
 
 2. Navigate to Settings and Privacy
 ![Settings and privacy page](../../images/Twitter/tw-targeted-ads-2.png?raw=true)
