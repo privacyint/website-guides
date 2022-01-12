@@ -30,11 +30,15 @@ To deploy Pi-hole on your home network, make sure you have all of the following:
 
 If you're starting with a fresh Raspberry Pi, start by installing Raspbian according to the [Raspberry Pi documentation][1]. Then, be sure to install `git` with the following command:
 
-```bash sudo apt install git ```
+```sudo apt install git ```
 
 To install Pi-hole, you'll clone its git repository and run the install script.
 
-```bash git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole cd "Pi-hole/automated install/" sudo bash basic-install.sh ```
+```git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole``` 
+
+```cd "Pi-hole/automated install/"``` 
+
+```sudo basic-install.sh ```
 
 The script will guide you through the installation steps and ask for your input to configure basic settings. Any settings you configure during installation can be updated later. At some point, it asks you to select an upstream DNS provider (Fig. 2). This is the server on which lookups of non-blocked hostnames will be performed.
 
