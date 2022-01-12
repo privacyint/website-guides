@@ -34,13 +34,15 @@ Si vas a utilizar una Raspberry Pi nueva, empieza por instalar Raspbian de acuer
 
 Para instalar Pi-hole, deberás clonar su repositorio git y ejecutar el script de instalación.
 
-```bash git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole cd "Pi-hole/automated install/" sudo bash basic-install.sh ```
+```git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole```
+```cd "Pi-hole/automated install/"``` 
+```sudo basic-install.sh ```
 
 El script te guiará por los pasos de la instalación y te pedirá indicaciones para configurar los ajustes básicos. Cualquier configuración realizada durante la instalación puede ser actualizada después. Durante el proceso, se te solicitará que selecciones un proveedor de DNS upstream (Fig. 2). Este es el servidor en el que se realizarán las búsquedas de nombres de host no bloqueados.
 
 ![Fig. 2: Selecciona DNS upstream](../../images/Pihole/dns.png?raw=true)
 
-A continuación, se te pedirá que selecciones un par de listas de anuncios (*adlists*). Te sugerimos que dejes las dos opciones activadas, que es como viene la configuración predeterminada (Fig. 3). Más adelante, podrás añadir listas personalizadas si lo deseas.
+A continuación, le pedirá que seleccione una lista de anuncios (*adlist*). Le sugerimos que deje activada la predeterminada (Fig. 3). Más adelante, podrás añadir más listas, incluidas las personalizadas, si lo deseas.
 
 ![Fig. 3: Selección de *adlist* en Pi-hole](../../images/Pihole/adlists.png?raw=true)
 
