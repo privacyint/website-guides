@@ -38,7 +38,7 @@ To install Pi-hole, you'll clone its git repository and run the install script.
 
 ```cd "Pi-hole/automated install/"``` 
 
-```sudo basic-install.sh ```
+```sudo ./basic-install.sh ```
 
 The script will guide you through the installation steps and ask for your input to configure basic settings. Any settings you configure during installation can be updated later. At some point, it asks you to select an upstream DNS provider (Fig. 2). This is the server on which lookups of non-blocked hostnames will be performed.
 
