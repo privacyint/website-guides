@@ -38,7 +38,7 @@ To install Pi-hole, you'll clone its git repository and run the install script.
 
 ```cd "Pi-hole/automated install/"``` 
 
-```sudo basic-install.sh ```
+```sudo ./basic-install.sh ```
 
 The script will guide you through the installation steps and ask for your input to configure basic settings. Any settings you configure during installation can be updated later. At some point, it asks you to select an upstream DNS provider (Fig. 2). This is the server on which lookups of non-blocked hostnames will be performed.
 
@@ -68,7 +68,7 @@ When the installation is finished, you'll get a summary message that includes th
 
 ![Fig. 9: Pi-hole installation summary](../../images/Pihole/summary.png?raw=true)
 
-Click OK to conclude the installation. To be sure the installation succeeded, open a web browser and go to <http://IP_ADDRESS/admin>, where `IP_ADDRESS` is the IPv4 address of your Pi-hole device (Fig. 9). Note that the <http://pihole/admin> only works **after** you setup your device to use the Pi-hole DNS server. Click on log-in and enter your (randomly-generated) password. You should now be in the Pi-hole admin panel (Fig. 10).
+Click OK to conclude the installation. To be sure the installation succeeded, open a web browser and go to <http://IP_ADDRESS/admin>, where `IP_ADDRESS` is the IPv4 address of your Pi-hole device (Fig. 9). Note that the <http://pi.hole/admin> only works **after** you setup your device to use the Pi-hole DNS server. Click on log-in and enter your (randomly-generated) password. You should now be in the Pi-hole admin panel (Fig. 10).
 
 ![Fig. 10: Pi-hole admin panel](../../images/Pihole/admin.png?raw=true)
 
