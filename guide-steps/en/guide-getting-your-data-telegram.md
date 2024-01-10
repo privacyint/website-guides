@@ -15,18 +15,18 @@ The information you share on Telegram can be very revealing. It can also be misi
 
 **How to find out what data Telegram stores about you**
 
-a) In order to be able to access your data, you will need to download the Telegram desktop app. You will not be able to access your data from the phone app itself. 
+a) In order to be able to access your data, you will need to download the Telegram desktop app. You will not be able to access your data from the phone app itself. If you are on macOS, you need to install the cross-platform version of Telegram (which you can get from [here](https://desktop.telegram.org/)).
 
 b) Open your Telegram desktop app and ensure you are signed into your Telegram account. 
 
 ![Image showing Telegram desktop](../../images/Cloud-Guides/Telegram/Telegram1.png?raw=true)
 
-c) On the desktop app's homescreen, click on the three horizontal lines on the top left corner to open the app menu. Once the menu pops up, select "Settings".
+c) On the desktop app's home screen, click on the three horizontal lines on the top left corner to open the app menu. Once the menu pops up, select `Settings`.
 
 ![Image showing three horizontal lines in Telegram](../../images/Cloud-Guides/Telegram/Telegram2.png?raw=true)
 ![Image showing where to find settings in Telegram desktop](../../images/Cloud-Guides/Telegram/Telegram3.png?raw=true)
 
-d) On the screen that shows the 'Settings' options, scroll down to the 'Privacy and Security' option, then select 'Export Telegram Data'.
+d) On the screen that shows the `Settings` options, scroll down to the `Advanced` option, then select `Export Telegram Data`.
 
 ![Image showing Telegram settings menu](../../images/Cloud-Guides/Telegram/Telegram4.png?raw=true)
 
@@ -34,13 +34,21 @@ e) When you select the option to 'Export Telegram Data,' you will see a number o
 
 ![Image showing export data menu in Telegram](../../images/Cloud-Guides/Telegram/Telegram5.png?raw=true)
 
-f) You can choose the format you wish to export your data in. Choose to either export it in human readable HTML or in machine-readable JSON format, then click 'Export.'
+f) You can choose the format you wish to export your data in. Choose to either export it in human readable HTML or in machine-readable JSON format, then click `Export`.
 
 ![How to select format of the data](../../images/Cloud-Guides/Telegram/Telegram6.png?raw=true)
 
-g) When you have clicked 'Export' the desktop app will collate the requested information. When that process is done, you will be able to click on the 'Show My Data' button.
+g) When you click `Export` the desktop app will collate the requested information. For security reasons, you will be prompted to confirm the export request from another device. You can also wait 24 hours and then perform the request from the same device.
 
-![Image showing how to export data](../../images/Cloud-Guides/Telegram/Telegram7.png?raw=true)
+![Image showing the export security warning](../../images/Cloud-Guides/Telegram/Telegram7.png?raw=true)
+
+e) If your Telegram account is linked to another device, you will be prompted there to allow or reject the export request. After you click `Allow`, the export process should begin in your computer. If not, just repeat steps c) to g), and this time you will not be prompted to authorize the request.
+
+![Image showing the export request on mobile](../../images/Cloud-Guides/Telegram/Telegram8.png?raw=true)
+
+e) When the export is complete, you will be able to click on the `Show My Data` button.
+
+![Image showing how to export data](../../images/Cloud-Guides/Telegram/Telegram9.png?raw=true)
 
 **Limiting data Telegram collects about you**
 
