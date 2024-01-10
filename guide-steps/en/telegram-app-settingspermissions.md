@@ -14,7 +14,7 @@ The first time you use Telegram it will ask for permissions to use your phone. T
 To access permissions:
 - Hold press on the Telegram icon
 - Tap the "info" icon
-- Tap permission
+- Tap Permissions
 
 Alternatively:
 - Go to your phone settings
@@ -40,12 +40,13 @@ To access these settings:
 
 ![Telegram contact syncing](../../images/Telegram/tg_contact_Sync.png?raw=true)
 
-### App password
+### Passcode lock
 
-You may set a password per device to unlock the app. This password is only valid on a given device. If there are chances that your device be accessed while unlocked you might want to add this second security layer. Make sure you use a unique password different from your two steps verification password!
+You may set a passcode per device to unlock the app. This passcode is only valid on a given device. If there are chances that your device be accessed while unlocked you might want to add this second security layer. 
 
 To access this setting:
 - Open Telegram and tap the three bars on the top left corner
-- Tap **Settings > Privacy and Security > App password**
+- Tap **Settings > Privacy and Security > Passcode Lock**
 
+You can also set a password instead, by clicking the three dots on the top right corner and then selecting `Switch to Password`. Make sure you use a unique password different from your two-step verification password!
 
