@@ -13,7 +13,8 @@ You might have used Telegram on another phone or a computer. A good practice aft
 
 To access this setting:
 - Open Telegram and tap on the three bars on the top left of the screen
-- Tap **Settings > Devices**
+- On a mobile device, tap **Settings > Devices**
+- On a computer, tap **Settings > Privacy and Security > Active sessions**
 - Terminate any session you don't recognise or tap *Terminate All Other Sessions* if you only use one device
 
 
@@ -21,6 +22,6 @@ To access this setting:
 
 ### Good practices
 
-- If a stranger starts a conversation with you claiming to be someone you know, try to ensure that they are who they claim they are **before** providing any information about yourself
-- Joining a group will make your phone number visible to all group members. Before joining a group we recommend you to be careful as to who might access this information
+- If a stranger starts a conversation with you claiming to be someone you know, try to ensure that they are who they claim they are **before** providing any information about yourself.
+- Joining a group will make your phone number visible to all group members. Before joining a group we recommend you to be careful as to who might access this information.
 - Messaging apps such as Telegram are often use to send virus through files and links. We recommend you to be very vigilant before downloading anything sent to you on Telegram (such as a file or document that requires to be open on your phone) or clicking links sent by people you don't trust.
