@@ -8,25 +8,21 @@ Apple offers a way for advertisers to uniquely identify you in order to track yo
 The Advertising ID is a unique identifier offered by the MacOS Operating System that advertisers might use to uniquely identify you. It facilitate the creating of a profile by advertisers or data brokers that can later be used for advertisement targeting or other purposes.
 
 ### Opt out of targeted advertising ###
-[We have written before][1] about the risks that targeted advertisements pose in regards to your digital privacy. To opt out of targeted ads on macOS, open the **System Preferences** app, go to the **Security & Privacy** page, and then click on the **Privacy** tab (Fig. 1).
+[We have written before][1] about the risks that targeted advertisements pose in regards to your digital privacy. To opt out of targeted ads on macOS, open the **System Preferences** app, and go to the **Privacy & Security** tab (Fig. 1).
 
-![Fig. 1: Privacy settings](../../images/MacOS/settings-privacy.jpg?raw=true)
+![Fig. 1: Privacy settings](../../images/MacOS/settings-privacy.png?raw=true)
 
-To change the settings you need to click the lock icon in the lower left corner of the window, input your password, and then click **Unlock** (Fig. 2).
+Scroll down and click on **Apple Advertising** (Fig. 2). To opt out of targeted ads, disable **Personalised Ads**
 
-![Fig. 2: Unlock settings](../../images/MacOS/settings-unlock.jpg?raw=true)
-
-On the left menu, scroll down and click on **Apple Advertising** (Fig. 3). To opt out of targeted ads, disable **Personalised Ads**
-
-![Fig. 3: Disable Targeted Ads](../../images/MacOS/settings-ads.jpg?raw=true)
+![Fig. 2: Disable Targeted Ads](../../images/MacOS/settings-ads.png?raw=true)
 
 ### Disable location data collection ###
-On the privacy menu (Fig. 1), select **Analytics**, and then disable **Share Mac Analytics** (Fig. 4) to prevent diagnostic messages which are shared with Apple from leaking your location data. 
+On the privacy menu (Fig. 1), select **Analytics & Improvements**, and then disable **Share Mac Analytics** (Fig. 3) to prevent diagnostic messages which are shared with Apple from leaking your location data. 
 
-![Fig. 4: Disable analytics](../../images/MacOS/settings-analytics.jpg?raw=true)
+![Fig. 3: Disable analytics](../../images/MacOS/settings-analytics.png?raw=true)
 
-Next, select **Location Services**, find the **System Services** item, and click on **Details...**. Disable **Location-Based Sugestions**, **Significant Locations**, **Location-Based Apple Ads**, and **Wi-Fi Networking** (Fig. 5).
+Next, select **Location Services**, find the **System Services** item, and click on **Details...**. Disable **Location-based sugestions**, **Significant locations**, **Mac Analytics**, and **Networking and wireless** (Fig. 4).
 
-![Fig. 5: Disable location-based ads](../../images/MacOS/settings-location.jpg?raw=true)
+![Fig. 4: Disable location-based ads](../../images/MacOS/settings-location.png?raw=true)
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
