@@ -20,7 +20,7 @@ Upon successful installation a notification appears on the top-right corner, and
 
 ![Fig. 3: Notification of successful installation](../../images/Chrome/agent-notify.png?raw=true)
 
-To check you currently assigned user-agent, click the icon (Fig. 4). If you stumble on a page which breaks when you have Random User Agent enabled, you can either disable it for that domain, clicking on **Enabled on this domain**, or pause the switcher temporarily, clicking on **Pause Switcher**.
+To check you currently assigned user agent, click the icon (Fig. 4). If you stumble on a page which breaks when you have Random User Agent enabled, you can either disable it for that domain, clicking on **Enabled on this domain**, or pause the switcher temporarily, clicking on **Pause Switcher**.
 
 ![Fig. 4: Random User Agent pop-up interface](../../images/Chrome/agent-test.png?raw=true)
 
