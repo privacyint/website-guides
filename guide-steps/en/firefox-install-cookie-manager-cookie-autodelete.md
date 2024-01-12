@@ -25,7 +25,7 @@ Upon successful installation a notification appears on the top-right corner, and
 
 ![Fig. 4: Cookie AutoDelete pop-up interface](../../images/Firefox/cad-test.png?raw=true)
 
-The extension disables automatic clean-up by default. To enable it, click the icon (Fig. 4) and then click on **Auto-clean disabled**. Now, when you close a browser tab, any cookies that are no longer in use are automatically deleted. This is a double edged sword: this means that all tracking cookies will be deleted but also means you will be logged out of any session you currently had open. Enabling this option is equivalent to "starting anew" every time you open your browser (although you can keep your tabs open, you won't be logged in anywhere apart from the website you whitelisted).
+The extension disables automatic clean-up by default. To enable it, click the icon (Fig. 4) and then click on **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser tab, any cookies no longer in use are automatically deleted. This is a double edged sword: this means that all tracking cookies will be deleted but also means you will be logged out of any session you currently had open. Enabling this option is equivalent to "starting anew" every time you open your browser (although you can keep your tabs open, you won't be logged in anywhere apart from the website you whitelisted).
 
 ### Avoid tracking from whitelisted cookies ###
 

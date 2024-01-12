@@ -24,12 +24,12 @@ Upon successful installation you'll see the Cookie AutoDelete Welcome page (Fig.
 
 ![Fig. 4: Cookie AutoDelete pop-up interface](../../images/Chrome/cad-test.png?raw=true)
 
-The extension disables automatic cleanup by default. To enable it, click the icon (Fig. 4) and then click on **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser tab, any cookies no longer in use are automatically deleted. This is a double edged swords: this means that all tracking cookies will be deleted but also means you will be logged out of any session you currently had open. Enabling this option is equivalent to "starting anew" every time you open your browser (although you can keep your tabs open, you won't be logged in anywhere apart from the website you whitelisted).
+The extension disables automatic clean-up by default. To enable it, click the icon (Fig. 4) and then click on **Auto-clean disabled**. That way, you don't have to remember to manually clean your cookies: when you close a browser tab, any cookies no longer in use are automatically deleted. This is a double edged sword: this means that all tracking cookies will be deleted but also means you will be logged out of any session you currently had open. Enabling this option is equivalent to "starting anew" every time you open your browser (although you can keep your tabs open, you won't be logged in anywhere apart from the website you whitelisted).
 
 ### Avoid tracking from whitelisted cookies ###
 
-If you want to disable Cookie AutoDelete for some website (e.g. your email client), you can whitelist it by clicking the icon and then clicking on **Whitelist** (Fig. 4). However, note that whitelisted cookies may still communicate between themselves and temporary cookies, thus tracking your activity. The two options below help you avoid this behaviour.
+If you want to disable Cookie AutoDelete for some website (e.g. your email client), you can whitelist it by clicking the icon and then clicking on **Whitelist** (Fig. 4). However, note that whitelisted cookies may still communicate between themselves and temporary cookies, thus tracking your activity.
 
-Adding a site to the whitelist is particularily useful if you want to stay connected on a particular site (like your email account) even after your restart your browser.
+Adding a site to the whitelist is particularly useful if you want to stay connected on a particular site (like your email account) even after your restart your browser.
 
 [1]: https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh
