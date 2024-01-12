@@ -2,7 +2,7 @@
 Adjusting Firefox settings to enhance your online privacy
 
 # Summary #
-'Firefox provides you with several mechanisms to protect your privacy. However, some of them are not enabled by default. In this guide you'll learn how to configure your Firefox browser settings to strengthen your online privacy.
+Firefox provides you with several mechanisms to protect your privacy. However, some of them are not enabled by default. In this guide you'll learn how to configure your Firefox browser settings to strengthen your online privacy.
 
 # Body #
 
@@ -16,8 +16,8 @@ Content blocking should be enabled by default on your Firefox installation. If n
 
 ![Fig. 2: Firefox Tracking Protection settings](../../images/Firefox/settings-tracking.png?raw=true)
 
-#### Enable Do Not Track ####
-When browsing the web, your browser may warn websites that you do not want to be tracked. Beware that not all websites respect this! For safer protection, please see [our guide on installing an ad-blocker](firefox-ublock-origin.md). Still, it's better to have this option turned on. Scroll down until you see the **Send websites a "Do Not Track" signal that you don't want to be tracked** and then click on **Always** (Fig. 3).
+#### Ask websites to respect your privacy ####
+When browsing the web, your browser may warn websites that you [do not want to be tracked](1). Beware that not all websites respect this! For safer protection, please see [our guide on installing an ad-blocker](firefox-ublock-origin.md). Still, it's better to have these options turned on. Scroll down until you see the **Web Site Privacy Preferences** (Fig. 3).
 
 ![Fig. 3: Firefox Do Not Track setting](../../images/Firefox/settings-dnt.png?raw=true)
 
@@ -37,20 +37,16 @@ Table 1 shows some of the advanced settings you can change to better protect you
 
 ![Fig. 6: Set an advanced Firefox setting](../../images/Firefox/settings-config-change.png?raw=true)
 
-| Setting                                             | Value   | Why                                                                                               |
-| :--                                                 | :--     | :--                                                                                               |
-| `media.navigator.enabled`                           | `false` | Prevent websites from checking the status of your microphone and camera                           |
-| `privacy.firstparty.isolate`                        | `true`  | Isolate first party domain cookies to reduce tracking across multiple websites                    |
-| `privacy.trackingprotection.cryptomining.enabled`   | `true`  | Prevent websites from running crypto miners in your browser                                       |
-| `privacy.trackingprotection.fingerprinting.enabled` | `true`  | Attempt to reduce your online fingerprint                                                         |
-| `geo.enabled`                                       | `false` | Disable location services, since they go through Google's servers                                 |
-| `network.prefetch-next`                             | `false` | Disable pre-fetching of webpages as this can pose a privacy risk                                  |
-| `network.websocket.enabled`                         | `false` | If you use a VPN, the use of WebSockets can leak your real IP address                             |
-| `dom.event.clipboardevents.enabled`                 | `false` | Prevent websites from getting a notification when you copy, cut, or paste something from the page |
-| `media.peerconnection.enabled`                      | `false` | If you use a VPN, the use of WebRTC can leak your real IP address                                 |
-| `dom.battery.enabled`                               | `false` | Prevent websites from reading your battery level                                                  |
-| `browser.send_pings`                                | `false` | Prevent website from tracking your clicks on pages                                                |
-| `browser.send_pings.require_same_host`              | `true`  | Allow click-tracking if send and receiving host match                                             |
-| `extensions.pocket.enabled`                         | `false` | Disable Pocket integration                                                                        |
+| Setting                                | Value   | Why  |
+| :--                                    | :--     | :--  |
+| `media.navigator.enabled`              | `false` | Prevent websites from checking the status of your microphone and camera |                    
+| `geo.enabled`                          | `false` | Disable location services, since they go through Google's servers |
+| `network.prefetch-next`                | `false` | Disable pre-fetching of webpages as this can pose a privacy risk |
+| `media.peerconnection.enabled`         | `false` | If you use a VPN, the use of WebRTC can leak your real IP address |
+| `dom.battery.enabled`                  | `false` | Prevent websites from reading your battery level |
+| `browser.send_pings.require_same_host` | `true`  | Allow click-tracking if send and receiving host match |
+| `extensions.pocket.enabled`            | `false` | Disable Pocket integration |
 
-Table 1: Recommend settings to harden your browser privacy
+Table 1: Recommended settings to harden your browser privacy
+
+[1]: https://en.wikipedia.org/wiki/Do_Not_Track
