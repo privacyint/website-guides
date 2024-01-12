@@ -32,7 +32,7 @@ If you're starting with a fresh Raspberry Pi, start by installing Raspbian accor
 
 ```sudo apt install git ```
 
-To install Pi-hole, you'll clone its git repository and run the install script.
+To install Pi-hole, you'll clone its `git` repository and run the install script.
 
 ```git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole``` 
 
@@ -44,9 +44,9 @@ The script will guide you through the installation steps and ask for your input 
 
 ![Fig. 2: Select upstream DNS](../../images/Pihole/dns.png?raw=true)
 
-Then, it will ask you to select an adlist. We suggest you leave the default on (Fig. 3). Later, you'll be able to add more lists, including custom ones, if you wish to.
+Then, it will ask you to select an ad-list. We suggest you leave the default on (Fig. 3). Later, you'll be able to add more lists, including custom ones, if you wish to.
 
-![Fig. 3: Pi-hole adlist selection](../../images/Pihole/adlists.png?raw=true)
+![Fig. 3: Pi-hole ad-list selection](../../images/Pihole/adlists.png?raw=true)
 
 Pi-hole is able to block ads on IPv4 and IPv6. Unless you have a specific reason to disable any of those protocols, you can leave both on (Fig. 4).
 
