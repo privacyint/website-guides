@@ -5,7 +5,7 @@ Install an ad-blocker on Microsoft Edge - Privacy Badger
 In this guide, you'll learn how to install Privacy Badger on Edge, a browser add-on devcelopped by the Electronic Frontier Foundation to block malicious ads and trackers.
 
 # Body #
-Privacy Badger is a browser add-on to block ads and trackers preventing companies from tracking your online activities. It keeps an up-to-date list of known trackers that it finds through automated tests (not conducted from your computer but by dedicated servers), and regularly pushes the updated list to your browser. This means that as soon as new ad servers are detected (say a new tracking company launch its product or an existing company deploys a new domain) they are blocked for Privacy Badger users. As such, it works well alongside other addons such as [uBlock Origin](/node/3392), which keeps a manually curated list on malicious services. 
+Privacy Badger is a browser add-on to block ads and trackers preventing companies from tracking your online activities. It keeps an up-to-date list of known trackers that it finds through automated tests (not conducted from your computer but by dedicated servers), and regularly pushes the updated list to your browser. This means that as soon as new ad servers are detected (say a new tracking company launch its product or an existing company deploys a new domain) they are blocked for Privacy Badger users. As such, it works well alongside other add-ons such as [uBlock Origin](/node/3392), which keeps a manually curated list on malicious services. 
 
 Note that Privacy Badger is a project of the Electronic Frontier Foundation and its [privacy policy can be found here][1].
 
