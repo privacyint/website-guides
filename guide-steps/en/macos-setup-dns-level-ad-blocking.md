@@ -13,20 +13,21 @@ To setup DNS-level ad-blocking, we will add a list of known ad-servers and track
 
 Start by opening a Finder window and then navigate to the **Applications > Utilities** folder and open the **Terminal** application. Then, type the following command into the prompt:
 
-```bash wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O hosts ```
+```bash curl -o hosts.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
 
-and press Enter. This command will download the Steven Black list to your current directory. Although unlikely, it's important to inspect the contents of the file, to ensure it does not contain malicious entries (e.g. paypal.com pointing to a phishing address that steals your credit card information). To do so, you can use `grep`. In the same terminal window, type the following command:
+and press Enter. This will download the Steven Black list to your current directory. Although unlikely, it's important to inspect the contents of the file, to ensure it does not contain malicious entries (e.g. paypal.com pointing to a phishing address that steals your credit card information). To do so, you can use `grep`. In the same terminal window, type the following command:
 
-```bash grep -E '^(\s*)[1-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s*.*\..*' hosts ```
+```bash grep -E '^(\s*)[1-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s*.*\..*' hosts.txt```
 
-and then press Enter. If there's any output (e.g: the command returns text), the file might have been tampered with. Delete it and choose another hosts file, for [example from this list](https://github.com/EnergizedProtection/block#formats). Once you have the URL for the this new list (for example the blu list URL is https://block.energized.pro/blu/formats/hosts.txt), replace the StevenBlack URL in the command above with this new URL. Repeat the second command to ensure that this file has not be tempered with.
+and then press Enter. If there's any output (e.g: the command returns text) that is not for the address `127.0.0.1`, the file might have been tampered with. Delete it and choose another hosts file, for example one from [these lists](2), by clicking the corresponding link under the Original column. Replace the StevenBlack URL in the command above with this new URL. Repeat the second command to ensure that this file has not be tampered with.
 
 If the hosts file is OK, you can move it to the correct location with the command below. On macOS, that's typically `/etc/hosts`. Please note that if you have already modified you hosts file with custom entries in the past, you need to manually merge both files (open both files on your text editor and copy-paste the appropriate contents). In the same terminal window, type the following command:
 
-```bash sudo mv hosts /etc ```
+```bash cat hosts.txt | sudo tee -a /etc/hosts```
 
 Click Enter and you will be prompted to enter your password. Write your password in the prompt (it will not show up as you type, and that's expected) and click Enter again. For the changes to have effect, you need to either restart your network services or restart your computer.
 
 From now on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To keep the hosts file up to date, periodically repeat the steps in this guide.
 
 [1]: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+[2]: https://github.com/blocklistproject/Lists#lists

@@ -19,14 +19,15 @@ and then press Enter. The file will be downloaded to your current directory. Alt
 
 ```grep -E '^(\s*)[1-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\s*.*\..*' hosts ```
 
-and then press Enter. If there's any output (e.g: the command returns text), the file might have been tampered with. Delete it and choose another hosts file, for example from [this list](https://github.com/EnergizedProtection/block#formats). Once you have the URL for the this new list (for example the blu list URL is https://block.energized.pro/blu/formats/hosts.txt), replace the StevenBlack URL in the command above with this new URL. Repeat the second command to ensure that this file has not be tampered with.
+and then press Enter. If there's any output (e.g: the command returns text), the file might have been tampered with. Delete it and choose another hosts file, for example one from [these lists](2), by clicking the corresponding link under the Original column. Replace the StevenBlack URL in the command above with this new URL. Repeat the second command to ensure that this file has not be tampered with.
 
 If the hosts file is OK, you can move it to the correct location. On Linux systems that's typically `/etc/hosts`, but be sure to check your distribution's manual. Please note that if you have already modified you hosts file with custom entries in the past, you need to manually merge both files (open both files on your text editor and copy-paste the appropriate contents). In the same terminal window, type the following command.
 
-```sudo mv hosts /etc ```
+```cat hosts | sudo tee -a /etc ```
 
 Click Enter and you will be prompted to enter your password. Write your password in the prompt (it will not show up as you type, and that's expected) and click Enter again. For the changes to have effect, you need to either restart your network service (check your distribution's manual for instructions on how to do that), or reboot the machine.
 
 From now on, your operating system will block any request to ad-servers and trackers contained in your hosts file. To keep the hosts file up to date, periodically repeat the steps in this guide.
 
 [1]: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+[2]: https://github.com/blocklistproject/Lists#lists
