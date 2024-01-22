@@ -4,19 +4,19 @@
 Whatsapp - account settings
 
 # Summary
-Protecting your account starts with configuring the settings of your Whatsapp account to tighten your privacy and limit risks. This guide addresses backups, the primary risk in Whatsapp, profile visibility and two factor verification
+Protecting your account starts with configuring the settings of your Whatsapp account to tighten your privacy and limit risks. This guide addresses backups — the primary risk in Whatsapp — profile visibility,and two factor verification
 
 # Body
 ### Chat backup
-This is by far the most important setting in Whatsapp, if you must do one thing, do this. Because Whatsapp is end to end encrypted, your messages are not stored anywhere by default. This means that if you were to lose or change your device, all messages would be lost. Since this is not desirable for a lot of people, Whatsapp allows users to backup their chat history on the Cloud, either on iCloud for iPhone users or Google drive for Android users. These backups are potentially a threat to your privacy as anyone with access to your Apple or Google account could access it. It might also be possible for law enforcement to access it which is not the case with the conversation on your phone.
+This is by far the most important setting in Whatsapp, if you must do one thing, do this. Because Whatsapp is end to end encrypted, your messages are not stored anywhere but your device by default. This means that if you were to lose or change your device, all messages would be lost. Since this is not desirable for a lot of people, Whatsapp allows users to backup their chat history on the Cloud, either on iCloud for iPhone users or Google Drive for Android users. These backups are potentially a threat to your privacy as anyone with access to your Apple or Google account could access it. It might also be possible for law enforcement to access it which is not the case with the conversation on your phone.
 
-**Changing this setting to "none" is therefor the safest option.** This means that if you want to save some conversation you will need to do so manually.
+**Changing this setting to "none" is therefore the safest option.** This means that if you want to save some conversation you will need to do so manually.
 
 To disable chat backup:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Chats > Chat Backup**
 
-![Chat backup settings](../../images/wa_chat_backup_2.png?raw=true)
+![Chat backup settings](../../images/Whatsapp/wa_chat_backup_2.png?raw=true)
 
 ### Profile photo/about/status visibility
 
@@ -30,7 +30,7 @@ To edit these settings:
 
 Last seen is the feature that allow the person you communicate with to see when you were last inside the app. This can unintentionally reveal that you had access to your phone and internet at the certain time and could be used against you. Setting this to "nobody" disables the feature.
 
-![Privacy settings](../../images/wa_privacy_1.png?raw=true)
+![Privacy settings](../../images/Whatsapp/wa_privacy_1.png?raw=true)
 
 ### Two step verification
 
@@ -40,4 +40,4 @@ To enable two steps verification:
 - Open Whatsapp and tap the three dots in the top right corner
 - Tap **Settings > Account > Two step verification**
 
-![2 Factor Authentication settings](../../images/wa_2fa.png?raw=true)
+![Two step verification settings](../../images/Whatsapp/wa_2fa.png?raw=true)

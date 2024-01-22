@@ -10,7 +10,7 @@ Settings can only do so much to protect you. Your security and privacy also come
 # Body 
 ### Chat history
 
-If you know your device might be accessed and your Whatsapp conversations might be used against you, the chat history feature offers the opportunity to clean all your chats. “Delete all chats” will effectively delete all your conversations. Note that if you have chat backups enabled ([we don’t recommend this](/node/3916)), these conversations might still be available in the cloud. This setting also lets you export specific chats should you want to save it locally.
+If you know your device might be accessed and your Whatsapp conversations might be used against you, the chat history feature offers the opportunity to clean all your chats. “Delete all chats” will effectively delete all your conversations. Note that if you have chat backups enabled ([we don’t recommend this](/node/3916)), these conversations might still be available in the cloud. This setting also lets you export specific chats should you want to save them locally.
 
 To access chat history:
 - Open Whatsapp and tap the three dots in the top right corner
