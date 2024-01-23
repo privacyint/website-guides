@@ -4,7 +4,6 @@ Stop cross-app tracking on iOS
 # Summary #
 Until recently, advertisers have been able to track users across their iPhones and the web using the Identifier for Advertisers (IDFA), a unique identifier that could be accessed by the apps you used and the site you visited. From version 14.5 of iOS, Apple gives you the option to opt out of tracking that apps would normally try to do. This guide shows you where to find these settings on your phone, and how to tweak them to keep pesky data hungry companies off the radar.
 
-
 # Body #
 
 > **Warning**: If you are using iOS 14+, targeted advertisements are opt-in by default.
@@ -18,6 +17,6 @@ Tapping this tells the system not to share your Identifier for Advertisers (IDFA
 
 ![Fig. 1: Stop cross-app tracking on iOS](../../images/ios/cross-tracking.jpg?raw=true)
 
-If you decide to keep **Allow Apps to Request to Track** turned ON, when installing a new app you will be prompted about wether or not you want that app to track your activity across other companies and websites. So even in that case, you are still offered granular app by app control. You can always go back and review which apps you've given tracking permission to, at the bottom of the **Settings > Privacy > Tracking** menu.
+If you decide to keep **Allow Apps to Request to Track** turned ON, when installing a new app you will be prompted about whether or not you want that app to be able to track your activity across other companies and websites. So even in that case, you are still offered granular app by app control. You can always go back and review which apps you've given tracking permission to, at the bottom of the **Settings > Privacy > Tracking** menu.
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
