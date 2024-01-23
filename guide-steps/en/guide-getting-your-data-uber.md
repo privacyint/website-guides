@@ -26,52 +26,49 @@ This cloud guide enables you to obtain the data stored about you and to limit th
 
 **How to find out what data Uber stores about you**
 
-a) Open your Uber app. Press the button on the top left handside and then select 'Help'.
+Open your Uber app. Press the button on the top left and then select **Help**. Then, scroll down to the **All Topics** section and select the option **A guide to Uber**. 
 
-![Image from Uber app showing where to find 'Help'](../../images/Cloud-Guides/Uber/Uber1.png?raw=true)
+![Image from Uber app showing where the **Help** screen.](../../images/Cloud-Guides/Uber/uber-help.jpg?raw=true)
 
-b)  This will take you into the new screen. Scroll down to the 'All Topics' section and select 'More' as shown below: 
+![Image from Uber App showing where to find **A guide to Uber** section.](../../images/Cloud-Guides/Uber/uber-settings.jpg?raw=true)
 
-![Image from Uber App showing where to find 'More' section](../../images/Cloud-Guides/Uber/Uber2.png?raw=true)
+In this screen, select the **Data and privacy** option, and then select the option **Request a copy of your personal data**. 
 
-c) After this a new screen will appear. Select the 'Legal, Privacy and Other Requirements'
+![Image from Uber app showing where the **Data and privacy** options](../../images/Cloud-Guides/Uber/uber-privacy.jpg?raw=true)
 
-![Image from Uber app showing where the 'Legal, Privacy and Other Requirements' are located](../../images/Cloud-Guides/Uber/Uber3.png?raw=true)
 
-d) Then select the option 'Request a copy of your Uber data' from the list available. 
+In this page, you can see an overview of the data Uber has on you, by clicking on **explore an online summary**. To download your data, click on the **request a file of your data** link.
 
-![Images shows where to request your Uber data](../../images/Cloud-Guides/Uber/Uber4.png?raw=true)
-
-e) Next, confirm that you want to 'Request your copy of Uber data'
+![Uber personal data request page](../../images/Cloud-Guides/Uber/uber-request.jpg?raw=true)
 
 ![Image showing confirmation of requested data](../../images/Cloud-Guides/Uber/Uber5.png?raw=true)
 
-f) This will then exit the Uber app and open a new window in your internet browser. You will be required to log into you Uber account. Once you have completed the verification process, you will need to click on 'Request a copy of your Uber data' one last time. Afterwards you will receive a confirmation of your request which will look like this: 
+This will then exit the Uber app and open a new window in your internet browser. You will be required to log into your Uber account. Once you have completed the verification process, you will need to click on **Request a copy of your Uber data** one last time. Afterwards, you will receive a confirmation of your request which will look like this: 
 
 ![Image showing confirmation of data request](../../images/Cloud-Guides/Uber/Uber6.png?raw=true)
 
-h) You will also receive confirmation to your registered email account that your data request is being prepared and will take a couple of days: 
+You will also receive confirmation to your registered email account that your data request is being prepared and will take a couple of days: 
 
 ![Image showing confirmation of data request sent to email](../../images/Cloud-Guides/Uber/Uber7.png?raw=true)
 
 **How to limit the data stored in the cloud by Uber**
 
-a) The only way to limit your data being stored is to switch off location tracking option. To do this, click on the account button in the top left handside. Select 'Setting'. Then select 'Privacy Settings'
+The only way to limit your data being stored is to switch off location tracking option. To do this, click on the account button in the top left corner. Select **Settings**, and then select **Privacy Settings**
 
 ![Image showing how to find Privacy Settings in Uber App](../../images/Cloud-Guides/Uber/Uber8.png?raw=true)
 
-b) After this, select 'Location' as in the image below: 
+After this, select **Location** as in the image below: 
 
 ![Location settings in Uber app](../../images/Cloud-Guides/Uber/Uber9.png?raw=true)
 
-c) When you select 'Location' you will be able to change the location data you share with Uber. You can switch it off completely.
+When you select **Location** you will be able to change the location data you share with Uber. You can switch it off completely.
 
 ![Image showing how to switch off location services completely in Uber app](../../images/Cloud-Guides/Uber/Uber10.png?raw=true)
 
-d) If you switch off the location tracking, you will still be able to use Uber, but you will have to enter pickup and drop off addresses manually. The data can still be collected from the driver's device. However it will not be stored in your account. 
+If you switch off the location tracking, you will still be able to use Uber, but you will have to enter pickup and drop off addresses manually. The data can still be collected from the driver's device. However it will not be stored in your account. 
 
 ![Image showing how Uber uses location](../../images/Cloud-Guides/Uber/Uber11.png?raw=true)
 
-e) Please note, you will NOT be able to use Uber 'Bikes' or 'Scooter' options if your location services are disabled.
+Please note, you will NOT be able to use Uber 'Bikes' or 'Scooter' options if your location services are disabled.
 
 ![Image showing Bikes may not be available in Uber app](../../images/Cloud-Guides/Uber/Uber12.png?raw=true)
