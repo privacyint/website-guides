@@ -26,7 +26,7 @@ Since Nitter is decentralized, there are multiple instances of it deployed onlin
 
 If you want to open a Twitter link in Nitter, simply replace the **twitter.com** in the URL with the link to a Nitter instance (e.g. nitter.net). For instance, our Twitter page, twitter.com/privacyint, can be found on Nitter at the URL [nitter.net/privacyint](7) 
 
-![Privacy International page on Nitter.](../../images/Alternative-Frontends/nitter-pi.png)
+![Privacy International page on Nitter.](../../images/Alternative-Frontends/nitter-pi.png?raw=true)
 
 [Invidious](8) is a free and open source alternative to YouTube that respects your privacy. It  minimizes the extent of data exchanged with Google, providing a YouTube-like experience with reduced tracking. By avoiding direct interaction with the YouTube website, you can access and watch videos with a certain degree of anonymity, as your activity is not as closely tied to your Google account, nor linked to other online trackers: Invidious itself does not collect any data on your activity, unlike YouTube.
 
@@ -36,7 +36,7 @@ Similarly to Nitter, Invidious is also decentralized. You can check [here](9) fo
 
 If you want to open a YouTube link in Invidious, simply replace the **youtube.com** in the URL with the link to a Invidious instance (e.g. yewtu.be). For instance, our YouTube channel, youtube.com/@privacyint, can be found on Invidious at [yewtu.be/@privacyint](10).
 
-![Privacy International channel on Invidious.](../../images/Alternative-Frontends/invidious-pi.png)
+![Privacy International channel on Invidious.](../../images/Alternative-Frontends/invidious-pi.png?raw=true)
 
 
 ### Use alternative front-ends in your web browser
@@ -44,18 +44,18 @@ To simplify the process of using alternative front-ends in your web browser, you
 
 One example of such an extension is [Redirector](11), a general purpose URL rewriter that is available for most common web browsers (Firefox, Vivaldi, Chrome, Opera, Edge). It allows users to redirect any URLs based on regular expressions or wildcard patterns.
 
-![Main page of the Redirector extension.](../../images/Alternative-Frontends/redirector-home.png)
+![Main page of the Redirector extension.](../../images/Alternative-Frontends/redirector-home.png?raw=true)
 
 This extension is useful if you always want to redirect links to alternative front-ends without having to manually change the links. For example, if you always want to open Twitter links in Nitter, you can set up the following redirect after installing the extension.
 
-![Set up extension to redirect Twitter to Nitter](../../images/Alternative-Frontends/redirect-rule.png)
+![Set up extension to redirect Twitter to Nitter](../../images/Alternative-Frontends/redirect-rule.png?raw=true)
 
 To learn how to redirect YouTube links to an Invidious instance with Redirector, you can read [this guide](12).
 
 ### Use alternative front-ends in your mobile device
 In mobile devices, besides the web browser, you can also use apps that work with alternative front-ends instead of communicating with the online service directly. These typically store your data locally, without sharing it with third parties, and do not require accounts for you to use them. For instance, if you wish to use an alternative, privacy-respecting, front-end to Twitter, you can install the [Fritter](1) app; if you want an alternative to the YouTube app, you can use [Clipious](2) or [NewPipe](3). All are available for Android. In iOS, there are fewer options (e.g. [Yattee](8), an app for Invidious); however, you can still use the web browser to access alternative front-ends, as you would on a desktop computer.
 
-![NewPipe on Android showing our YouTube channel](../../images/Alternative-Frontends/newpipe-pi.jpg)
+![NewPipe on Android showing our YouTube channel](../../images/Alternative-Frontends/newpipe-pi.jpg?raw=true)
 
 In general, alternative front-ends will actually provide you with *more* features than the original service: for example, the NewPipe app let's you play YouTube videos in the background, create and manage playlists without needing an account, and download videos; the Fritter app allows you to bookmark tweets, find users and tweets, follow and group accounts, all without requiring that you have an account of your own.
 
