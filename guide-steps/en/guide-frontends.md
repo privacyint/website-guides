@@ -6,9 +6,9 @@ Popular Internet platforms, such as YouTube or Twitter, are not particularly fam
 
 # Body
 
-Many mainstream Internet platforms, such as YouTube and Twitter, often collect extensive user data, track online activities, and employ algorithms to create content recommendations based on individual preferences. For a privacy-conscious user, this is nothing short of a nightmare. As a solution, you may opt for alternative front-ends — that is, a different website for the same content — to mitigate these privacy risks and reduce your digital footprint. By using alternative interfaces, you can avoid some of the data tracking mechanisms employed by major platforms, thus preserving a higher level of anonymity and control over your online presence.
+Many mainstream Internet platforms, such as YouTube and Twitter, often collect extensive user data, track online activities, and employ algorithms to create content recommendations based on individual preferences. For a privacy-conscious user, this is nothing short of a nightmare. Making use of alternative front-ends allows you to access the content you want, while minimising the data collected about you. Essentially, this corresponds to using a different website to access the same content. By using alternative interfaces, you can avoid some of the data tracking mechanisms employed by major platforms, thus preserving a higher level of anonymity and control over your online presence.
 
-Alternative front-ends may prioritize open-source and decentralized models, offering users more transparency and control over how their data is handled (e.g. not storing it on the cloud). Decentralized platforms often distribute data across multiple servers, reducing the risk of centralized data breaches. The absence of targeted advertisements that are prevalent on mainstream platforms, [which poses a high risk of privacy infringement](13), is typical in alternative front-ends, as they adopt different monetization models that don't rely on extensive user profiling and data collection (e.g. donations). Opting for alternative front-ends minimizes your exposure to certain privacy risks associated with popular, data-driven platforms.
+Alternative front-ends may prioritize open-source and decentralized models, offering users more transparency and control over how their data is handled (e.g. not storing it on the cloud). Decentralized platforms often distribute data across multiple servers, reducing the risk of centralized data breaches. The absence of targeted advertisements that are prevalent on mainstream platforms, [which poses a high risk of privacy infringement](13), is a common feature in alternative front-ends, as they tend to adopt different monetization models that don't rely on extensive user profiling and data collection (e.g. donations). Opting for alternative front-ends minimizes your exposure to certain privacy risks associated with popular, data-driven platforms.
 
 ### Alternative front-ends
 
@@ -18,7 +18,7 @@ There are many available alternative front-ends for popular online platforms. Wh
 2. **Open Source and transparency**: Choose alternative front-ends that are open source and transparent about their codebase. Open-source projects allow users to inspect the code, fostering trust and ensuring that the platform operates with integrity. Since the code is available, anyone is free to inspect it for possible attacks (e.g. see [here](4) for an example where a user detected a privacy violation in a YouTube alternative instance, leading the project developer to remove it from the list of suggested instances.)
 3. **Decentralization and user control**: Look for alternatives that follow decentralized models and provide users with greater control over their data. Platforms that distribute data across multiple instances or offer features allowing users to manage their information effectively contribute to a more privacy-centric experience. Decentralized systems also reduce the risk of single-point failures and large-scale data breaches.
 
-Nitter and Invidious, alternative front-ends to Twitter and YouTube respectively, are two examples of alternatives that satisfy all the above requirements.
+Nitter and Invidious, alternative front-ends to Twitter and YouTube respectively, are two examples, among many, that satisfy all the above requirements. For a more extensive list of alternatives to popular platforms, refer to [this page](14).
 
 [Nitter](5) is a free and open source alternative Twitter front-end focused on privacy and performance that allows you to search and read tweets without requiring an account and without collecting any data on your activity. The Nitter website is also ~15 times lighter than Twitter's, which is particularly relevant if you're on a capped mobile data plan. 
 
@@ -72,3 +72,4 @@ In general, alternative front-ends will actually provide you with *more* feature
 [11]: https://github.com/einaregilsson/Redirector
 [12]: https://docs.invidious.io/redirector/
 [13]: https://privacyinternational.org/learn/micro-targeting
+[14]: https://github.com/digitalblossom/alternative-frontends
