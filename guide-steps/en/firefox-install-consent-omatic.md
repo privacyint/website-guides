@@ -5,7 +5,7 @@ Install an automatic consent pop-up filler on Firefox - Consent-O-Matic
 Consent-O-Matic is a browser add-on used to automatically answer consent pop-ups for you, according to your privacy preferences. In this guide, you'll learn how to install Consent-O-Matic on Firefox.
 
 # Body #
-In some locations, websites are required by law to ask you for consent if they want to collect data that can be used to track you. This has become a general practice across the web, and the typical way to ask for consent is by using pop-ups, sometimes with sketchy options to misguide you into giving consent. Consent-O-Matic is a browser add-on that allows you to set your privacy preferences, and then answers consent forms for you according to those preferences when they pop-up. This way, you ensure your privacy preferences are preserved while browsing the web, without the need to manually parse and fill consent forms.
+In some locations, websites are required by law to ask you for consent if they want to collect data that can be used to track you. This has become a general practice across the web, and the typical way to ask for consent is by using banners, sometimes with sketchy options to misguide you into giving consent. Consent-O-Matic is a browser add-on that allows you to set your privacy preferences, and then fills in consent forms automatically for you according to those preferences. This way, you ensure your privacy preferences are preserved while browsing the web, without the need to manually parse and fill consent forms.
 
 This guide explains how to install Consent-O-Matic on Firefox.
 
@@ -25,6 +25,5 @@ Upon successful installation a notification appears on the top-right corner, and
 By default, Consent-O-Matic sets your privacy preferences to not consent to any tracking. If you wish to change this, you can do so by toggling the appropriate category(s) in the settings page.
 
 ![Fig. 5: Consent-O-Matic settings page](../../images/Firefox/consent-o-matic-preferences.png?raw=true)
-
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/
