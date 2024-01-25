@@ -1,8 +1,8 @@
 # Title #
-A guide to keeping your location history private
+A guide to keeping your mobile phone's location history private
 
 # Summary #
-Carrying an always-on GPS chip with you on your phone means mobile devices can track your every move and build a profile based on your location history. In this guide you will learn how to keep your location history private. 
+Carrying your phone with an always-on GPS chip means mobile devices can track your every move and build a profile based on your location history. In this guide, we'll take you through steps you can take to keep your location history private. 
 
 # Body #
 In your day-to-day life, your smartphone silently captures and stores a digital footprint of your whereabouts by keeping a *location history*: this history is then used to enhance your mobile experience, such as by aiding in navigation and customizing app experiences according to your location habits. 
