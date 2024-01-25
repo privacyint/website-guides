@@ -2,7 +2,7 @@
 Adjusting Google account settings to protect your privacy
 
 # Summary #
-Google provides you with several options to protect the privacy and security of your account. However, most of them are not enabled by default. In this guide you'll learn how to adjust your Google account settings to protect your privacy and minimize tracking.
+Google provides you with several options to protect the privacy and security of your account. However, most of them are not enabled by default. In this guide we'll take you through some of these options so you can adjust your Google account settings to protect your privacy and minimize tracking.
 
 # Body #
 Google dominates online search. The company also owns YouTube and Android, with the latter [reportedly](https://www.macworld.co.uk/feature/iphone/iphone-vs-android-market-share-3691861/) making up nearly 75% of the global smart phone market share. We have [written](/node/2293) about the numerous problems that come from corporate concentration and the use of data by monopolistic companies, and there are numerous [examples](https://privacyinternational.org/corporateabusetimeline?tid=442) of Google's failure to protect its users. In this guide, we provide you with suggestions to help you protect the privacy of your Google account.
