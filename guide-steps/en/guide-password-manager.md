@@ -2,7 +2,7 @@
 A guide for using a password manager
 
 # Summary
-A password manager is like having a vault for your online secrets, so that you have a safer online presence. In this guide, you will learn how to pick the right one, and easily fit it into your digital routine.
+A password manager is essentially a vault for your online secrets, so that you have increased control over your passwords and therefore a safer online presence. In this guide, you will learn how to pick the right one, and easily fit it into your digital routine.
 
 # Body
 
@@ -18,11 +18,11 @@ A password manager is a tool to solve these problems: it is designed to manage a
 
 - **Audited security practices**: Choose a password manager that undergoes regular security audits and is transparent about its practices. This provides a layer of assurance, as independent security assessments or audits offer external validation of the password manager's commitment to maintaining a high standard of security and privacy. Regular audits help ensure that the password manager is adhering to best practices and that potential vulnerabilities are promptly identified and addressed. Security audits provide an extra guarantee that the password manager prioritizes the security of your sensitive information.
 
-- **Zero-Knowledge architecture**: Prioritize password managers that employ a zero-knowledge or zero-access architecture. This means that even the service provider cannot access your stored data or master password. This ensures an extra layer of security, especially relevant for individuals who may face targeted surveillance or persecution. If a provider of such a service is hacked or faces external pressures to disclose your data, the stored information remains unintelligible to whoever gains access, ensuring your passwords remain secure.
+- **Zero-Knowledge architecture**: Prioritize password managers that employ a zero-knowledge or [zero-access architecture](1). This means that even the service provider cannot access your stored data or master password. This ensures an extra layer of security, especially relevant for individuals who may face targeted surveillance or persecution. If a provider of such a service is hacked or faces external pressures to disclose your data, the stored information remains unintelligible to whoever gains access, ensuring your passwords remain secure.
 
 The following are examples of mainstream password managers:
 
-- [Keepass](3) is an open-source, ad-, tracker-, and cloud-free password manager. It stores your passwords in a local, encrypted vault, and allows to you generate . It has been [audited by the EU-Free and Open Source Software Auditing Community](2), and has a proven track record of being safe and protecting your security. There are several clients you can use to interact with a Keepass vault. [KepassXC](https://keepassxc.org/) is a cross-platform client for desktop and mobile, that enables you to interact with your vault. It provides a browser extension to automatically fill login forms, save credentials when you creaate an online account, and provide you with random, unique, secure suggestions for passwords. On mobile devices, it integrates with your keyboard to provide credentials are an option, just like auto-complete.
+- [Keepass](3) is an open-source, ad-, tracker-, and cloud-free password manager. It stores your passwords in a local, encrypted vault, and allows you to generate secure passwords that you can customize according to the password requirements. It has been [audited by the EU-Free and Open Source Software Auditing Community](2), and has a proven track record of being safe and protecting your security. There are several clients you can use to interact with a Keepass vault. [KepassXC](https://keepassxc.org/) is a cross-platform client for desktop and mobile, that enables you to interact with your vault. It provides a browser extension to automatically fill login forms, save credentials when you create an online account, and provide you with random, unique, secure suggestions for passwords. On mobile devices, it integrates with your keyboard to provide credentials are an option, just like auto-complete. If an account of yours uses Time-Based One Time Passwords (TOTP) as a form of two-factor authentication, you can set up KeepassXC to generate these for you.
 
 ![Keepass awards as displayed in their website](../../images/Password-Manager/keepass-awards.png?raw=true)
 
@@ -31,7 +31,7 @@ The following are examples of mainstream password managers:
 
 - Apple's iCloud Keychain allows you to securely sync your passwords between your Apple devices without exposing that information to Apple. It provides a password manager with strong privacy and security guarantees. The password manager can automatically generate cryptographically strong password to use in Safari. In mobile devices, you can also use this functionality in apps. To learn how to setup iCloud Keychain on your device, see [this guide](5).
 
-- Most common web browsers (Firefox, Chrome, Edge) provide you with a simple, cloud-based password manager to store your credentials so you can share them between multiple devices (i.e. cloud-based). Generally, these password managers do not provide you with suggestions for passwords, which is left up to you. As such, we only recommend their usage as a last resort (e.g. instead of writing password on post-it notes).
+- Most common web browsers (Firefox, Chrome, Edge) provide you with a simple, cloud-based password manager. This allows you to store and synchronize your login credentials across multiple devices that use the same browser. However, it's important to note that these built-in password managers tend to offer fewer features compared to dedicated alternatives, such as password strength analysis, customizable options for secure password generation, and secure notes. It's worth considering that browser-based password managers have a limitation – they are exclusively tied to the web browser itself. As such, your stored passwords are accessible while browsing the web, but cannot seamlessly be used in other applications or programs.s
 
 
 [1]: https://bitwarden.com/resources/zero-knowledge-encryption-white-paper/
@@ -39,5 +39,6 @@ The following are examples of mainstream password managers:
 [3]: https://keepass.info
 [4]: https://keepassxc.org/
 [5]: https://support.apple.com/en-us/HT204085
+[6]: https://privacyinternational.org/explainer/5001/explainer-sms-30-years-down-line
 
-Adopting a password manager serves as a crucial step in fortifying your online security and privacy, since passwords should be the preferred private authentication method When choosing a password manager, prioritize key features highlighted here, such as vault encryption, and adherence to best security practices. Choose a tool that aligns with your privacy preferences and security needs to safeguard your sensitive information in a secure way.
+Adopting a password manager serves as a crucial step in fortifying your online security and privacy, since passwords should be the preferred private authentication method. As we've [written before](6), it is recommended that you complement passwords with some form of two-factor authentication (2FA) to further secure your account. In general, most dedicated password managers provide you with authenticators for 2FA (e.g. Keepass, Bitwarden, 1Password).  When choosing a password manager, prioritize key features highlighted here, such as vault encryption, and adherence to best security practices. Choose a tool that aligns with your privacy preferences and security needs to safeguard your sensitive information in a secure way.
