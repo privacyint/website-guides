@@ -34,9 +34,8 @@ To configure blocklists, which are disabled by default, click the **On-device bl
 
 ![Fig. 6: Rethink privacy blocklists.](../../images/Android/rethink-blocklists.jpg?raw=true)
 
-After enabling blocklists, your device should start blocking ads and trackers immediately. You can check this in the home screen of Rethink, in the **Apps** card (Fig. 2) To learn more about Rethink and its advanced features, visit its [official website][2].
+After enabling blocklists, your device should start blocking ads and trackers immediately. You can check this in the home screen of Rethink, in the **Apps** card (Fig. 2). To learn more about Rethink and its advanced features, visit its [official website][2].
 
 [1]: https://play.google.com/store/apps/details?id=com.celzero.bravedns
-
 [2]: https://rethinkdns.org/
 [3]: https://github.com/celzero/rethink-app
