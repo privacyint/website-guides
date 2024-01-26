@@ -24,15 +24,15 @@ a) Open your Twitter App and ensure you are signed into your Twitter account.
 
 ![Image showing Twitter profile](../../images/Cloud-Guides/Twitter/Twitter1.png?raw=true)
 
-b) On the app's homescreen, click on your profile picture to open app menu. Once menu pops up, select "Settings and Privacy"
+b) On the app's home screen, click on your profile picture to open app menu. Once menu pops up, select **Settings and Privacy**.
 
 ![Image showing settings and privacy in Twitter app](../../images/Cloud-Guides/Twitter/Twitter2.png?raw=true)
 
-c) On the screen that shows the Settings and Privacy options, select "Account." This will take you to a new screen.
+c) On the screen that shows the Settings and Privacy options, select **Your account**. This will take you to a new screen.
 
 ![Image showing a screen from Account in Twitter app](../../images/Cloud-Guides/Twitter/Twitter3.png?raw=true)
 
-d) On the Account page, select the "Your Twitter Data" or "Download an archive of your Data" option. 
+d) On the Account page, select the **Download an archive of your data** option. 
 
 e) You will access a new page and you may need to re-log in to the Twitter and enter your Twitter account password. Once you have done so, you will see "Download your Twitter data" is listed at the bottom of the page. You will then be able to click on the "Confirm" or "Request archive" button.
 
