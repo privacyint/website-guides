@@ -13,7 +13,7 @@ Tools such as the Oxygen [Forensic Cloud Extractor](https://www.oxygen-forensic.
 
 The information you share on Facebook can be very revealing. It can also be misinterpreted by law enforcement agencies and used to profile individuals. Once installed on a device, depending on your settings, the Twitter app has access to information such as your location, contact information and media stored on the same device. All of this data can be accessed remotely using cloud extraction technology.
 
-Even if you use end to end encrypted messaging, if you back up your Facebook messages to the cloud, they are accessible to [law enforcement].(https://privacyinternational.org/long-read/3300/cloud-extraction-technology-secret-tech-lets-government-agencies-collect-masses-data).
+Even if you use end to end encrypted messaging, if you back up your Facebook messages to the cloud, they are accessible to [law enforcement](https://privacyinternational.org/long-read/3300/cloud-extraction-technology-secret-tech-lets-government-agencies-collect-masses-data).
 
 **How to find out what data Facebook stores about you**
 
@@ -23,19 +23,17 @@ On the Menu landing page, scroll down until you see a drop down tab titled "Sett
 
 ![Image showing Facebook settings and privacy option](../../images/Cloud-Guides/Facebook/Facebook1.png?raw=true)
 
-b) Once in Settings, scroll down until you get to a part of the Settings menu titled "Your Facebook information."
+b) Once in Settings, scroll down until you get to a part of the Settings menu titled **Your Facebook information**.
 
 ![image showing where to find your information on Facebook App](../../images/Cloud-Guides/Facebook/Facebook2.png?raw=true)
 
-c) Once on the "Access your information" landing page you will see various categories of your information that you can access. Here you have an option to scroll down and access a particular category of information of your choice.
+c) Next to **Download profile information** click on **View**, and then select **Request a download** and click **Next**.  
 
-![Download your information on Facebook screenshot](../../images/Cloud-Guides/Facebook/Facebook3.png?raw=true)
-
-d) A second way to access information that has been collected about you is to select the option to 'Download your information'.
+d) Select the information the categories of information you want to download.
 
 ![Download your information](../../images/Cloud-Guides/Facebook/Facebook4.png?raw=true)
 
-If you do choose to download your information, then you will again have to select the different categories of information you want to see, select a date range, the format you want your downloaded information to be in and the media quality of the media files associated with your account.
+Finally, select a date range, the email were you will be notified when your download is ready, the format you want your downloaded information to be in and the media quality of the media files associated with your account.
 
 After selecting the options you are interested in then click on 'Create File'. You will get confirmation that your request has been registered.
 
