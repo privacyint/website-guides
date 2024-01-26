@@ -11,7 +11,7 @@ You might sometimes connect from a device that is not yours, for example someone
 
 ![Access your current sessions](../../images/Twitter/tw_browser_apps_session_1.png?raw=true)
 
-Here, you should remove all the sessions you don't recognise. If you are doing this from the only device where you use twitter, you can safely click *log out all other sessions*
+Here, you should remove all the sessions you don't recognise by clicking the **Revoke access** button next to it. If you are doing this from the only device where you use twitter, you can safely click **Log out all other sessions**.
 
 ![Log out all sessions and remove apps you don't recognize](../../images/Twitter/tw_browser_apps_session_2.png?raw=true)
 
