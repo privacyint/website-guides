@@ -8,7 +8,7 @@ If you are accessing Facebook through **your browser**, go to your profile and t
 
 ![Profile Settings 1](../../images/Facebook/fb-profile-1.png?raw=true)
 
-Then, if you go through the remaining fields you can change who you want to be able to see them. For your birthday, the settings are split between day/month and year, so that your friends can wish you a happy birthday without necessarily knowing your age. Your hometown is important information about you, so we recommend you leave it empty or remove it.
+Then, if you go through the remaining fields you can change who you want to be able to see them. For your birthday, the settings are split between day/month and year, so that your friends can wish you a happy birthday without necessarily knowing your age. Your home town is important information about you, so we recommend you leave it empty or remove it.
 
 To change the settings, click on the padlock icon appearing next to each field.
 
