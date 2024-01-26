@@ -1,8 +1,7 @@
 *Currently visible at: https://privacyinternational.org/node/3958*
 # Facebook - Post Settings
 
-This Guide Step covers the settings you can apply to your posts on Facebook, mainly who can see your posts.
-
+This guide covers the settings you can apply to your posts on Facebook, mainly who can see your posts.
 
 Let’s start by checking your default post sharing settings.
 
