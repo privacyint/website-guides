@@ -24,11 +24,11 @@ a) Open your Twitter App and ensure you are signed into your Twitter account.
 
 ![Image showing Twitter profile](../../images/Cloud-Guides/Twitter/Twitter1.png?raw=true)
 
-b) On the app's home screen, click on your profile picture to open app menu. Once menu pops up, select **Settings and Privacy**.
+b) On the app's home screen, click on your profile picture to open app menu. Once menu pops up, select **Settings and support** and then click on **Settings and privacy**.
 
 ![Image showing settings and privacy in Twitter app](../../images/Cloud-Guides/Twitter/Twitter2.png?raw=true)
 
-c) On the screen that shows the Settings and Privacy options, select **Your account**. This will take you to a new screen.
+c) On the screen that shows the Settings and privacy options, select **Your account**. This will take you to a new screen.
 
 ![Image showing a screen from Account in Twitter app](../../images/Cloud-Guides/Twitter/Twitter3.png?raw=true)
 
@@ -48,13 +48,13 @@ g) Access to your full Twitter data is not instant and Twitter will email confir
 
 **How to limit the data stored in the cloud by Twitter**
 
-a) Return to the "Settings and Privacy menu" and select the "Privacy and Safety" option
+a) Return to the "Settings and privacy menu" and select the **Privacy and safety** option
 
 ![Settings and Privacy menu image](../../images/Cloud-Guides/Twitter/Twitter7.png?raw=true)
 
-b) Scroll to the bottom of the menu page that appears, and select the "Location" option. Click on "Precise Location". Make sure that the box is unchecked.
+b) Scroll to the bottom of the menu page that appears, and scroll to the **Data sharing and personalization** section. Click on **Location information**. Make sure that the **Precise location** box is unchecked.
 
-c) Once you have unchecked the Precise Location box return to the previous screen. Then click on "Personalization and data". On the Personalization and data page, make sure that all five boxes/ options are unchecked. Remember to also uncheck the option to personalise ads that is on the top right corner of the screen.
+c) Once you have unchecked the Precise location box return to the previous screen. Then, toggle **Personalize based on places you've been** to uncheck.
 
 ![personalisation and data image 1 from Twitter App](../../images/Cloud-Guides/Twitter/Twitter8.png?raw=true)
 ![personalisation and data image 2 from Twitter App](../../images/Cloud-Guides/Twitter/Twitter9.png?raw=true)
