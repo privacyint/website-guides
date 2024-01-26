@@ -14,11 +14,15 @@ Here's [how to bulk opt-out of tracking on Android](/node/4317).
 
 ### How to minimise targeted ads via the Instagram app:
 
-1. Navigate to Settings. Scroll down and click on ads.
-![Instagram settings screen](../../images/Instagram/instagram-targeted-ads-3.png?raw=true)
+1. Navigate to **Settings** screen, scroll down and click on **See more in Accounts Centre**, then tap **Ad preferences** and select **Ad settings** (Fig. 1).
 
-2. Click on "Data about your activity from partners"
-![Click on "Data about your activity from partners"](../../images/Instagram/instagram-targeted-ads-3.png?raw=true)
+![Fig. 1: Instagram account center](../../images/Instagram/instagram-account-center.png?raw=true)
 
-3. Toggle the button next to "Use data from partners" to grey.
-![Toggle the button next to "Use data from partners" to grey.](../../images/Instagram/instagram-targeted-ads-3.png?raw=true)
+2. This should open a window in your web browser with your account settings. Under **Information used to show you ads**, click **Activity information from ad partners** and then tap **Review setting** (Fig. 2).
+
+![Fig. 2: Instagram ad settings](../../images/Instagram/instagram-ad-settings.png?raw=true)
+
+
+3. In this screen, click **No, don't make my ads more relevant by using this information** (Fig. 3).
+
+![Fig. 3: Instagram personalized ads opt out](../../images/Instagram/instagram-ad-opt-out.png?raw=true)
