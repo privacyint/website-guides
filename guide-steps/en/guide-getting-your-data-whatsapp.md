@@ -28,7 +28,7 @@ b) On the 'Account' menu, select the 'Request Account Info' option
 
 ![Image showing 'Request Account Info' in WhatsApp](../../images/Cloud-Guides/WhatsApp/WhatsApp2.png?raw=true)
 
-c) This will take you to the 'Request Account Info' page. Click on the 'Request Report' option.
+c) This will take you to the 'Request Account Info' page. Click on the **Request Account Report** option.
 
 ![Image showing request account info page](../../images/Cloud-Guides/WhatsApp/WhatsApp3.png?raw=true)
 
