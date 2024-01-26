@@ -8,13 +8,13 @@ A lot of third-party apps ask you to get access to your Instagram data. This is 
 **On the Web:**
 
 * After logging in, click the person icon on the upper-right corner of the screen, and then click the gear icon.
-* Go to Authorized Apps and have a look at which apps have access to your data.
-* If you see any app that shouldn't be there you can just click Revoke Access.
+* Go to **Authorized Apps** and have a look at which apps have access to your data.
+* If you see any app that shouldn't be there you can just click **Revoke Access**.
 
 **On mobile app:**
 
-* Go to your profile by clicking the bottom right corner icon. Then tap the three stripe icon on the top right and choose Settings.
-* Choose Security and then Apps and Websites.
-* Again, if you see any app that shouldn't be there you can just click Revoke Access.
+* Go to your profile by clicking the bottom right corner icon. Then tap the three stripe icon on the top right and choose **Settings** and then **Privacy**.
+* Click on **Apps and Websites**.
+* Again, if you see any app that shouldn't be there you can just click **Revoke Access**.
 
  
