@@ -32,7 +32,7 @@ c) This will take you to the 'Request Account Info' page. Click on the 'Request 
 
 ![Image showing request account info page](../../images/Cloud-Guides/WhatsApp/WhatsApp3.png?raw=true)
 
-d) You will receive confirmation that your request has been received. This confirmation is in the form of a 'Request Sent' banner in the middle of the screen. There will also be a date by which your requested account info will be ready.
+d) You will receive confirmation that your request has been received. This confirmation is in the form of a 'Request Sent' banner in the middle of the screen. There will also be a date by which your requested account info will be ready (typically, it takes three days).
 
 ![Request report option in WhatsApp](../../images/Cloud-Guides/WhatsApp/WhatsApp4.png?raw=true)
 
