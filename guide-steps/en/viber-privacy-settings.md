@@ -30,12 +30,12 @@ In case you are using Viber to talk to people that you do not fully trust, we re
 
 This setting may improve the quality of your calls, but it will reveal your IP address to whoever is on the call. Having access to your IP means that someone untrustworthy could potentially determine your location.
 
-In order to mitigate this risk we suggest you disable this feature.
+In order to mitigate this risk, we suggest you disable this feature.
 
 #### Personal Data
 
 The settings under 'Personal Data' allow you to control how Viber and third parties use your data.
 
-![Viber Personal Data](../../images/Viber/viber-privacy-3.jpg?raw=true)
+![Viber Personal Data](../../images/Viber/viber-privacy-3.png?raw=true)
 
 We recommend disabling all of these features. They do not improve your user experience of the app and this way your digital footprint is reduced. If you are curious to see what data Viber has collected on you you can **Request your data**. After you have disabled these settings it's best to also **Delete Your Data**, so that you make sure you delete any data Viber had collected on you before you took action.
