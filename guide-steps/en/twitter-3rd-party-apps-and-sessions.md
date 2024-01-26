@@ -9,10 +9,14 @@ Like many big platforms, Twitter can be used with different apps and paired with
 # Body
 You might sometimes connect from a device that is not yours, for example someone else's computer. We recommend you always log out after doing so, but if you forgot, you can view all active sessions by opening the **Settings** pane, and clicking on **Security and account access**. There, find the **Apps and sessions** section and open it.
 
-![Access your current sessions](../../images/Twitter/tw_browser_apps_session_1.png?raw=true)
+![Fig. 1: Access your current sessions](../../images/Twitter/tw_browser_apps_session_1.png?raw=true)
 
-In this screen you can see the apps and devices where your account is logged in. For each of these sections, you should remove the sessions you don't recognise by clicking it and then clicking on **Revoke access** button next to it. If you are doing this from the only device where you use Twitter, you can safely click **Log out all other sessions** in the **Sessions** page.
+In this screen you can see the apps and devices where your account is logged in. For each of these sections (Fig. 2), you should remove the sessions you don't recognise by clicking it and then clicking on **Revoke access** button next to it.
 
-![Log out all sessions and remove apps you don't recognize](../../images/Twitter/tw_browser_apps_session_2.png?raw=true)
+![Fig. 2: Access provided to your account](../../images/Twitter/tw_browser_apps_session_2.png?raw=true)
+
+ If you are doing this from the only device where you use Twitter, you can safely click **Log out all other sessions** in the **Sessions** page.
+
+ ![Fig. 3: Log out all sessions](../../images/Twitter/tw_browser_apps_session_3.png?raw=true)
 
 We also recommend you check the apps with access to your account and remove all the apps you don't recognise.
