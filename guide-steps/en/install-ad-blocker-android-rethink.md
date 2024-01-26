@@ -2,10 +2,10 @@
 Install an ad-blocker on Android - Rethink
 
 # Summary #
-Rethink is a free and open-source mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Rethink on your Android device.
+Rethink is a free and [open-source](3) mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Rethink on your Android device.
 
 # Body #
-Rethink is an ad-blocker that uses DNS servers to block malware, spyware, ads, and trackers across all apps on your device based on their hostname (URL). It also allows you to setup a firewall and a proxy for your connections. In this guide, you will learn how to use Rethink to setup DNS-level ad-blocking to block ads and trackers across your mobile apps and browser. 
+Rethink is an ad-blocker that uses DNS servers to block malware, spyware, ads, and trackers across all apps on your device based on their hostname (URL). It also allows you to setup a firewall and a proxy for your connections. In this guide, you will learn how to use Rethink to setup DNS-level ad-blocking to block ads and trackers across your mobile apps and browser.
 
 ### Installation ###
 
@@ -15,9 +15,10 @@ To install Rethink, visit its [Play Store page][1] and click on **Install** (Fig
 
 ### Setup ###
 
-After Rethink is installed, you can open it by clicking on the icon or clicking on **Open** in the Play Store. By default, Rethink is configured to setup both DNS and Firewall. We recommend you only setup DNS, unless you have a specific need for a firewall. To change the default mode, click the arrow next to the **Start** button (Fig. 2) and then choose the first option, **DNS** (Fig. 3). To enable Rethink, click the **Start** button.
+After Rethink is installed, you can open it by clicking on the icon or clicking on **Open** in the Play Store. By default, Rethink is configured to setup both DNS and Firewall. In order to block ads, it is enough to setup DNS. Unless you have a specific need for a firewall, we suggest you leave it off, as this may unintentionally block regular traffic on your device, which may affect your browsing experience or Internet-connect apps. To change the default mode, click the arrow next to the **Start** button (Fig. 2) and then choose the first option, **DNS** (Fig. 3). To enable Rethink, click the **Start** button.
 
 ![Fig. 2: Enable Rethink.](../../images/Android/rethink-open.jpg?raw=true)
+
 ![Fig. 3: Configure default Rethink modes.](../../images/Android/rethink-modes.jpg?raw=true)
 
 Once Rethink is running, it will route all DNS requests performed by your device (even in apps) through a DNS server of your choosing, and show you an overview of its activity (Fig. 4). It also allows you to setup blocklists for specific hostnames you want to block. This means that, if an app tries to track you by sending your data to the hostname `evil-tracker.org`, you can block the hostname in Rethink and the app is unable to send data (since the host can not be found), effectively protecting your device against this form of digital tracking.
@@ -38,3 +39,4 @@ After enabling blocklists, your device should start blocking ads and trackers im
 [1]: https://play.google.com/store/apps/details?id=com.celzero.bravedns
 
 [2]: https://rethinkdns.org/
+[3]: https://github.com/celzero/rethink-app
