@@ -11,11 +11,11 @@ The screenshots below outline some of the steps you can take to minimise the dat
 1. Once signed into the app, click on the three bars in the upper right-hand corner.
 ![TikTok account screen](../../images/TikTok/tiktok-targeted-ads-1.png?raw=true)
 
-2. Click on Privacy
+2. Click on **Privacy**
 ![TikTok settings page](../../images/TikTok/tiktok-targeted-ads-2.png?raw=true)
 
-3. Click on Ads Personalisation
+3. Click on **Ads**, and then tap **Ads personalization**.
 ![Click on Ads personalisation](../../images/TikTok/tiktok-targeted-ads-3.png?raw=true)
 
-4. Toggle the button next to Personalised Ads to grey.
+4. Toggle the button next to **Personalised Ads** to grey.
 ![Disable personalised ads](../../images/TikTok/tiktok-targeted-ads-4.png?raw=true)
