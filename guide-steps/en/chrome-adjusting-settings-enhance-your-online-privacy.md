@@ -11,29 +11,29 @@ In this guide you'll learn how to configure your Chrome browser settings to hard
 ### Changing settings in Chrome menu ###
 To access the settings, click on the three-dot menu on the upper right and then press **Settings** (Fig. 1), or type <chrome://settings/> in the URL bar and press Enter.
 
-![Fig. 1: Chrome settings menu](../../../images/Chrome/settings-menu.png?raw=true)
+![Fig. 1: Chrome settings menu](../../images/Chrome/settings-menu.png?raw=true)
 
 #### You and Google ####
-Chrome includes several features meant to improve your browsing experience that require you to share data with Google. You can disable these options by going to the Settings page, and clicking on **You and Google** > **Sync and Google Services**. Another thing you might want to do is disable **Autocomplete searches and URLs**, **Make searches and browsing better**, and **Allow Chromium sign-in** to prevent this data from being sent to Google's servers (Fig. 2).
+Chrome includes several features meant to improve your browsing experience that require you to share data with Google. You can disable these options by going to the Settings page, and clicking on **You and Google** > **Sync and Google Services**. Another thing you might want to do is disable **Improve search suggestions**, **Make searches and browsing better**, and **Allow Chromium sign-in** to prevent this data from being sent to Google's servers (Fig. 2).
 
-![Fig. 2: Sync settings](../../../images/Chrome/settings-sync.png?raw=true)
+![Fig. 2: Sync settings](../../images/Chrome/settings-sync.png?raw=true)
 
 #### Privacy and security ####
 On the Settings page, click on **Privacy and security**. In this page you can change some settings to protect yourself from online trackers.
 
-##### Cookies and other site data #####
+##### Third-party cookies #####
 Do Not Track (DNT) is a signal that your browser can send when browsing the web to signal to websites that you do not want to be tracked. Not all websites respect this but you might want to enable it nonetheless. For more protection, refer to [our guide on installing an ad-blocker](chrome-ublock-origin.md). 
 
-To enable DNT, click **Cookies and other site data** and enable **Send a "Do Not Track" request with your browsing traffic**. ou can also disable **"Preload pages for faster browsing and searching"**.
+To enable DNT, click **Third-party cookies** and enable **Send a "Do Not Track" request with your browsing traffic**.
 
 ##### Security #####
 Enable **Standard protection** on the Safe Browsing settings (You may want to use enhanced protection but be aware that this requires additional data to be sent to Google). Then, click the arrow on the right to open the advanced settings panel. To prevent additional data from being sent to Google, disable **Help improve security on the web for everyone** (Fig. 3). 
 
-![Fig. 3: Security settings](../../../images/Chrome/settings-security.png?raw=true)
+![Fig. 3: Security settings](../../images/Chrome/settings-security.png?raw=true)
 
 ##### Site settings #####
-On the permissions section, you can enable **Ask before accessing** on **all** permissions to ensure that website won't access your microphone or location without your knowledge. If you want sites to be unable to send and receive data after you closed a tab or window, disable **Background sync** (note that this may affect your browsing). 
+On the permissions section, you can enable **Ask before accessing** on **all** permissions to ensure that website won't access your microphone, location, or camera without your knowledge. If you want sites to be unable to send and receive data after you close a tab or window, disable **Background sync** (note that this may affect your browsing). 
 
-Finally, you can scroll to the bottom of the page and click on **Additional content settings**. Here you'll find an option to disable **Ads** that have been deemed intrusive or misleading by Google. While this is a simple option to enable, we suggest considering third party adblocker such as uBlock Origin or Privacy Badger to avoid letting Google decides which ads are problematic and block all ads.
+Finally, you can scroll to the bottom of the page and click on **Additional content settings**. Here you'll find an option to disable **Ads** that have been deemed intrusive or misleading by Google. While this is a simple option to enable, we suggest considering a third party ad-blocker, such as uBlock Origin or Privacy Badger, to avoid letting Google decides which ads are problematic and block all ads.
 
-![Fig. 4: Permission settings](../../../images/Chrome/settings-permissions.png?raw=true)
+![Fig. 4: Permission settings](../../images/Chrome/settings-permissions.png?raw=true)
