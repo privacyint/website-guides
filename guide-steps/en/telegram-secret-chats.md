@@ -7,7 +7,7 @@ This guide explains how to setup and use secret chats in Telegram so that your c
 
 # Body 
 
-Telegram allows you to have end to end encrypted chats, which means only you and other parties in the chat can read the messages. No one else can decipher them without access to either your or the other party's device — not even Telegram. As we've [written before](1), end to end encryption is an essential feature to help protecting the confidentiality and integrity of transmitted information. However, Telegram does not enable secret chats by default.
+Telegram allows you to have end to end encrypted chats, which means only you and other parties in the chat can read the messages. No one else can decipher them without access to either your or the other party's device — not even Telegram. As we've [written before][1], end to end encryption is an essential feature to help protecting the confidentiality and integrity of transmitted information. However, Telegram does not enable secret chats by default.
 
 
 To start a secret chat, open the profile -- not an existing chat -- of the user you want to message and click on the three vertical dots in the top right corner, then click on **Start secret chat**. You can have multiple secret chats with the same contact. After the connection is established, Telegram generates a picture for both parties representing the encryption key between you. **You should ensure — offline, or using another form of secure communication — that your images match**. If not, your connection should not be considered secure as it might be compromised by an attacker.

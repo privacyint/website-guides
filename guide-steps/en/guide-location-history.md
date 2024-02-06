@@ -22,9 +22,9 @@ Yet, it's essential to recognize the potential risks tied to this seemingly inno
 As location tracking becomes increasingly integrated into our digital lives, understanding and managing the associated privacy risks are crucial for protecting your privacy. The rest of this guide explains how to disable this feature on both Android and iOS.
 
 ### Android
-If you have a Google account associated with your Android device, chances are your location history is being stored. Recently, Google decided it will soon [stop storing your location stored on the cloud](1): however, it is still stored on your device, posing a potential privacy risk.
+If you have a Google account associated with your Android device, chances are your location history is being stored. Recently, Google decided it will soon [stop storing your location stored on the cloud][1]: however, it is still stored on your device, posing a potential privacy risk.
 
-To disable location history, go to your Google account settings. You can do so by visting [this link](2), opening the settings app on your device, or using the Google app. In the account settings, find the **Data & privacy** tab. 
+To disable location history, go to your Google account settings. You can do so by visting [this link][2], opening the settings app on your device, or using the Google app. In the account settings, find the **Data & privacy** tab. 
 
 ![Google account data & privacy settings.](../../images/Google/google-privacy-settings.jpg?raw=true)
 
@@ -34,7 +34,7 @@ Scroll down until you see the **History settings** section. Click on **Location 
 
 
 ### iOS
-Unlike Google, Apple keeps most of your location history on your device: the bits of information stored in the cloud are either [end-to-end encrypted](3), meaning only you can decipher them, or anonymized. As such, the risk of having your location history compromised by a data breach, or by a request from law enforcement to Apple for this data, is greatly reduced. However, as we explained earlier, having your location history stored on your device(s) still poses a privacy risk.
+Unlike Google, Apple keeps most of your location history on your device: the bits of information stored in the cloud are either [end-to-end encrypted][3], meaning only you can decipher them, or anonymized. As such, the risk of having your location history compromised by a data breach, or by a request from law enforcement to Apple for this data, is greatly reduced. However, as we explained earlier, having your location history stored on your device(s) still poses a privacy risk.
 
 To disable location history, go to **Settings > Privacy > Location services** and then scroll down until you find the **System services** option.
 

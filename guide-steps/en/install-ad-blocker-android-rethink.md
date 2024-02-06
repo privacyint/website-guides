@@ -2,7 +2,7 @@
 Install an ad-blocker on Android - Rethink
 
 # Summary #
-Rethink is a free and [open-source](3) mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Rethink on your Android device.
+Rethink is a free and [open-source][3] mobile application that uses DNS servers to block ads and trackers on your device to enhance your privacy. In this guide you'll learn how to install Rethink on your Android device.
 
 # Body #
 Rethink is an ad-blocker that uses DNS servers to block malware, spyware, ads, and trackers across all apps on your device based on their hostname (URL). It also allows you to setup a firewall and a proxy for your connections. In this guide, you will learn how to use Rethink to setup DNS-level ad-blocking to block ads and trackers across your mobile apps and browser.

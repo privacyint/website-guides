@@ -13,7 +13,7 @@ We suggest using Two-factor authentication, as it provides an extra security ste
 
 This code (the second factor) can be received either by SMS, an app, or a security key. Note that by default Twitter (X) forces you to use a phone number to receive an SMS. You can later enable Two-factor authentication with an app and remove the SMS option.
 
-In the settings page, click **Privacy and safety > Security and account access > Security > Two-factor authentication** and follow the instructions in [this page](1).
+In the settings page, click **Privacy and safety > Security and account access > Security > Two-factor authentication** and follow the instructions in [this page][1].
 
 ![Two Factor Authentication](../../images/Twitter/tw_browser_2fa.png?raw=true)
 

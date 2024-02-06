@@ -17,7 +17,7 @@ Content blocking should be enabled by default on your Firefox installation. If n
 ![Fig. 2: Firefox Tracking Protection settings](../../images/Firefox/settings-tracking.png?raw=true)
 
 #### Ask websites to respect your privacy ####
-When browsing the web, your browser may warn websites that you [do not want to be tracked](1). Beware that not all websites respect this! For safer protection, please see [our guide on installing an ad-blocker](firefox-ublock-origin.md). Still, it's better to have these options turned on. Scroll down until you see the **Web Site Privacy Preferences** (Fig. 3).
+When browsing the web, your browser may warn websites that you [do not want to be tracked][1]. Beware that not all websites respect this! For safer protection, please see [our guide on installing an ad-blocker](firefox-ublock-origin.md). Still, it's better to have these options turned on. Scroll down until you see the **Web Site Privacy Preferences** (Fig. 3).
 
 ![Fig. 3: Firefox Do Not Track setting](../../images/Firefox/settings-dnt.png?raw=true)
 

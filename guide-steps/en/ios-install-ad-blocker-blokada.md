@@ -17,7 +17,7 @@ After NextDNS is installed, you can open it by clicking on the icon. By default,
 
 ![Fig. 1: Enable NextDNS](../../images/ios/nextdns-home.png?raw=true)
 
-Now that NextDNS is enabled, you should configure it to start blocking ads. For this, you need to create an account on NextDNS website. To do so, go [here](3) and create your account. Then, you should be redirected to the setup screen.
+Now that NextDNS is enabled, you should configure it to start blocking ads. For this, you need to create an account on NextDNS website. To do so, go [here][3] and create your account. Then, you should be redirected to the setup screen.
 
 To setup a blocklist, go to the **Privacy** tab and then click on **Add a blocklist**. The website will show all the blocklists you can enable (Fig. 2)
 

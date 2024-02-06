@@ -7,7 +7,7 @@ Google provides you with several options to protect the privacy and security of 
 # Body #
 Google dominates online search. The company also owns YouTube and Android, with the latter [reportedly](https://www.macworld.co.uk/feature/iphone/iphone-vs-android-market-share-3691861/) making up nearly 75% of the global smart phone market share. We have [written](/node/2293) about the numerous problems that come from corporate concentration and the use of data by monopolistic companies, and there are numerous [examples](https://privacyinternational.org/corporateabusetimeline?tid=442) of Google's failure to protect its users. In this guide, we provide you with suggestions to help you protect the privacy of your Google account.
 
-To find the settings page for your account, either navigate to [this link](1), or open the Google app on your mobile device. If you use Android, you can also find this option in the Settings app. 
+To find the settings page for your account, either navigate to [this link][1], or open the Google app on your mobile device. If you use Android, you can also find this option in the Settings app. 
 
 ![Google account settings page](../../images/Google/google-settings.jpg?raw=true)
 
@@ -23,7 +23,7 @@ Then, scroll down to **Data from apps and services that you use**. Under **Third
 
 ![Google account data sharing settings](../../images/Google/google-data-apps.jpg?raw=true)
 
-Finally, find the **Personalised ads** and make sure to disable **My Ad Centre** and the options in **Partner Ads Settings**. Make sure to also disable **Personal results in Search**, so that Google will not use your account data to tailor your search results. This prevents Google and their partners from serving you [targetted advertisements](2) based on your account data.
+Finally, find the **Personalised ads** and make sure to disable **My Ad Centre** and the options in **Partner Ads Settings**. Make sure to also disable **Personal results in Search**, so that Google will not use your account data to tailor your search results. This prevents Google and their partners from serving you [targetted advertisements][2] based on your account data.
 
 ![Google account targeted ads settings](../../images/Google/google-data-ads.jpg?raw=true)
 
