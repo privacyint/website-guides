@@ -28,7 +28,7 @@ Once Rethink is running, it will route all DNS requests performed by your device
 
 To configure the DNS settings, click the **DNS** card in the main screen. In this page (Fig. 5), you can change the DNS server (i.e. the one answering requests from your device), and configure blocklists you want to use.
 
-![Fig. 5: Rethink DNS settings.](../../images/Android/Rethink-vpn.jpg?raw=true)
+![Fig. 5: Rethink DNS settings.](../../images/Android/rethink-dns-settings.jpg?raw=true)
 
 To configure blocklists, which are disabled by default, click the **On-device blocklists** option and then click on **Disabled**. This will prompt you to download blocklists that you can later enable. Click on **Download blocklists** to proceed. After the download finishes, you are shown a screen with categorized blocklists. To find privacy-related lists, scroll down to the **Privacy** section. We suggest you enable, at least, the **Recommended** lists. Finally, click **Apply** to save your changes.
 
