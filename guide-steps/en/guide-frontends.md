@@ -28,7 +28,7 @@ If you want to open a Twitter link in Nitter, simply replace the **twitter.com**
 
 ![Privacy International page on Nitter.](../../images/Alternative-Frontends/nitter-pi.png?raw=true)
 
-[Invidious][8] is a free and open source alternative to YouTube that respects your privacy. It  minimizes the extent of data exchanged with Google, providing a YouTube-like experience with reduced tracking. By avoiding direct interaction with the YouTube website, you can access and watch videos with a certain degree of anonymity, as your activity is not as closely tied to your Google account, nor linked to other online trackers: Invidious itself does not collect any data on your activity, unlike YouTube.
+[Invidious][15] is a free and open source alternative to YouTube that respects your privacy. It  minimizes the extent of data exchanged with Google, providing a YouTube-like experience with reduced tracking. By avoiding direct interaction with the YouTube website, you can access and watch videos with a certain degree of anonymity, as your activity is not as closely tied to your Google account, nor linked to other online trackers: Invidious itself does not collect any data on your activity, unlike YouTube.
 
 Invidious offers features such as the ability to watch videos, view comments, and subscribe to channels. Additionally, Invidious provides options for users to customize their experience, and it is often used by individuals who are concerned about privacy and data collection on mainstream platforms.
 
@@ -73,3 +73,4 @@ In general, alternative front-ends will actually provide you with *more* feature
 [12]: https://docs.invidious.io/redirector/
 [13]: https://privacyinternational.org/learn/micro-targeting
 [14]: https://github.com/digitalblossom/alternative-frontends
+[15]: https://invidious.io/
