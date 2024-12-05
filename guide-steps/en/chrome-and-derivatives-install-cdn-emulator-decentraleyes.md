@@ -1,13 +1,15 @@
+**Currently visible at: https://privacyinternational.org/node/4322**
+
 # Title  #
-Install a CDN-emulator on Chrome (and derivatives) - Decentraleyes
+Install a CDN-emulator on Chrome (and derivatives)
 
 # Summary #
-Decentraleyes is a browser add-on used for local content delivery network (CDN) emulation, that protects your privacy by evading large CDNs (e.g. Google Hosted Libraries). In this guide, you'll learn how to install Decentraleyes on Chrome (and derivatives) to prevent CDNs from tracking your online activity.
+Using a local content delivery network (CDN) emulation can help protect your privacy by evading large CDNs (e.g. Google Hosted Libraries). In this guide, you'll learn how to install a CDN emulator on Chrome (and derivatives) to prevent CDNs from tracking your online activity.
 
 # Body #
-Content delivery networks (CDNs) are geographically distributed network of proxy servers that seek to provide features such as better availability and performances for websites. While the goal is commendable, it also means that these CDN providers receive metadata related to the websites you visit (where they are setup). With this is mind, you might want to sacrifice the added convenience and avoid large CDN providers (such as Google and Cloudflare) to prevent them from obtaining any data related to your online browsing.
+Content delivery networks (CDNs) are geographically distributed network of proxy servers that seek to provide features such as better availability and performances for websites. While the goal is commendable, it also means that these CDN providers receive metadata related to the websites you visit (where they are setup). With this is mind, you might want to sacrifice the added convenience and avoid large CDN providers (such as Google and Cloudflare) to prevent them from obtaining any data related to your online browsing. You can read more about the risks of using public CDNs [here](https://httptoolkit.com/blog/public-cdn-risks/)
 
-To do so, this guide will explain how to install Decentraleyes on Chrome (and derivatives).
+To avoid large CDN providers you can use tools such as Decentraleyes, an [open source](https://git.synz.io/Synzvato/decentraleyes) extension that we'll go through bellow. 
 
 ### Installation ###
 
