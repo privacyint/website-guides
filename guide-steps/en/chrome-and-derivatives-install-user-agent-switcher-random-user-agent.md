@@ -1,11 +1,14 @@
+**Currently visible at: https://privacyinternational.org/node/4320**
+
+
 # Title #
-Install a user agent switcher on Chrome (and derivatives) - Random User Agent
+Install a user agent switcher on Chrome (and derivatives)
 
 # Summary #
-In this guide, you'll learn how to install Random User Agent on Chrome (and derivatives) to periodically change your browser's user agent and make it harder for trackers to fingerprinting you.
+In this guide, you'll learn how to install a browser extension to periodically change your browser's user agent and make it harder for trackers to fingerprinting you.
 
 # Body #
-When you access a website, your browser sends a string called the *User Agent* containing your browser's name, operating system, and other technical metadata of your device. Unfortunately, this metadata is often abused by trackers to build a *fingerprint* of your system and uniquely identify you throughout the web. To limit the efficiency of fingerprinting you can install a random agent switcher which periodically changes your browser's user agent, making it harder to uniquely identify you.
+When you access a website, [your browser sends a string called the *User Agent*](https://www.whatismybrowser.com/detect/what-is-my-user-agent/) containing your browser's name, operating system, and other technical metadata of your device. Unfortunately, this metadata is often abused by trackers to build a *fingerprint* of your system and uniquely identify you throughout the web. To limit the efficiency of fingerprinting you can install a tool which periodically changes your browser's user agent, making it harder to uniquely identify you. Random User-Agent is an example of an [open-source](https://github.com/tarampampam/random-user-agent?tab=readme-ov-file) tool that can help you achieve this.
 
 > **Warning**: Using an agent switcher may cause some pages to display incorrectly or not at all. To prevent this behaviour, we show how to disable the extension in such cases.
 
