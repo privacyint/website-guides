@@ -1,18 +1,22 @@
+**Currently visible at: https://privacyinternational.org/node/UPDATENODE**
+
 # Title  #
-Install an automatic consent pop-up filler on Microsoft Edge - Consent-O-Matic
+Install an automatic consent pop-up filler on Microsoft Edge
 
 # Summary #
-Consent-O-Matic is a browser add-on used to automatically answer consent pop-ups for you, according to your privacy preferences. In this guide, you'll learn how to install Consent-O-Matic on Microsoft Edge.
+Some browser add-ons help you to automatically fill out consent pop-ups while you browse the internet. In this guide, you’ll learn how to install one such add-on and how to configure it according to your preferences.
 
 # Body #
-In some locations, websites are required by law to ask you for consent if they want to collect data that can be used to track you. This has become a general practice across the web, and the typical way to ask for consent is by using banners, sometimes with sketchy options to misguide you into giving consent. Consent-O-Matic is a browser add-on that allows you to set your privacy preferences, and then fills in consent forms automatically for you according to those preferences. This way, you ensure your privacy preferences are preserved while browsing the web, without the need to manually parse and fill consent forms.
+Depending on where in the world you are visiting from, websites may seek consent as one way to justify their collection of data about you. This has become general practice across the web, and the typical way to ask for user consent is via banners that pop up first thing when the webpage loads. Often these banners will make use of design elements and user interfaces aiming to mislead or influence you in giving away consent to collect and process your data - these are called Dark Patterns and are a [well documented degenerate practice](https://www.cookieyes.com/blog/dark-patterns-in-cookie-consent/).
 
-This guide explains how to install Consent-O-Matic on Microsoft Edge.
+Consent-O-Matic is an [open-source](https://github.com/cavi-au/Consent-O-Matic) browser add-on that allows you to set your desired privacy preferences in advance (e.g. Reject all non-essential cookies), and fills in cookie consent banners automatically for you according to those preferences. This way you avoid having to navigate dark patterns and manually parse and fill consent forms.
+
+In this guide, you’ll learn how to install Consent-O-Matic on Microsoft Edge.
 
 ### Installation ###
-Like any other add-on, install Consent-O-Matic by visiting the [Chrome web store][1]. Then, select **Allow extensions from other stores** in the banner at the top of the page, and click **Allow to confirm**. Finally, install Consent-O-Matic by clicking **Add to Chrome** (Fig. 1) and then clicking on **Add** when prompted.
+Like any other add-on, install Consent-O-Matic by visiting the [Edge Add-ons page](https://microsoftedge.microsoft.com/addons/detail/eflcfflijdiekjkegjghbchoncjhfkda). Then, select **Allow extensions from other stores** in the banner at the top of the page, and click **Allow to confirm**. Finally, install Consent-O-Matic by clicking **Get** (Fig. 1) and then clicking on **Add** when prompted.
 
-![Fig. 1: Download Consent-O-Matic](../../images/Chrome/consent-o-matic-add.png?raw=true)
+![Fig. 1: Download Consent-O-Matic](../../images/Edge/consent-o-matic-add.png?raw=true)
 
 Upon successful installation a notification appears on the top-right corner, and the Consent-O-Matic icon is added to your toolbar. When you visit a website that requires your consent for tracking, Consent-O-Matic automatically fills the form according to your privacy preferences. If you wish to disable the add-on for the current website you are browsing, you can do so by clicking the add-on icon and then unticking the option under **Keep running on this site?**  (Fig. 2).
 
@@ -22,4 +26,3 @@ By default, Consent-O-Matic sets your privacy preferences to not consent to any 
 
 ![Fig. 4: Consent-O-Matic settings page](../../images/Firefox/consent-o-matic-preferences.png?raw=true)
 
-[1]: https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd
