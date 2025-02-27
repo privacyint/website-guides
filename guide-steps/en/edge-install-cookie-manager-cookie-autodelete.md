@@ -9,7 +9,7 @@ Browser cookies can be useful but are often abused to track your online activity
 # Body #
 Browser cookies allow websites to preserve session data such as your login credentials or items in your shopping basket so that you don't lose information when you close the page. Unfortunately, cookies are also often abused to track your online activity across the web. Using a dedicated addon, you can clean your cookies regularily to ensure that no unwanted cookie is kept in your browser, limiting the efficiency of online trackers.
 
-This guide explain how to install Cookie AutoDelete, an [open-source](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) web-browser add-on that helps you manage your cookies in automated ways.
+This guide takes you through the steps to install Cookie AutoDelete, an [open-source](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) web-browser add-on that helps you manage your cookies in automated ways.
 
 > **Warning**: Cookies are widely used on the web and this extension might break some website features. Be sure to understand what it does and how to disable it before installing it!
 
