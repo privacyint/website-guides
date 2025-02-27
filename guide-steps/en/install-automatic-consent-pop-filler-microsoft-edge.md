@@ -13,6 +13,8 @@ Consent-O-Matic is an [open-source](https://github.com/cavi-au/Consent-O-Matic) 
 
 In this guide, you’ll learn how to install Consent-O-Matic on Microsoft Edge.
 
+>Note: There are likely other add-ons or apps available and you can test alternatives. At PI we believe add-ons/apps should be open source as they can be audited. By using an independent, open-source and unencumbered/free add-on/app, you are more likely to avoid products with conflicts of interest, spyware, data-leakage, or blockers with “acceptable ads” programs. Here we show the set-up and settings of one such add-on/app that we’ve used at PI; others are likely similar with varying levels of configurability.
+
 ### Installation ###
 Like any other add-on, install Consent-O-Matic by visiting the [Edge Add-ons page](https://microsoftedge.microsoft.com/addons/detail/eflcfflijdiekjkegjghbchoncjhfkda). Then install Consent-O-Matic by clicking **Get** (Fig. 1) and then clicking on **Add** when prompted.
 
