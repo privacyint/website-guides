@@ -16,6 +16,6 @@ To change the settings, click on the padlock icon appearing next to each field.
 
 ![Profile Settings 3](../../images/Facebook/fb-profile-3.png?raw=true)
 
-If you are using the **Facebook App**, go to your profile and select Edit Public Details. Then spend your time going through each field. We used Education as an example, but all the rest work exactly the same
+If you are using the **Facebook App** on your mobile phone, go to your profile and select Edit Public Details. Then spend your time going through each field. We used Education as an example, but all the rest work exactly the same
 
 ![Profile Settings 4](../../images/Facebook/fb-profile-4.gif?raw=true)
