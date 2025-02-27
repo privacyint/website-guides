@@ -1,18 +1,27 @@
+*Currently visible at:https://privacyinternational.org/node/4337*
+
+
 # Title  #
-Install an ad-blocker on Firefox - uBlock Origin
+Block Ads on Firefox
 
 # Summary #
-uBlock Origin is a general purpose blocker for web browsers that blocks ads, trackers, and malware sites by default. In this guide, you'll learn how to install uBlock Origin on Firefox.
+Ad Blockers prevent your browser from connecting to servers that serve you ads, which can minimise the amount of data you share with third parties. In this guide, you'll learn how to install an Ad Blocker on Firefox.
 
 # Body #
-uBlock Origin (not to be confused with uBlock which is a different project) is an independent and open-source ad blocker relying on a curated list of servers. It prevents your browser from connecting to these servers to serve you ads. 
+Ad Blockers aim to prevent your browser from connecting to Ad servers and loading ads on webpages you are visiting. They can also block some parts of webpages that likely display ads. Blocking ads and connections to ad servers can help minimise the amount of data that the Adtech industry collects about you for targeted advertising. 
+    
+> Warning: Using an ad-blocker may cause some pages to display incorrectly or not at all. This guide also shows how you can modify the Ad Blocker's behaviour to allow some connections (see section on Disabling).
+    
+> Note: There are many ad blockers available. At PI we value open source and open-lists ad blockers as they are configurable and auditable. (see section on Selection on why these characteristics matter)
 
-> Note: There are many ad blockers on the market and you can test alternatives. By using an independent, open-source and free ad blocker, you are more likely to avoid products with conflicts of interest, spywares or blockers with "acceptable ads" programs. In theory, any ad blockers with open blacklisting and whitelisting that the user can edit should be able to offer similar results 
+uBlock Origin (not to be confused with uBlock which is a different project) is one example of an independent, [open-source][2] and configurable Ad Blocker relying on open lists of ad servers. 
 
-> **Warning**: Using an ad-blocker may cause some pages to display incorrectly or not at all. To prevent this behaviour, we show how to disable the extension in such cases.
-
-### Installation ###
+### Install ###
 Like any other add-on, install uBlock Origin by visiting the [Mozilla Firefox Add-ons page][1] and clicking **Add to Firefox** (Fig. 1) and then clicking on **Add** when prompted (Fig. 2).
+
+[1]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
+[2]: https://github.com/gorhill/uBlock/wiki
 
 ![Fig. 1: Download uBlock Origin](../../images/Firefox/ublock-add.png?raw=true)
 
@@ -26,14 +35,22 @@ When you visit a website, uBlock Origin automatically blocks malicious trackers 
 
 ![Fig. 4: uBlock Origin pop-up interface](../../images/Firefox/ublock-test.png?raw=true)
 
-### Whitelisting
-In some case, a webpage might malfunction or refuse to load if uBlock Origin is enabled. In this case, you can disable uBlock Origin for a given website by clicking on the icon and then click on the large power button (Fig. 4). Simply reload the page either by clicking the reload icon on uBlock Origin (Fig. 5) or by refreshing the page in your browser.
+### Disabling
+Effective ad blocking depends on knowing the lists of servers that serve ads. In some cases, a webpage might malfunction or refuse to load if an Ad blocker is enabled. You can change the Ad Blocker's behaviour to allow select connections and exceptions. 
 
-Note that using Ctrl+click will disable temporarily uBlock Origin instead of disabling it on this site entirely and indefinitely.
+You can disable uBlock Origin for a given website by clicking on the icon and then click on the large power button (Fig. 4). Simply reload the page either by clicking the reload icon on uBlock Origin (Fig. 5) or by refreshing the page in your browser.
+    
+![Fig. 5: uBlock Origin disabling blocking for a domain](../../images/Firefox/ublock-whitelist.png?raw=true)
 
-![Fig. 5: uBlock Origin whitelist a domain](../../images/Firefox/ublock-whitelist.png?raw=true)
+If you are interested in more advanced use, visit the [official documentation page][2].
 
-uBlock Origin is a powerful, highly configurable tool to block any network request on your browser. If you are interested in more advanced usage, visit the [official documentation page][2].
+### Selecting Ad Blockers
+
+At PI we believe Ad Blockers should be open source and use open lists. 
+
+By using an independent, open-source and unencumbered/free ad blocker, you are more likely to avoid products with conflicts of interest, spyware or blockers with “acceptable ads” programs. 
+
+With open source and open lists you can inspect what the adblocker is doing, what will and won't be blocked. Open lists are often community-driven and updated frequently. 
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 
