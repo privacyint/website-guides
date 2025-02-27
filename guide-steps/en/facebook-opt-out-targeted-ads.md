@@ -1,11 +1,13 @@
-*Currently visible at:https://privacyinternational.org/node/3744*
+*Currently visible at:https://privacyinternational.org/node/3740*
 
 # Title  #
 How to minimise targeted ads on social media: Facebook
 
 # Body #
 
-Facebook has been in the news over the past few years for failing to protect users’ data (here are [some examples](https://privacyinternational.org/corporateabusetimeline?tid=440)). Facebook can be an important tool in facilitating democracy and provides the potential to spread messages and ideas around the globe. For these reasons, it’s not possible for some people to simply stop using Facebook. However, the company continues to struggle to prove itself worthy of our trust and capable of complying modern privacy laws and expectations.
+Facebook can be an important tool for individuals to spread messages and ideas around the globe. For these reasons, it’s not possible for some people to simply stop using Facebook. However, we continue to be very concerned about the company’s conduct.
+
+This guide shows you how you can minimise the usage of your data for advertising recommendations on Facebook.
 
 1. Go to facebook.com and log in
 
