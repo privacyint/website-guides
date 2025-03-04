@@ -3,8 +3,13 @@
 # Title  #
 How to minimise targeted ads on social media: Google & Youtube
 
+# Summary #
+
+This guide takes you through a series of settings you can tweak to minimise how your data impacts the targeted adverts you see through Google and Youtube.
+
 # Body #
-Google dominates online search. The company also owns YouTube and Android, with the latter [reportedly](https://www.macworld.co.uk/feature/iphone/iphone-vs-android-market-share-3691861/) making up nearly 75% of the global smart phone market share. PI has [written](/node/2293) about the numerous problems that come from corporate concentration and the use of data by monopolistic companies, and there are numerous [examples](https://privacyinternational.org/corporateabusetimeline?tid=442) of Google's failure to protect its users.
+
+Google is enormous and is expert at accumulating data. Its main source of revenue is advertising. The company dominates search, has a dominant web browser Chrome, owns YouTube (and many other companies), is the designer/develop of Android, the operating system that runs on nearly 75% of global smart phones.
 
 Below is a set of steps you can take if you wish to minimise ad targeting when using Google.
 
