@@ -5,16 +5,16 @@
 Install a cookie manager on Firefox
 
 # Summary #
-Browser cookies can be useful but are often abused to track your online activity across the web. In this guide you’ll learn how to install Cookie AutoDelete, a web-browser add-on that automatically deletes unused cookies.
+Browser cookies can be useful but are often abused to track your online activity across the web. In this guide you’ll learn how to manage your cookies in an automated way.
 
 # Body #
 Browser cookies allow websites to preserve session data such as your login credentials or items in your shopping basket so that you don't lose information when you close the page. Unfortunately, they are often abused to track your online activity across the web. Using a dedicated add-on, you can clean your cookies regularly to ensure that no unwanted cookie is kept in your browser, limiting the efficiency of online trackers.
 
 This guide explain how to install Cookie AutoDelete, an [open-source](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) web-browser add-on that helps you manage your cookies in automated ways.
 
-> **Warning**: Cookies are widely used on the web and this extension might break some website features. Be sure to understand what it does and how to disable it before installing it!
+> **Note**: There are likely other add-ons or apps available and you can test alternatives. At PI we believe add-ons/apps should be open source as they can be audited. By using an independent, open-source and unencumbered/free add-on/app, you are more likely to avoid products with conflicts of interest, spyware, data-leakage, or blockers with “acceptable ads” programs. Here we show the set-up and settings of one such add-on/app that we’ve used at PI; others are likely similar with varying levels of configurability.
 
-> Note: There are likely other add-ons or apps available and you can test alternatives. At PI we believe add-ons/apps should be open source as they can be audited. By using an independent, open-source and unencumbered/free add-on/app, you are more likely to avoid products with conflicts of interest, spyware, data-leakage, or blockers with “acceptable ads” programs. Here we show the set-up and settings of one such add-on/app that we’ve used at PI; others are likely similar with varying levels of configurability.
+> **Warning**: Cookies are widely used on the web and this extension might break some website features. Be sure to understand what it does and how to disable it before installing it!
 
 ### Installation ###
 
@@ -56,4 +56,3 @@ You can also enable First Party Isolation so that cookies from different domains
 [2]: http://privacyinternational.org/guide-step/4327/firefox-isolating-your-online-activity-multi-account-containers
 
 [3]: http://privacyinternational.org/guide-step/4330/firefox-adjusting-settings-enhance-your-online-privacy
-
