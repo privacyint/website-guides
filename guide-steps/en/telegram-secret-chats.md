@@ -3,7 +3,7 @@ Telegram - Secret chats (end-to-end encrypted)
 
 # Summary
 
-This guide explains how to setup and use secret chats in Telegram so that your chats are end to end encrypted. 
+This guide explains how to setup and use Telegram's end to end encrypted chats ("Secret chats"). 
 
 # Body 
 
