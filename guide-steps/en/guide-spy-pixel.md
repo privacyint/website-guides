@@ -1,3 +1,5 @@
+**Currently visible at: https://privacyinternational.org/node/UPDATENODE**
+
 # Title
 A guide to blocking email tracking pixels
 
@@ -7,9 +9,9 @@ Tracking pixels are tiny, typically 1x1 pixels, images embedded in email message
 # Body
 Tracking pixels are a common online tracking technique used in email messages. They consist in embedding a unique, disguised or invisible, image in an email message to gather data about your interactions with it. 
 
-When you open a message containing a tracking pixel, your email client makes a request to load the image so that it can display it to you: in practice, this request acts as a notification for the server. Since only you are served this exact pixel, when your email client requests it to display it, the server will know that you opened the message. This allows advertisers and other online entities to collect data on your email activity without your approval. 
+When you open a message containing a tracking pixel, your email client makes a request to load the image so that it can display it to you: in practice, this request acts as a notification to the server. Since only you are served this exact pixel, when your email client requests it to display it, the server will know that you opened the message. This allows third parties to collect data on your email activity without your approval. 
 
-The **only** way to prevent tracking pixels from being effective is by not loading them. This guide explains how to configure several mainstream email clients to disable remote image loading as a way to mitigate the privacy risks of tracking pixels.
+The way to prevent tracking pixels from being effective is simply by not loading them. This guide explains how to configure several mainstream email clients to disable remote image loading as a way to mitigate the privacy risks of tracking pixels.
 
 ### Mozilla Thunderbird
 
@@ -27,11 +29,7 @@ If you wish to display remote content in a particular message, or you wish to wh
 
 ### Gmail web client
 
-If you use the Gmail web client, you can disable remote content loading by going into your inbox settings. To do so, click the three vertical icons on the top right corner and then click on **Manage inbox settings**.
-
-![Gmail inbox preferences.](../../images/Tracking-Pixels/gmail-settings.png?raw=true)
-
-Then, go to the **General** tab and scroll down until you find the **Images** section, and select the **Ask before displaying external images** option.
+If you use the Gmail web client, you can disable remote content loading by going into your inbox settings. To do so, click the three vertical icons on the top right corner and then click on **Manage inbox settings**. Then, go to the **General** tab and scroll down until you find the **Images** section, and select the **Ask before displaying external images** option.
 
 ![Gmail general settings.](../../images/Tracking-Pixels/gmail-images.png?raw=true)
 
@@ -52,4 +50,4 @@ In this screen, you can toggle the option **Block All Remote Content** to avoid 
 ![Mail privacy protection settings in iOS.](../../images/Tracking-Pixels/mail-images.png?raw=true)
 
 
-In general, most email clients allow you to prevent loading of remote content. If you use an email client that is not listed here, refer to its user manual to learn how to do so. Typically, this option for disabling remote content is found under the general or privacy settings. Note that, since this is specific to a given email client, you should disable this option across all mail clients you use (e.g. on desktop, mobile, and web).
+In general, most email clients allow you to prevent loading of remote content. If you use an email client that is not listed here, refer to its user manual to learn how to do so. Typically, this option for disabling remote content is found under the general or privacy settings. Note that, since this is specific to a given email client, you should disable this option across all mail clients you use simultaneously (e.g. on desktop, mobile, and web).
