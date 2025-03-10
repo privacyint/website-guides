@@ -14,9 +14,6 @@ It’s important for you to be able to understand the types of data that apps li
 
 When customers use the Uber app, the details of each trip are stored. If this data is accessed by law enforcement agencies without any limit they will have knowledge of ALL addresses that the person has recently visited by Uber. With no limit on what they can obtain, they can collect and store data that is irrelevant to an investigation.
 
-Cellebrite states that their [UFED Cloud Analyzer 7.6 supports](https://www.cellebrite.com/en/productupdates/retrieve-digital-evidence-from-drones-routers-the-uber-app-mobile-web-browsers-and-more/) extraction from the Uber app and is able to
-> "gain passenger and driver profile data, pick-up and drop-off location logs, and the last 4 digits of a user’s credit card...retrieval of .... Credit card details that new users are required to fill in on their first login. As the passenger chooses their pickup location, desired destination and available driver, each journey is well documented. Recorded routes are aggregated and then categorized by favourite destinations. The driver’s information includes the name and photo identification."
-
 Your location and travel data can be very revealing. For example, visits to religious buildings can indicate your religion to government agencies and potentially lead to you being profiled. 
 
 In the context of the Coronavirus pandemic, the data obtained from Uber may be used to track if you have been breaking social distancing measures. If you have taken an Uber to a GP/hospital, inferences can be drawn regarding your health. 
