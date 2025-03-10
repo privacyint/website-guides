@@ -28,7 +28,7 @@ Alternatively:
 
 ### Contacts
 
-Another thing Telegram will ask for is access to your contacts to find people using Telegram in your contact list. You may initially want to do this, but if you do that Telegram will keep a record of all the phone numbers in your contacts. If any of these people were to install Telegram in the future you would receive a notification and the person would know that you use Telegram. We recommend doing this only if you know and trust the contacts in your phone. If you refuse you will still be able to contact people using their handle or phone number. You also have the option to delete synced contacts from the app. This permission can be changed at any time in the settings of your phone!
+Another thing Telegram will ask for is access to your contacts to find people using Telegram in your contact list. You may initially want to do this, but if you do that Telegram will keep a record of all the phone numbers in your contacts. If any of these people were to install Telegram in the future you would receive a notification and the person would know that you use Telegram. If you refuse you will still be able to contact people using their handle or phone number. You also have the option to delete synced contacts from the app. This permission can be changed at any time in the settings of your phone.
 
 ### Sync contacts
 
