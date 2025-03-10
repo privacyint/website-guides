@@ -32,7 +32,7 @@ We recommend not using a real photo of you, and setting the visibility to `My co
 
 ### Two-step verification
 
-Adding a cloud password adds an extra layer of security when logging in to your account. This will prevent anyone that has access to your SIM card from accessing your account without your knowledge. Tap **Settings > Privacy and Security > Two steps verification**. You will be required to enter this password whenever you login a new device. Make sure you use a unique password! 
+Adding a cloud password adds an extra layer of security when logging in to your account. This will prevent anyone that has access to your SIM card from accessing your account without your knowledge. Tap **Settings > Privacy and Security > Two-step verification**. You will be required to enter this password whenever you login a new device. Make sure you use a unique password! 
 
 ![Two-Step verification](../../images/Telegram/tg_two_step.png?raw=true)
 
