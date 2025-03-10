@@ -24,4 +24,4 @@ To access this setting:
 
 - If a stranger starts a conversation with you claiming to be someone you know, try to ensure that they are who they claim they are **before** providing any information about yourself.
 - Joining a group will make your phone number visible to all group members. Before joining a group we recommend you to be careful as to who might access this information.
-- Messaging apps such as Telegram are often use to send virus through files and links. We recommend you to be very vigilant before downloading anything sent to you on Telegram (such as a file or document that requires to be open on your phone) or clicking links sent by people you don't trust.
+- Messaging apps such as Telegram can be used to send malicious code and links. We caution you against engaging with unexpected contacts, and any files and links sent to you. This includes considering carefully whether to download or open any files over messaging apps, or clicking on links.
