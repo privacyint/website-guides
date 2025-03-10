@@ -4,14 +4,15 @@
 A guide to getting your data from Telegram
 
 # Summary #
-Your Telegram app stores a lot of information about you in the cloud. Here we show you how to gain access to it.
+Your Telegram app stores a lot of information about you and your interactions with it over time. This guide will show you how to access it.
 
 # Body #
-It's important to understand how much of your data is stored in the cloud. Why? Because our [research](https://privacyinternational.org/long-read/3300/cloud-extraction-technology-secret-tech-lets-government-agencies-collect-masses-data) exposes that law enforcement can use cloud extraction techniques to obtain vast quantities of your data. These techniques means law enforcement can circumvent asking companies like Telegram for your data and avoid getting a warrant. So the use of this technology means there is no limit on what they can obtain, no transparency and no clear, accessible or effective legal safeguards to protect your data from risk of abuse and misuse.
 
-Tools such as the Oxygen [Forensic Cloud Extractor](https://www.oxygen-forensic.com/uploads/press_kit/OFDv141ReleaseNotes.pdf) can be used to acquire “data from the most popular cloud services” including WhatsApp, iCloud, Google, Microsoft, Mi Cloud, Huawei, Samsung, E-Mail (IMAP) Servers and more - “also various social media services are supported to include but not limited to: Facebook, Twitter, Instagram, and many more.”
+The information you (consciously or not) share with Telegram can be very revealing. It can also be (mis)interpreted by government agencies and used to profile individuals. Once installed on a device, depending on your settings, the Telegram app may have access to information such as your location, contact information and media stored on the same device. All of this data can be potentially be accessed remotely using cloud extraction technology.
 
-The information you share on Telegram can be very revealing. It can also be misinterpreted by law enforcement agencies and used to profile individuals. Once installed on a device, depending on your settings, the Twitter app has access to information such as your location, contact information and media stored on the same device. All of this data can be accessed remotely using cloud extraction technology.
+Your Telegram app generates a lot of data that can also be stored on your device and elsewhere. It’s important for you to be able to understand the types of data that apps like Telegram generate. Government agencies may seek access to this data through at least two routes: they could directly access your device and then analyse the data stored in the app and data your app shares and can access on Telegram’s servers (and potentially data backed-up to your cloud provider) using ‘cloud extraction’ techniques, or they may request your data from Telegram directly.
+
+Tools such as the Oxygen [Forensic Cloud Extractor](https://web.archive.org/web/20230314212738/https://www.oxygen-forensic.com/uploads/press_kit/OFDv141ReleaseNotes.pdf) can be used to acquire “data from the most popular cloud services” including [WhatsApp, iCloud, Google, Microsoft, Mi Cloud, Huawei, Samsung, E-Mail (IMAP) Servers and more](https://oxygenforensics.com/en/products/oxygen-forensic-detective/) - “also various social media services are supported to include but not limited to: Facebook, Twitter, Instagram, and many more.”
 
 **How to find out what data Telegram stores about you**
 
