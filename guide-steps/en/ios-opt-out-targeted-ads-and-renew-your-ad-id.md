@@ -11,12 +11,12 @@ Until recently, advertisers have been able to track users across their iPhones a
 ### Stop cross-app tracking on iOS ###
 [We have written before][1] about the risks that targeted advertisements pose in regards to your digital privacy.
 
-If you want to opt-out of cross-app tracking, the first step is to go to **Settings > Privacy > Tracking**. Here, make sure to turn **Allow Apps to Request to Track** OFF (Fig.1). This is your hands-off-my-data choice.
+If you want to opt-out of cross-app tracking, the first step is to go to **Settings > Privacy & Security > Tracking**. Here, make sure to turn **Allow Apps to Request to Track** OFF (Fig.1). This is your hands-off-my-data choice.
 
 Tapping this tells the system not to share your Identifier for Advertisers (IDFA) in between apps. Apps used to be able to use this identifier to gather information on you, including the apps you’ve downloaded, your search history, your purchase history, your recent locations and more. This setting blocks access to your IDFA and tells apps you also don't want to be tracked using other any other methods.
 
 ![Fig. 1: Stop cross-app tracking on iOS](../../images/ios/cross-tracking.jpg?raw=true)
 
-If you decide to keep **Allow Apps to Request to Track** turned ON, when installing a new app you will be prompted about whether or not you want that app to be able to track your activity across other companies and websites. So even in that case, you are still offered granular app by app control. You can always go back and review which apps you've given tracking permission to, at the bottom of the **Settings > Privacy > Tracking** menu.
+If you decide to keep **Allow Apps to Request to Track** turned ON, when installing a new app you will be prompted about whether or not you want that app to be able to track your activity across other companies and websites. So even in that case, you are still offered granular app by app control. You can always go back and review which apps you've given tracking permission to, at the bottom of the **Settings > Privacy & Security > Tracking** menu.
 
 [1]: https://privacyinternational.org/explainer/2976/how-do-tracking-companies-know-what-you-did-last-summer
