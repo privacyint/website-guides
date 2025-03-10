@@ -1,28 +1,30 @@
+**Currently visible at: https://privacyinternational.org/node/UPDATENODE**
+
 # Title #
 A guide to keeping your mobile phone's location history private
 
 # Summary #
-Carrying your phone with an always-on GPS chip means mobile devices can track your every move and build a profile based on your location history. In this guide, we'll take you through steps you can take to keep your location history private. 
+Carrying a phone with a GPS chip turned on means that location history is potentially being recorded. In this guide, we'll take you through steps you can take to minimise how much you share your location history with your phone manufacturer and other parties. 
 
 # Body #
 In your day-to-day life, your smartphone silently captures and stores a digital footprint of your whereabouts by keeping a *location history*: this history is then used to enhance your mobile experience, such as by aiding in navigation and customizing app experiences according to your location habits. 
 
 Yet, it's essential to recognize the potential risks tied to this seemingly innocuous practice. Understanding how your location data is handled becomes vital, as it can impact your privacy in ways you might not have considered. Particularly, you should be aware of the following concerns:
 
-- **Cloud vulnerabilities**: Storing location history in the cloud poses a potential risk if the cloud service is compromised (e.g. a data breach). Unauthorized access to cloud-stored location data can reveal your detailed movement patterns, potentially leading to stalking, harassment, or other malicious activities.
+- **Cloud vulnerabilities**: Data stored by your Operating System or cloud provider: It’s too easy for your location data to be leaked, shared, or ‘backed-up’ by companies. When your location history is stored by a company, it poses a potential risk if the service is compromised (e.g. a data breach). Unauthorized access to this location data can reveal your detailed movement patterns, potentially leading to stalking, harassment, or other malicious activities.
 
 - **Local device compromise**: Even if your location history is kept on your device only, it still poses a privacy risk. If your mobile device is compromised, whether through theft, hacking, or taken by force (e.g. at border control), an attacker can retrieve your stored location history. This provides them with a detailed record of your past movements and most frequently visited places, which may then be used against you.
 
-- **Third-party app misuse**: Some third-party apps may request access to location data for seemingly innocuous purposes but can misuse this information for targeted advertising, profiling, or selling data to third parties without the user's explicit consent. In these cases, typically, the operating system provides a way for you to limit app access to your location data.
+- **Third-party app misuse**: Some third-party apps may request access to location data for seemingly innocuous purposes but can misuse this information for targeted advertising, profiling, or sharing or selling your data to third parties without the user's explicit consent. In these cases, typically, the operating system provides a way for you to limit app access to your location data.
 
-- **Government surveillance**: In regions where government surveillance is a concern, location history can be used to track individuals' movements, potentially infringing on civil liberties and posing risks to personal safety.
+- **Government surveillance**: Government agencies may seek or demand access to your location history to track your movements, infringing on human rights and posing risks to personal safety. To get access, governments could demand access to your device and extract location data stored there; or demand data from app or mobile or operating system providers, purchase data third parties like data brokers; or even generate an app of their own that then gains access to your location.
 
 - **Data aggregation and inference**: Aggregating location data from various sources can enable the creation of a detailed user profile, allowing companies or adversaries to infer sensitive information about an individual's habits, preferences, and lifestyle, leading to potential privacy violations.
 
 As location tracking becomes increasingly integrated into our digital lives, understanding and managing the associated privacy risks are crucial for protecting your privacy. The rest of this guide explains how to disable this feature on both Android and iOS.
 
 ### Android
-If you have a Google account associated with your Android device, chances are your location history is being stored. Recently, Google decided it will soon [stop storing your location stored on the cloud][1]: however, it is still stored on your device, posing a potential privacy risk.
+If you have a Google account associated with your Android device, chances are your location history is being stored. Recently, Google decided it will soon [stop storing your location history on the cloud][1]: however, it is still stored on your device, posing a potential privacy risk.
 
 To disable location history, go to your Google account settings. You can do so by visting [this link][2], opening the settings app on your device, or using the Google app. In the account settings, find the **Data & privacy** tab. 
 
