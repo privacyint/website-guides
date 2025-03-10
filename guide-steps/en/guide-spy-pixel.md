@@ -4,7 +4,7 @@
 A guide to blocking email tracking pixels
 
 # Summary
-Tracking pixels are tiny, typically 1x1 pixels, images embedded in email messages that allow the collection of user data on email interactions, such as if a message has been opened or not, without the user's knowledge or consent. This practice can compromise your digital privacy by enabling the creation of a detailed user profile used for targeted advertising, allowing for intrusive and personalized data collection. In this guide you will learn how to prevent tracking pixels from phoning home and reporting your activity in several email clients.
+Tracking pixels are tiny, typically 1x1 pixels, images embedded in email messages that allow the collection of user data on email interactions, such as if a message has been opened or not, without the user's knowledge or consent. In this guide you will learn how to prevent tracking pixels from phoning home and reporting your activity in several email clients.
 
 # Body
 Tracking pixels are a common online tracking technique used in email messages. They consist in embedding a unique, disguised or invisible, image in an email message to gather data about your interactions with it. 
