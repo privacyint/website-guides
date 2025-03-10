@@ -7,16 +7,12 @@ A guide to getting your data from WhatsApp
 Your WhatsApp stores a lot of information about you in the cloud. Here we show you how you can gain access to it.
 
 # Body #
-It's important to understand how much of your data is stored in the cloud. Why? Because our [research](https://privacyinternational.org/long-read/3300/cloud-extraction-technology-secret-tech-lets-government-agencies-collect-masses-data) exposes that law enforcement can use cloud extraction techniques to obtain vast quantities of your data. These techniques means law enforcement can circumvent asking companies like WhatsApp for your data and avoid getting a warrant. So the use of this technology means there is no limit on what they can obtain, no transparency and no clear, accessible or effective legal safeguards to protect your data from risk of abuse and misuse.
-
-Tools such as the Oxygen [Forensic Cloud Extractor](https://www.oxygen-forensic.com/uploads/press_kit/OFDv141ReleaseNotes.pdf) can be used to acquire “data from the most popular cloud services” including WhatsApp, iCloud, Google, Microsoft, Mi Cloud, Huawei, Samsung, E-Mail (IMAP) Servers and more - “also various social media services are supported to include but not limited to: Facebook, Twitter, Instagram, and many more.”
 
 The information you share on WhatsApp can be very revealing. Once installed on a device, the app potentially has access to information such as your location, contact information, and media stored on the same device.
 
-Even if you use end to end encrypted messaging, if you back up your WhatsApp messages to the cloud, they will be accessible to [law enforcement](https://privacyinternational.org/long-read/3300/cloud-extraction-technology-secret-tech-lets-government-agencies-collect-masses-data).
+Your WhatsApp app generates a lot of data that can also be stored on your device and elsewhere. It’s important for you to be able to understand the types of data that apps like WhatsApp generate. Government agencies may seek access to this data through at least two routes: they could directly access your device and then analyse the data stored in the app and data your app shares and can access on WhatsApp’s servers (and potentially data backed-up to your cloud provider) using ‘cloud extraction’ techniques, or they may request your data from WhatsApp directly. Tools such as the Oxygen [Forensic Cloud Extractor](https://www.oxygen-forensic.com/uploads/press_kit/OFDv141ReleaseNotes.pdf) can be used to acquire “data from the most popular cloud services” including WhatsApp, iCloud, Google, Microsoft, Mi Cloud, Huawei, Samsung, E-Mail (IMAP) Servers and more - “also various social media services are supported to include but not limited to: Facebook, Twitter, Instagram, and many more.”
 
-In May 2019, it was discovered that spyware called Pegasus was used to target [journalists and human rights advocates](https://privacyinternational.org/case-study/3357/it-facilitates-our-access-justice). This spyware, developed by the Israeli based NSO Group targeted WhatsApp users.
-As a result, PI is providing this guide to enable WhatsApp users to find out what data the app has stored about them. Also we provide step by step instructions as to how that data can be limited. 
+The information you share on WhatsApp can be very revealing. Once installed on a device, the app potentially has access to information such as your location, contact information, and media stored on the same device.
 
 **How to find out what data WhatsApp stores about you**
 
@@ -42,13 +38,13 @@ e) Once the report is available to download, you'll receive a WhatsApp notificat
 
 The request account info screen shown in part (c) above will tell you the amount of time you have to download the report before it’s deleted from WhatsApp's servers.
 
-Remember to be careful about where you store, send or upload your report as it contains your personal information.
+Remember to be careful about where you store, send or upload your report as it contains your personal data.
 
 **Limiting data WhatsApp collects about you**
 
 WhatsApp has a feature that allows you to share your live location with other WhatsApp users. This feature may be set on and off as per the user's preference. 
 
-It is important to remember that leaving this setting on means that WhatsApp will have access to your location information at all times.
+It is good practice to turn this off – particularly if you don’t intend to share location with contacts – as it’s not always clear if and when and what granularity of location data is shared with an app.
 
 Follow the steps below to turn off live location for WhatsApp.
 
