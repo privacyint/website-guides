@@ -2,7 +2,11 @@
 
 # Viber - Privacy Settings
 
+#Summary
+
 In this guide we will cover the privacy settings that are available on Viber, namely what information you share with other users and third parties.
+
+# Body
 
 To access the settings discussed here, on the Viber app:
 
@@ -13,11 +17,11 @@ To access the settings discussed here, on the Viber app:
 
 #### Share 'Online' Status and Send 'Seen' Status
 
-Share 'Online' Status lets you chose wether you want your contacts to know if you are online at a given moment.
+Share 'Online' Status lets you chose whether you want your contacts to know if you are online at a given moment.
 
 Send 'Seen' Status refers to the feature that allow the person you communicate with to see when you were last inside the app.
 
-These settings can unintentionaly reveal that you had access to your phone and internet at the certain time and could be used against you. We recommend disabling these features.
+These settings can unintentionally reveal that you had access to your phone and internet at the certain time and could be used against you. We recommend disabling these features.
 
 
 #### Show Your Photo
@@ -38,4 +42,4 @@ The settings under 'Personal Data' allow you to control how Viber and third part
 
 ![Viber Personal Data](../../images/Viber/viber-privacy-3.png?raw=true)
 
-We recommend disabling all of these features. They do not improve your user experience of the app and this way your digital footprint is reduced. If you are curious to see what data Viber has collected on you you can **Request your data**. After you have disabled these settings it's best to also **Delete Your Data**, so that you make sure you delete any data Viber had collected on you before you took action.
+We recommend disabling all of these features. They do not improve your user experience of the app and this way your digital footprint is reduced. If you are curious to see what data Viber has collected on you, you can **Request your data**. After you have disabled these settings it's best to also **Delete Your Data**, so that you make sure you delete any data Viber had collected on you before you took action.
