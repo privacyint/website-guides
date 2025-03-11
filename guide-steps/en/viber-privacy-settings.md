@@ -1,8 +1,10 @@
 *Currently visible at:https://privacyinternational.org/node/4088*
 
-# Viber - Privacy Settings
+# Title
 
-#Summary
+Viber - Privacy Settings
+
+# Summary
 
 In this guide we will cover the privacy settings that are available on Viber, namely what information you share with other users and third parties.
 
