@@ -2,7 +2,7 @@
 
 We suggest using Two-Factor authentication, as it provides an extra security step in order to access your account. This way, besides asking for your username and password, Threads will verify your identity by sending a unique code to your device.
 
-This can be done by SMS (text message) or using an authentication app suggested by Threads. Let's go through both.
+This can be done by SMS (text message) or using an authentication app suggested by Threads. You can also set up your own password manager and authenticator app to do this. Check our [guide on password managers to learn more](https://privacyinternational.org/guide-step/5538/guide-password-managers). 
 
 **On mobile app:**
 
