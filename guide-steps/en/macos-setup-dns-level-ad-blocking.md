@@ -6,8 +6,16 @@ In this guide you'll learn how to manually insert DNS entries for certain types 
 
 # Body #
 
+DNS level content blocking prevents your device from connecting to known domains that will serve you unwanted ads and track you across all different apps and browsers on your device.
+
+DNS or 'Domain Name System' is basically the 'phone book for the internet'. On the internet, all your requests to access websites are routed to IP addresses. Since IP addresses are sets of numbers and hard to remember, we usually address hosts by their much easier to remember host-name (e.g. privacyinternational.org).
+As such, and because IP addresses can change, when your computer wants to access a server by its host-name, it asks a DNS server what the IP address for that host-name is at that moment, just like consulting a phone book, so that it can route the request correctly.
+In this sense, DNS level content blocking makes use of known lists of unwanted servers - our blocklists - and purposefully give the ‘wrong address’ for domains that are on the blocklist so that your device can’t/won’t connect to those servers when it tries to.
+
+The gold standard of protection is to set up your own pi-hole (and we have [a guide on that too](https://privacyinternational.org/guide-step/4341/raspberry-pi-setup-and-run-pi-hole)). On mobile devices, this is harder and while apps are available, their business models are still developing.
+
 ### Setup ###
-On the Internet, requests to access websites are routed to IP addresses. Since IP addresses are hard to remember, we usually address hosts by their host-name (e.g. privacyinternational.org). As such, and because IP addresses can change frequently, when your computer wants to access a server by its host-name, it asks a DNS server what the IP address for that host-name is, so that it can route the request. Typically, your operating system first checks your system's *hosts file* for an address to the host-name. If the host-name is not present in the file, the operating system asks an external DNS server to resolve it.
+
 
 To setup DNS-level ad-blocking, we will add a list of known ad-servers and trackers to the hosts file and point them to an empty address (`0.0.0.0`), thus ensuring the requests are blocked. The lists of ad-server and tracker hosts are provided and maintained by the online community, and you can pick several lists to block different types of services (e.g. ads, trackers, fake news, social media, etc.). In this guide, we suggest you use the [unified hosts list][1] from Steven Black to block ads and trackers as it is updated frequently.
 
