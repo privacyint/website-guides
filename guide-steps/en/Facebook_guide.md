@@ -1,7 +1,7 @@
 *Currently visible at: https://privacyinternational.org/node/UPDATENODE*
 
 # Title
-Facebook guide to settings, privacy and good practises
+Guide on Facebook settings and good practises
 
 # Summary
 This guide covers settings you can tweak on Facebook to have greater control over your data as well as good practises to keep in mind while navigating the platform.
