@@ -8,7 +8,7 @@ This guide covers settings you can tweak on Instagram to have greater control ov
 
 # Body
 
-Instagram (part of Meta) can be an important tool for individuals to spread messages and ideas around the globe. For these reasons, it’s not possible for some people to simply stop using Facebook. However, we continue to be very concerned about the company’s conduct.
+Instagram (part of Meta) can be an important tool for individuals to spread messages and ideas around the globe. For these reasons, it’s not possible for some people to simply stop using Instagram. However, we continue to be very concerned about the company’s conduct.
 
 This guide includes:
 * Making your account private
