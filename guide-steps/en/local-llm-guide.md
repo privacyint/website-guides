@@ -1,5 +1,5 @@
 # Title
-Guide for using an AI chatbot that doesn't share any data (Jan)
+Guide to using an AI chatbot that runs locally (and doesn't share your data)
 # Summary
 This guide explains how to run Jan, a local AI chatbot that can run offline to have complete control over your data.
 
