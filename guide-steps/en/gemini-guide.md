@@ -8,7 +8,7 @@ This guide covers settings you can tweak on Gemini to have greater control over 
 
 Google's Gemini, like other AI chatbots, is increasingly used to conduct research, help on projects or provide feedback. While we are concerned about the risks these tools pose to privacy and security, we understand they can be useful tools for some people.
 
-This guide includes steaps to limit the risks of using this tool such as:
+This guide includes steps to limit the risks of using this tool such as:
 - Two-factor authentication
 - Ensuring your chats are private
 - Review third party apps Gemini can access
