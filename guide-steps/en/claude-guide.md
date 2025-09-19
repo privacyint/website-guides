@@ -1,18 +1,20 @@
 # Title
-Guide for Claude and good practices
+Claude: Settings and good practices
 # Summary
 This guide covers settings you can tweak on Claude to have greater control over your data.
 
 # Body
 
-Claud, like other AI chatbots, is increasingly used to conduct research, help on projects or provide feedback. While we are concerned about the risks these tools pose to privacy and security, we understand they can be useful tools for some people.
+Claude, like other AI chatbots, is increasingly used to conduct research, help on projects or provide feedback. While we are concerned about the risks these tools pose to privacy and security, we understand they can be useful tools for some people.
 
-To limit the risks, this guide includes steps to:
+This guide includes steps to limit the risks of using this tool such as:
+
 - Ensuring your chats are private
-- Review third party apps Claude can access
-- Prevent usage of your data to train the model
-- Delete chats,
-####ensuring your chats are private
+- Reviewing third party apps Claude can access
+- Preventing usage of your data to train the model
+- Deleting chats
+
+#### Ensuring your chats are private
 
 Claude allows you to share conversations via a URL. While in theory only people with the link can read the conversation, it's not impossible for this link to end up online and be indexed. Before sharing a link to a conversation, you should ensure it does not contain personal or sensitive information that you don't want to share.
 
@@ -21,13 +23,14 @@ Claude allows you to share conversations via a URL. While in theory only people 
 To manage your previously shared chats: go to the settings by clicking on your profile in the bottom left corner and clicking **Settings**. Navigate to **Privacy** and click **Manage** next to **Shared links**. click the **unshare** button for any chat you don't want to be public anymore. 
 
 ![Claude shared links screen](../../images/Claude/claude_shared_links.png?raw=true)
+
 #### Review third party apps Claude can access
 
- Claude Pro users can access documents, calendar events and other information from other services such as Github through **connectors**. We have expressed concerns about the [privacy and security risks created by connecting AI chatbots](https://privacyinternational.org/long-read/5555/your-future-ai-assistant-still-needs-earn-your-trust) to other apps as it can be exploited to access personal information. 
+Claude Pro users can access documents, calendar events and other information from other services such as Github through **connectors**. We have expressed concerns about the [privacy and security risks created by connecting AI chatbots](https://privacyinternational.org/long-read/5555/your-future-ai-assistant-still-needs-earn-your-trust) to other apps as it can be exploited to access personal information. 
 
-To limit the risks, you should regularly review what connectors are enabled and disconnect services you don't use. 
+To limit these risks, you should regularly review what connectors are enabled and disconnect services you don't use. 
 
-*Note that this feature is only available in the browser and not in the desktop app, not on mobile*
+*Note that this feature is only available in the browser and not in the desktop app nor on mobile*
 
 Go to the settings by clicking on your profile in the bottom left corner and clicking **Settings**. Navigate to **Connector** and review the apps you are connected to.
 
@@ -43,7 +46,7 @@ Go to your profile by clicking the menu in the top left corner and taping on you
 
 ![Disable improve model on mobile](../../images/Claude/claude_improve_model_mobile.png?raw=true)
 
-**In your browser:**  
+**On your browser:**  
 Go to the settings by clicking on your profile in the bottom left corner and clicking **Settings**. Navigate to **Privacy** and click review at the bottom. Turn off the **You can help improve Claude** setting and click **Not now** to confirm.
 
 ![Disable improve model](../../images/Claude/claude_improve_model.png?raw=true)
